@@ -11,6 +11,7 @@ from urllib.parse import quote, urlsplit
 PLACEHOLDERS = ("start", "end", "country", "cc", "year", "slug")
 ADSENSE_RE = re.compile(r"^ca-pub-\d{10,20}$")
 GOATCOUNTER_RE = re.compile(r"^[a-z0-9-]{1,63}$")
+VERIFY_RE = re.compile(r"[A-Za-z0-9_-]{10,100}")  # search-console verification codes
 CNAME_RE = re.compile(r"^(?=.{1,253}$)([a-z0-9-]{1,63}\.)+[a-z]{2,63}$")
 
 
@@ -64,6 +65,8 @@ class Config:
     tagline: str = "More time with the people you love, from the same days of leave"
     base_url: str = "http://localhost:8000"
     cname: str = ""
+    google_verification: str = ""
+    bing_verification: str = ""
     contact: str = ""
     years_ahead: int = 1
     goatcounter: str = ""
@@ -113,6 +116,11 @@ def load(path: Path) -> Config:
     site, ads, an = raw.get("site", {}), raw.get("ads", {}), raw.get("analytics", {})
     base_url = check_base_url(str(site.get("base_url") or Config.base_url))
     cname = str(site.get("cname") or "").strip().lower()
+    google_v = str(site.get("google_verification") or "").strip()
+    bing_v = str(site.get("bing_verification") or "").strip()
+    for key, val in (("google_verification", google_v), ("bing_verification", bing_v)):
+        if val and not VERIFY_RE.fullmatch(val):
+            raise ConfigError(f"site.{key} must be the content value of the meta tag, got {val!r}")
     if cname and not CNAME_RE.match(cname):
         raise ConfigError(f"site.cname is not a domain: {cname!r}")
     contact = str(site.get("contact") or "").strip()
@@ -165,6 +173,8 @@ def load(path: Path) -> Config:
         tagline=str(site.get("tagline") or Config.tagline),
         base_url=base_url,
         cname=cname,
+        google_verification=google_v,
+        bing_verification=bing_v,
         contact=contact,
         years_ahead=years,
         goatcounter=gc,

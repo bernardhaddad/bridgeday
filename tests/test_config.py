@@ -63,3 +63,19 @@ def test_base_url_is_strict(url):
 def test_affiliate_host_cannot_come_from_data(tmp_path):
     with pytest.raises(ConfigError):
         load(write(tmp_path, '[[affiliate]]\nlabel = "x"\nurl = "https://{country}/p"\n'))
+
+
+def test_search_verification_tags(tmp_path, data_dir):
+    from datetime import date
+
+    from bridgeday.build import build
+
+    cfg = load(write(tmp_path, '[site]\nbing_verification = "FD80ACADDD5990ADCBE29D1B200308BD"\n'))
+    out = tmp_path / "dist"
+    build(cfg, data_dir, out, today=date(2027, 4, 30))
+    home = (out / "index.html").read_text()
+    head = home.split("<body>")[0]
+    assert '<meta name="msvalidate.01" content="FD80ACADDD5990ADCBE29D1B200308BD">' in head
+    assert "google-site-verification" not in home
+    with pytest.raises(ConfigError):
+        load(write(tmp_path, '[site]\ngoogle_verification = "x\\" onload=alert(1)"\n'))

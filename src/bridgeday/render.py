@@ -66,6 +66,14 @@ def page(
     for obj in ld or []:
         head_extra.append(f'<script type="application/ld+json">{json_ld(obj)}</script>')
     extra = "\n".join(head_extra)
+    verify = "".join(
+        f'<meta name="{name}" content="{esc(code)}">\n'
+        for name, code in (
+            ("google-site-verification", cfg.google_verification),
+            ("msvalidate.01", cfg.bing_verification),
+        )
+        if code
+    )
     year = date.today().year
     return f"""<!doctype html>
 <html lang="en">
@@ -75,7 +83,7 @@ def page(
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(description)}">
 <link rel="canonical" href="{esc(canonical)}">
-<meta property="og:title" content="{esc(title)}">
+{verify}<meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:url" content="{esc(canonical)}">
 <meta property="og:type" content="website">

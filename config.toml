@@ -8,6 +8,9 @@ tagline = "More time with the people you love, from the same days of leave"
 # "https://yourdomain.com" and set cname below.
 base_url = "https://bernardhaddad.github.io/bridgeday"
 cname = ""
+# Search-engine ownership checks: the content="..." value of each meta tag (public by design).
+google_verification = ""
+bing_verification = "FD80ACADDD5990ADCBE29D1B200308BD"
 # How readers reach you (shown on the About page; ad networks like to see one):
 # "mailto:you@example.com" or an https:// form link. Never put a private address here.
 contact = ""
