@@ -9,7 +9,7 @@ tagline = "More time with the people you love, from the same days of leave"
 base_url = "https://bernardhaddad.github.io/bridgeday"
 cname = ""
 # Search-engine ownership checks: the content="..." value of each meta tag (public by design).
-google_verification = ""
+google_verification = "s20Nteb2J4N1vYh1atqWFewmm4C6CJq0HpR0U_26dt8"
 bing_verification = "FD80ACADDD5990ADCBE29D1B200308BD"
 # How readers reach you (shown on the About page; ad networks like to see one):
 # "mailto:you@example.com" or an https:// form link. Never put a private address here.
