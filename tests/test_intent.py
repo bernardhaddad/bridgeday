@@ -89,3 +89,30 @@ def test_dataset_carries_intent_file(data_dir, tmp_path):
         assert (
             "DE,2027-05-06,2027-05-09,4,6,1.0,83000000" in z.read("leave_intent_2027.csv").decode()
         )
+
+
+def test_new_site_404_means_no_data(monkeypatch):
+    import io
+    import urllib.error
+
+    def raise_404(req, timeout=0):
+        raise urllib.error.HTTPError(req.full_url, 404, "Not Found", {}, io.BytesIO(b""))
+
+    monkeypatch.setattr(intent.urllib.request, "urlopen", raise_404)
+    assert intent.pull("site", "tok", date(2026, 1, 1), date(2027, 1, 1)) == {}
+
+
+def test_intent_command_never_fails_the_job(monkeypatch, tmp_path, capsys):
+    from bridgeday import main as cli
+
+    def boom(*a, **k):
+        raise RuntimeError("GoatCounter API 500: down")
+
+    cfg = tmp_path / "config.toml"
+    cfg.write_text('[analytics]\ngoatcounter = "site"\n')
+    monkeypatch.setenv("GOATCOUNTER_TOKEN", "tok")
+    monkeypatch.setattr(cli.intent, "pull", boom)
+    monkeypatch.setattr(cli, "INTENT_FILE", tmp_path / "intent.json")
+    assert cli.main(["--config", str(cfg), "intent"]) == 0
+    assert "kept previous counts" in capsys.readouterr().out
+    assert not (tmp_path / "intent.json").exists()

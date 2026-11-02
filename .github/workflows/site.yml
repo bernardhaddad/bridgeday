@@ -38,6 +38,7 @@ jobs:
       # First-party Leave Intent counts (only the "most chosen" badge reaches the site; raw counts
       # stay in this ephemeral runner). Skips quietly until the GOATCOUNTER_TOKEN secret is set.
       - run: make intent
+        continue-on-error: true
         env:
           GOATCOUNTER_TOKEN: ${{ secrets.GOATCOUNTER_TOKEN }}
       - run: make build

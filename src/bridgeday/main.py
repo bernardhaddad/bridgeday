@@ -63,7 +63,12 @@ def main(argv: list[str] | None = None) -> int:
             print("intent: needs analytics.goatcounter in config.toml and GOATCOUNTER_TOKEN")
             return 0  # not configured yet is not a failure of the daily job
         today = date.today()
-        counts = intent.pull(cfg.goatcounter, token, today - timedelta(days=500), today)
+        try:
+            counts = intent.pull(cfg.goatcounter, token, today - timedelta(days=500), today)
+        except (OSError, RuntimeError, ValueError) as e:
+            # Optional data must never stop the site from publishing: keep the last counts.
+            print(f"::warning::intent: kept previous counts ({e})")
+            return 0
         intent.save(INTENT_FILE, counts)
         print(f"intent: {len(counts)} breaks, {sum(counts.values())} planners -> {INTENT_FILE}")
         return 0

@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import json
 import re
+import urllib.error
 import urllib.parse
 import urllib.request
 from collections import defaultdict
@@ -54,8 +55,14 @@ def _api(code: str, token: str, params: dict) -> dict:
             "User-Agent": "bridgeday-site/1.0",
         },
     )
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.loads(r.read(5_000_000))
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            return json.loads(r.read(5_000_000))
+    except urllib.error.HTTPError as e:
+        if e.code == 404:  # a new site with no recorded paths answers 404: no data yet
+            return {"hits": [], "more": False}
+        body = e.read(500).decode("utf-8", "replace")
+        raise RuntimeError(f"GoatCounter API {e.code}: {body}") from e
 
 
 def pull(code: str, token: str, start: date, end: date, get=_api) -> dict[str, int]:
