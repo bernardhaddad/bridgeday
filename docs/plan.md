@@ -24,8 +24,12 @@ Tasks in dependency order. Tick with `[x]` when observed working.
   holidays, AF weekend; regression tests in tests/test_corrections.py.
 - [x] T15 `generate()` writes `{}` over population.json when the World Bank answer is empty but
   raises nothing (seen 2026-11-02 behind a proxy); keep the snapshot unless most countries come back. Fixed: fewer than 150 keeps the snapshot.
-- [ ] T7 Owner: publish, domain, Search Console, affiliate ids (README "Turn on the money").
-- [ ] T13 Owner: GoatCounter account + API key as repository secret `GOATCOUNTER_TOKEN`.
+- [x] T7a Published 2026-11-02: https://bernardhaddad.github.io/bridgeday/ from the public repo
+  bernardhaddad/bridgeday (daily workflow site.yml, BRIDGEDAY_DEPLOY=pages, GoatCounter on).
+- [x] T7b Google Search Console verified (HTML tag), sitemap processed: 492 URLs discovered.
+  Bing tag live (msvalidate.01). Both codes live in config.toml; never remove them.
+- [ ] T7c Owner: affiliate ids (Travelpayouts), optional own domain.
+- [x] T13 GoatCounter account `bridgeday`; GOATCOUNTER_TOKEN secret set in bernardhaddad/bridgeday.
 - [ ] T9 Owner: list the top countries + bundle + dataset in a shop, fill `[shop]` (README "Sell the planner").
 
 ## Later / parked
