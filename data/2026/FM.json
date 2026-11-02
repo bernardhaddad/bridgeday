@@ -1,0 +1,343 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-KSA"
+  ],
+  "date": "2026-01-11",
+  "global": false,
+  "localName": "Kosrae State Constitution Day",
+  "name": "Kosrae State Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-KSA"
+  ],
+  "date": "2026-01-12",
+  "global": false,
+  "localName": "Kosrae State Constitution Day (observed)",
+  "name": "Kosrae State Constitution Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-YAP"
+  ],
+  "date": "2026-03-01",
+  "global": false,
+  "localName": "Yap Day",
+  "name": "Yap Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-YAP"
+  ],
+  "date": "2026-03-02",
+  "global": false,
+  "localName": "Yap Day (observed)",
+  "name": "Yap Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-PNI"
+  ],
+  "date": "2026-03-08",
+  "global": false,
+  "localName": "Women's Day",
+  "name": "Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-PNI"
+  ],
+  "date": "2026-03-09",
+  "global": false,
+  "localName": "Women's Day (observed)",
+  "name": "Women's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-31",
+  "global": true,
+  "localName": "Micronesian Culture and Tradition Day",
+  "name": "Micronesian Culture and Tradition Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-PNI"
+  ],
+  "date": "2026-03-31",
+  "global": false,
+  "localName": "Pohnpei Cultural Day",
+  "name": "Pohnpei Cultural Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-KSA",
+   "FM-PNI"
+  ],
+  "date": "2026-04-03",
+  "global": false,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-10",
+  "global": true,
+  "localName": "Federated States of Micronesia Day",
+  "name": "Federated States of Micronesia Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-11",
+  "global": true,
+  "localName": "Federated States of Micronesia Day (observed)",
+  "name": "Federated States of Micronesia Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-KSA"
+  ],
+  "date": "2026-08-21",
+  "global": false,
+  "localName": "Gospel Day",
+  "name": "Gospel Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-KSA"
+  ],
+  "date": "2026-09-08",
+  "global": false,
+  "localName": "Kosrae Liberation Day",
+  "name": "Kosrae Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-PNI"
+  ],
+  "date": "2026-09-11",
+  "global": false,
+  "localName": "Liberation Day",
+  "name": "Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-TRK"
+  ],
+  "date": "2026-09-25",
+  "global": false,
+  "localName": "State Charter Day (observed)",
+  "name": "State Charter Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-TRK"
+  ],
+  "date": "2026-09-26",
+  "global": false,
+  "localName": "State Charter Day",
+  "name": "State Charter Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-TRK"
+  ],
+  "date": "2026-10-01",
+  "global": false,
+  "localName": "Chuuk State Constitution Day",
+  "name": "Chuuk State Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-23",
+  "global": true,
+  "localName": "United Nations Day (observed)",
+  "name": "United Nations Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-24",
+  "global": true,
+  "localName": "United Nations Day",
+  "name": "United Nations Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-03",
+  "global": true,
+  "localName": "Independence Day",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-KSA"
+  ],
+  "date": "2026-11-03",
+  "global": false,
+  "localName": "Self Government Day",
+  "name": "Self Government Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-PNI"
+  ],
+  "date": "2026-11-08",
+  "global": false,
+  "localName": "Pohnpei Constitution Day",
+  "name": "Pohnpei Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-PNI"
+  ],
+  "date": "2026-11-09",
+  "global": false,
+  "localName": "Pohnpei Constitution Day (observed)",
+  "name": "Pohnpei Constitution Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-11",
+  "global": true,
+  "localName": "FSM Veterans of Foreign Wars Day",
+  "name": "FSM Veterans of Foreign Wars Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-23",
+  "global": true,
+  "localName": "Presidents Day",
+  "name": "Presidents Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-KSA"
+  ],
+  "date": "2026-11-26",
+  "global": false,
+  "localName": "Thanksgiving Day",
+  "name": "Thanksgiving Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-KSA"
+  ],
+  "date": "2026-12-03",
+  "global": false,
+  "localName": "Kosrae Disability Day",
+  "name": "Kosrae Disability Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FM-YAP"
+  ],
+  "date": "2026-12-24",
+  "global": false,
+  "localName": "Yap State Constitution Day",
+  "name": "Yap State Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

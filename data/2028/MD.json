@@ -1,0 +1,142 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Anul Nou",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-07",
+  "global": true,
+  "localName": "Nașterea lui Iisus Hristos (Crăciunul pe stil vechi)",
+  "name": "Christmas Day (by old style)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-08",
+  "global": true,
+  "localName": "Nașterea lui Iisus Hristos (Crăciunul pe stil vechi)",
+  "name": "Christmas Day (by old style)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-08",
+  "global": true,
+  "localName": "Ziua internațională a femeii",
+  "name": "International Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-16",
+  "global": true,
+  "localName": "Paștele",
+  "name": "Easter",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-17",
+  "global": true,
+  "localName": "Paștele",
+  "name": "Easter",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-24",
+  "global": true,
+  "localName": "Paștele blajinilor",
+  "name": "Day of Rejoicing",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Ziua internațională a solidarității oamenilor muncii",
+  "name": "International Workers' Solidarity Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-09",
+  "global": true,
+  "localName": "",
+  "name": "Europe Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-09",
+  "global": true,
+  "localName": "",
+  "name": "Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-01",
+  "global": true,
+  "localName": "Ziua Ocrotirii Copilului",
+  "name": "International Children's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-27",
+  "global": true,
+  "localName": "Ziua independenței Republicii Moldova",
+  "name": "Republic of Moldova Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-31",
+  "global": true,
+  "localName": "Limba noastră",
+  "name": "National Language Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Nașterea lui Iisus Hristos (Crăciunul pe stil nou)",
+  "name": "Christmas Day (by new style)",
+  "types": [
+   "Public"
+  ]
+ }
+]

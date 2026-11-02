@@ -1,0 +1,153 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "رأس السنة الميلادية",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-09",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-10",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-11",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "عيد العمال",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-15",
+  "global": true,
+  "localName": "",
+  "name": "Arafat Day (estimated)",
+  "source": "https://www.pmo.gov.bh/en/article/hrh-the-crown-prince-and-prime-minister-issues-circular-on-the-eid-al-adha-holiday-2026",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-16",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-18",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-06",
+  "global": true,
+  "localName": "رأس السنة الهجرية (تقديري)",
+  "name": "Islamic New Year (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-14",
+  "global": true,
+  "localName": "عاشوراء (تقديري)",
+  "name": "Ashura (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-15",
+  "global": true,
+  "localName": "عاشوراء (تقديري)",
+  "name": "Ashura (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-14",
+  "global": true,
+  "localName": "المولد النبوي الشريف (تقديري)",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-16",
+  "global": true,
+  "localName": "العيد الوطني",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-17",
+  "global": true,
+  "localName": "العيد الوطني",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

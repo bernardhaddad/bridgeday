@@ -1,0 +1,292 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "วันขึ้นปีใหม่",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-03",
+  "global": true,
+  "localName": "ชดเชยวันขึ้นปีใหม่",
+  "name": "New Year's Day (in lieu)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-08",
+  "global": true,
+  "localName": "วันเด็กแห่งชาติ",
+  "name": "National Children's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-10",
+  "global": true,
+  "localName": "วันมาฆบูชา",
+  "name": "Makha Bucha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-06",
+  "global": true,
+  "localName": "วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์",
+  "name": "Chakri Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-13",
+  "global": true,
+  "localName": "วันสงกรานต์",
+  "name": "Songkran Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "วันสงกรานต์",
+  "name": "Songkran Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-15",
+  "global": true,
+  "localName": "วันสงกรานต์",
+  "name": "Songkran Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-17",
+  "global": true,
+  "localName": "ชดเชยวันสงกรานต์",
+  "name": "Songkran Festival (in lieu)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "วันแรงงานแห่งชาติ",
+  "name": "National Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-04",
+  "global": true,
+  "localName": "วันฉัตรมงคล",
+  "name": "Coronation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-08",
+  "global": true,
+  "localName": "วันวิสาขบูชา",
+  "name": "Visakha Bucha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-03",
+  "global": true,
+  "localName": "วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี",
+  "name": "HM Queen Suthida's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-05",
+  "global": true,
+  "localName": "ชดเชยวันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี",
+  "name": "HM Queen Suthida's Birthday (in lieu)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-06",
+  "global": true,
+  "localName": "วันอาสาฬหบูชา",
+  "name": "Asarnha Bucha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-07",
+  "global": true,
+  "localName": "วันเข้าพรรษา",
+  "name": "Buddhist Lent Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-28",
+  "global": true,
+  "localName": "วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว",
+  "name": "HM King Maha Vajiralongkorn's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-12",
+  "global": true,
+  "localName": "",
+  "name": "HM Queen Sirikit The Queen Mother's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-12",
+  "global": true,
+  "localName": "",
+  "name": "National Mother's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-14",
+  "global": true,
+  "localName": "",
+  "name": "HM Queen Sirikit The Queen Mother's Birthday (in lieu)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-14",
+  "global": true,
+  "localName": "",
+  "name": "National Mother's Day (in lieu)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-13",
+  "global": true,
+  "localName": "วันนวมินทรมหาราช",
+  "name": "HM King Bhumibol Adulyadej Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-23",
+  "global": true,
+  "localName": "วันปิยมหาราช",
+  "name": "HM King Chulalongkorn Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-05",
+  "global": true,
+  "localName": "",
+  "name": "HM King Bhumibol Adulyadej the Great's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-05",
+  "global": true,
+  "localName": "",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-05",
+  "global": true,
+  "localName": "",
+  "name": "National Father's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-10",
+  "global": true,
+  "localName": "วันรัฐธรรมนูญ",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-11",
+  "global": true,
+  "localName": "ชดเชยวันรัฐธรรมนูญ",
+  "name": "Constitution Day (in lieu)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-31",
+  "global": true,
+  "localName": "วันสิ้นปี",
+  "name": "New Year's Eve",
+  "types": [
+   "Public"
+  ]
+ }
+]

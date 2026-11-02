@@ -1,0 +1,172 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Нова година",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-03",
+  "global": true,
+  "localName": "Ден на Освобождението на България от османско иго",
+  "name": "Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-30",
+  "global": true,
+  "localName": "Велики петък",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "",
+  "name": "Holy Saturday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "",
+  "name": "Labor Day and International Workers' Solidarity Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-02",
+  "global": true,
+  "localName": "Великден",
+  "name": "Easter",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-03",
+  "global": true,
+  "localName": "Великден",
+  "name": "Easter",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-04",
+  "global": true,
+  "localName": "Ден на труда и на международната работническа солидарност (почивен ден)",
+  "name": "Labor Day and International Workers' Solidarity Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-06",
+  "global": true,
+  "localName": "Гергьовден, Ден на храбростта и Българската армия",
+  "name": "Saint George's Day, Day of the Bulgarian Army",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-24",
+  "global": true,
+  "localName": "Ден на светите братя Кирил и Методий, на българската азбука, просвета и култура и на славянската книжовност",
+  "name": "Day of Slavonic Alphabet, Bulgarian Enlightenment and Culture",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-06",
+  "global": true,
+  "localName": "Ден на Съединението",
+  "name": "Unification Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-22",
+  "global": true,
+  "localName": "Ден на Независимостта на България",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-24",
+  "global": true,
+  "localName": "Бъдни вечер",
+  "name": "Christmas Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Рождество Христово",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-26",
+  "global": true,
+  "localName": "Рождество Христово",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-27",
+  "global": true,
+  "localName": "Рождество Христово (почивен ден)",
+  "name": "Christmas Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-28",
+  "global": true,
+  "localName": "Рождество Христово (почивен ден)",
+  "name": "Christmas Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

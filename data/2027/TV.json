@@ -1,0 +1,250 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Tausaga Fou",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "TV-NMA"
+  ],
+  "date": "2027-01-08",
+  "global": false,
+  "localName": "Golden Jubilee",
+  "name": "Golden Jubilee",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "TV-NMA"
+  ],
+  "date": "2027-02-03",
+  "global": false,
+  "localName": "Big Day",
+  "name": "Big Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "TV-NKF"
+  ],
+  "date": "2027-02-11",
+  "global": false,
+  "localName": "Nukufetau Day",
+  "name": "Nukufetau Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "TV-NUI"
+  ],
+  "date": "2027-02-16",
+  "global": false,
+  "localName": "Day of the Flood",
+  "name": "Day of the Flood",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Aso toe tu",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-29",
+  "global": true,
+  "localName": "Toe Tu aso gafua",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "TV-NMG"
+  ],
+  "date": "2027-04-15",
+  "global": false,
+  "localName": "Nanumaga Day",
+  "name": "Nanumaga Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "TV-FUN"
+  ],
+  "date": "2027-04-23",
+  "global": false,
+  "localName": "The Day of the Bombing",
+  "name": "The Day of the Bombing",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-10",
+  "global": true,
+  "localName": "Te Aso o te Tala Lei",
+  "name": "Gospel Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-12",
+  "global": true,
+  "localName": "Asofanau Tupu",
+  "name": "King's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-02",
+  "global": true,
+  "localName": "Aso tupulaga",
+  "name": "National Youth Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "TV-NIT"
+  ],
+  "date": "2027-09-17",
+  "global": false,
+  "localName": "Niutao Day",
+  "name": "Niutao Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-01",
+  "global": true,
+  "localName": "Tutokotasi",
+  "name": "Tuvalu Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-02",
+  "global": true,
+  "localName": "Tutokotasi",
+  "name": "Tuvalu Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-04",
+  "global": true,
+  "localName": "Tutokotasi (fakamatakuga)",
+  "name": "Tuvalu Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-11",
+  "global": true,
+  "localName": "Aso Tamaliki",
+  "name": "National Children's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "TV-FUN"
+  ],
+  "date": "2027-10-21",
+  "global": false,
+  "localName": "Cyclone Day",
+  "name": "Cyclone Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "TV-VAI"
+  ],
+  "date": "2027-11-25",
+  "global": false,
+  "localName": "Happy Day",
+  "name": "Happy Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Kilisimasi",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-26",
+  "global": true,
+  "localName": "Aso Faipele",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-27",
+  "global": true,
+  "localName": "Kilisimasi (fakamatakuga)",
+  "name": "Christmas Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-28",
+  "global": true,
+  "localName": "Aso Faipele (fakamatakuga)",
+  "name": "Boxing Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

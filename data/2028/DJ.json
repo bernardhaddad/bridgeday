@@ -1,0 +1,132 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Nouvel an",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-26",
+  "global": true,
+  "localName": "Eid al-Fitr (estimé)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-27",
+  "global": true,
+  "localName": "Eid al-Fitr deuxième jour (estimé)",
+  "name": "Eid al-Fitr Holiday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Fête du travail",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-04",
+  "global": true,
+  "localName": "Arafat (estimé)",
+  "name": "Day of Arafah (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-05",
+  "global": true,
+  "localName": "Eid al-Adha (estimé)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-06",
+  "global": true,
+  "localName": "Eid al-Adha deuxième jour (estimé)",
+  "name": "Eid al-Adha Holiday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-25",
+  "global": true,
+  "localName": "Nouvel an musulman (estimé)",
+  "name": "Islamic New Year (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-27",
+  "global": true,
+  "localName": "Fête de l'indépendance",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-28",
+  "global": true,
+  "localName": "Fête de l'indépendance deuxième jour",
+  "name": "Independence Day Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-03",
+  "global": true,
+  "localName": "Anniversaire du prophète Muhammad (estimé)",
+  "name": "Prophet Muhammad's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-14",
+  "global": true,
+  "localName": "Al Isra et Al Mirague (estimé)",
+  "name": "Isra' and Mi'raj (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Noël",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

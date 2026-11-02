@@ -1,0 +1,122 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-07",
+  "global": true,
+  "localName": "የገና ወይም የልደት በዓል",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-19",
+  "global": true,
+  "localName": "የጥምቀት በዓል",
+  "name": "Epiphany",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-02",
+  "global": true,
+  "localName": "የአድዋ ድል በዓል",
+  "name": "Adwa Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "የኢድ አልፈጥር (ግምት)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-10",
+  "global": true,
+  "localName": "የስቅለት በዓል",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-12",
+  "global": true,
+  "localName": "የትንሳኤ(ፋሲካ) በዓል",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "የዓለም የሠራተኞች (የላብአደሮች) ቀን",
+  "name": "International Workers' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-05",
+  "global": true,
+  "localName": "የአርበኞች (የድል) ቀን በዓል",
+  "name": "Ethiopian Patriots' Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "የኢድ አልአድሃ (አረፋ) (ግምት)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-25",
+  "global": true,
+  "localName": "የመውሊድ በዓል (ግምት)",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-11",
+  "global": true,
+  "localName": "የዘመን መለወጫ (እንቁጣጣሽ) በዓል",
+  "name": "Ethiopian New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-27",
+  "global": true,
+  "localName": "የመስቀል በዓል",
+  "name": "Finding of True Cross",
+  "types": [
+   "Public"
+  ]
+ }
+]

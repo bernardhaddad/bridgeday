@@ -1,0 +1,137 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Año Nuevo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-21",
+  "global": true,
+  "localName": "",
+  "name": "Death of General Augusto C. Sandino",
+  "source": "https://confidencial.digital/nacion/nicaragua-eleva-a-14-el-numero-de-dias-feriados-nacionales/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-25",
+  "global": true,
+  "localName": "Jueves Santo",
+  "name": "Maundy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Día del Trabajo",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-30",
+  "global": true,
+  "localName": "Día de la Madre",
+  "name": "Mother's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-19",
+  "global": true,
+  "localName": "Día de la Revolución",
+  "name": "Revolution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NI-MN"
+  ],
+  "date": "2027-08-01",
+  "global": false,
+  "localName": "Descent of Saint Dominic",
+  "name": "Descent of Saint Dominic",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NI-MN"
+  ],
+  "date": "2027-08-10",
+  "global": false,
+  "localName": "Ascent of Saint Dominic",
+  "name": "Ascent of Saint Dominic",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-14",
+  "global": true,
+  "localName": "Batalla de San Jacinto",
+  "name": "Battle of San Jacinto Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-15",
+  "global": true,
+  "localName": "Día de la Independencia",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-08",
+  "global": true,
+  "localName": "Concepción de María",
+  "name": "Immaculate Conception",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Navidad",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

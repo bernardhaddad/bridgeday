@@ -1,0 +1,212 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "عيد رأس السنة الميلادية",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-26",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-27",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-28",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-08",
+  "global": true,
+  "localName": "الثورة السورية",
+  "name": "Revolution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-21",
+  "global": true,
+  "localName": "عيد الأم",
+  "name": "Mother's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-16",
+  "global": true,
+  "localName": "",
+  "name": "Gregorian Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-16",
+  "global": true,
+  "localName": "",
+  "name": "Julian Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-17",
+  "global": true,
+  "localName": "عيد الاستقلال",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "عيد العمال",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-04",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-05",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-06",
+  "global": true,
+  "localName": "",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-06",
+  "global": true,
+  "localName": "",
+  "name": "Martyrs' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-07",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-25",
+  "global": true,
+  "localName": "رأس السنة الهجرية (تقديري)",
+  "name": "Islamic New Year (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-03",
+  "global": true,
+  "localName": "عيد المولد النبوي الشريف (تقديري)",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-06",
+  "global": true,
+  "localName": "ذكرى حرب تشرين التحريرية",
+  "name": "Tishreen Liberation War Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-08",
+  "global": true,
+  "localName": "عيد التحرير",
+  "name": "Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "عيد الميلاد",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-26",
+  "global": true,
+  "localName": "يوم الصناديق",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

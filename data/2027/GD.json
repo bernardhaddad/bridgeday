@@ -1,0 +1,172 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-07",
+  "global": true,
+  "localName": "Independence Day",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-08",
+  "global": true,
+  "localName": "Independence Day (observed)",
+  "name": "Independence Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-29",
+  "global": true,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Labour Day",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "Whit Monday",
+  "name": "Pentecost Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-27",
+  "global": true,
+  "localName": "Corpus Christi",
+  "name": "Corpus Christi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-01",
+  "global": true,
+  "localName": "Emancipation Day",
+  "name": "Emancipation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-02",
+  "global": true,
+  "localName": "Emancipation Day (observed)",
+  "name": "Emancipation Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-09",
+  "global": true,
+  "localName": "Carnival Monday",
+  "name": "Carnival Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-10",
+  "global": true,
+  "localName": "Carnival Tuesday",
+  "name": "Carnival Tuesday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-19",
+  "global": true,
+  "localName": "National Heroes' Day",
+  "name": "National Heroes' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-25",
+  "global": true,
+  "localName": "Thanksgiving Day",
+  "name": "Thanksgiving Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-26",
+  "global": true,
+  "localName": "Boxing Day",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-27",
+  "global": true,
+  "localName": "Boxing Day (observed)",
+  "name": "Boxing Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

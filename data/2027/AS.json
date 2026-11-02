@@ -1,0 +1,203 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-18",
+  "global": true,
+  "localName": "Martin Luther King Jr. Day",
+  "name": "Martin Luther King Jr. Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-15",
+  "global": true,
+  "localName": "Washington's Birthday",
+  "name": "Washington's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "",
+  "name": "Good Friday",
+  "source": "https://asbar.org/code-annotated/1-0501-public-holidays/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-16",
+  "global": true,
+  "localName": "American Samoa Flag Day (observed)",
+  "name": "American Samoa Flag Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-17",
+  "global": true,
+  "localName": "American Samoa Flag Day",
+  "name": "American Samoa Flag Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-31",
+  "global": true,
+  "localName": "Memorial Day",
+  "name": "Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-18",
+  "global": true,
+  "localName": "Juneteenth National Independence Day (observed)",
+  "name": "Juneteenth National Independence Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-19",
+  "global": true,
+  "localName": "Juneteenth National Independence Day",
+  "name": "Juneteenth National Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-04",
+  "global": true,
+  "localName": "Independence Day",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-05",
+  "global": true,
+  "localName": "Independence Day (observed)",
+  "name": "Independence Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-16",
+  "global": true,
+  "localName": "Manu'a Islands Cession Day",
+  "name": "Manu'a Islands Cession Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-06",
+  "global": true,
+  "localName": "Labor Day",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-10",
+  "global": true,
+  "localName": "White Sunday",
+  "name": "White Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-11",
+  "global": true,
+  "localName": "Columbus Day",
+  "name": "Columbus Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-11",
+  "global": true,
+  "localName": "Veterans Day",
+  "name": "Veterans Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-25",
+  "global": true,
+  "localName": "Thanksgiving Day",
+  "name": "Thanksgiving Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-24",
+  "global": true,
+  "localName": "Christmas Day (observed)",
+  "name": "Christmas Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-31",
+  "global": true,
+  "localName": "New Year's Day (observed)",
+  "name": "New Year's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

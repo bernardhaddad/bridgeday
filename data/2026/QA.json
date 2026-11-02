@@ -1,0 +1,82 @@
+[
+ {
+  "counties": null,
+  "date": "2026-02-10",
+  "global": true,
+  "localName": "اليوم الوطني للرياضة",
+  "name": "National Sports Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-22",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-28",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-29",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-18",
+  "global": true,
+  "localName": "اليوم الوطني لقطر",
+  "name": "Qatar National Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

@@ -1,0 +1,172 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-08",
+  "global": true,
+  "localName": "International Women's Day",
+  "name": "International Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-12",
+  "global": true,
+  "localName": "Youth Day",
+  "name": "Youth Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-13",
+  "global": true,
+  "localName": "Youth Day (observed)",
+  "name": "Youth Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-15",
+  "global": true,
+  "localName": "Holy Saturday",
+  "name": "Holy Saturday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-16",
+  "global": true,
+  "localName": "Easter Sunday",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-17",
+  "global": true,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-28",
+  "global": true,
+  "localName": "Kenneth Kaunda Day",
+  "name": "Kenneth Kaunda Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Labour Day",
+  "name": "Labour Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-25",
+  "global": true,
+  "localName": "Africa Freedom Day",
+  "name": "Africa Freedom Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-03",
+  "global": true,
+  "localName": "Heroes' Day",
+  "name": "Heroes' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-04",
+  "global": true,
+  "localName": "Unity Day",
+  "name": "Unity Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-07",
+  "global": true,
+  "localName": "Farmers' Day",
+  "name": "Farmers' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-24",
+  "global": true,
+  "localName": "Independence Day",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-29",
+  "global": true,
+  "localName": "National Day of Prayer and Christian Heritage",
+  "name": "National Day of Prayer and Christian Heritage",
+  "types": [
+   "Public"
+  ]
+ }
+]

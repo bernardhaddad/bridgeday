@@ -1,0 +1,166 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Nouvel an",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-04",
+  "global": true,
+  "localName": "Martyrs de l'indépendance",
+  "name": "Martyrs' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-05",
+  "global": true,
+  "localName": "Martyrs de l'indépendance (observé)",
+  "name": "Martyrs' Day (observed)",
+  "source": "https://lesvolcansnews.net/2025/12/31/rdc-le-jour-ferie-du-4-janvier-reporte-ministere/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-16",
+  "global": true,
+  "localName": "Journée du héros national Laurent Désiré Kabila",
+  "name": "National Hero Laurent Désiré Kabila Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-17",
+  "global": true,
+  "localName": "Journée du héros national Patrice Emery Lumumba",
+  "name": "National Hero Patrice Emery Lumumba Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-19",
+  "global": true,
+  "localName": "",
+  "name": "National Hero Patrice Emery Lumumba Day (observed)",
+  "source": "https://congoprofond.net/rdc-les-16-et-19-janvier-2026-declares-jours-feries-chomes-et-payes-sur-toute-letendue-du-pays/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "Journée du combat de Simon Kimbangu et de la conscience africaine",
+  "name": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Fête du travail",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-17",
+  "global": true,
+  "localName": "Journée de la Révolution et des Forces Armées",
+  "name": "Revolution and Armed Forces Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-18",
+  "global": true,
+  "localName": "Journée de la Révolution et des Forces Armées (observé)",
+  "name": "Revolution and Armed Forces Day (observed)",
+  "source": "https://x.com/MinEmploiTraRDC/status/2054946280388915637",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-30",
+  "global": true,
+  "localName": "Journée de l'indépendance",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-01",
+  "global": true,
+  "localName": "",
+  "name": "Congolese Genocide Memorial Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-01",
+  "global": true,
+  "localName": "",
+  "name": "Parents' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-02",
+  "global": true,
+  "localName": "Journée commémorative du génocide Congolais",
+  "name": "Congolese Genocide Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-03",
+  "global": true,
+  "localName": "",
+  "name": "Parents' Day (observed)",
+  "source": "https://plusinfo.cd/actualite/rdc-le-gouvernement-renvoie-la-journee-feriee-du-1er-aout-au-lundi-3-aout/39296/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Noël",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

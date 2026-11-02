@@ -1,0 +1,142 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-01",
+  "global": true,
+  "localName": "Nuclear Victims Remembrance Day",
+  "name": "Nuclear Victims Remembrance Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-30",
+  "global": true,
+  "localName": "Constitution Day Holiday",
+  "name": "Constitution Day Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Constitution Day",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-02",
+  "global": true,
+  "localName": "Fisherman's Day",
+  "name": "Fisherman's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-03",
+  "global": true,
+  "localName": "Dri-jerbal Day",
+  "name": "Dri-jerbal Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-24",
+  "global": true,
+  "localName": "Manit Day",
+  "name": "Manit Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-15",
+  "global": true,
+  "localName": "General Election Day",
+  "name": "General Election Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-17",
+  "global": true,
+  "localName": "President's Day",
+  "name": "President's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-03",
+  "global": true,
+  "localName": "Gospel Day",
+  "name": "Gospel Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-24",
+  "global": true,
+  "localName": "Christmas Day Holiday",
+  "name": "Christmas Day Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-31",
+  "global": true,
+  "localName": "New Year's Day Holiday",
+  "name": "New Year's Day Holiday",
+  "types": [
+   "Public"
+  ]
+ }
+]

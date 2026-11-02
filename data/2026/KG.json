@@ -1,0 +1,223 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Жаңы жыл",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-02",
+  "global": true,
+  "localName": "Жаңы жылдык каникулдар",
+  "name": "New Year Holidays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-03",
+  "global": true,
+  "localName": "Жаңы жылдык каникулдар",
+  "name": "New Year Holidays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-04",
+  "global": true,
+  "localName": "Жаңы жылдык каникулдар",
+  "name": "New Year Holidays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-05",
+  "global": true,
+  "localName": "Жаңы жылдык каникулдар",
+  "name": "New Year Holidays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-06",
+  "global": true,
+  "localName": "Жаңы жылдык каникулдар",
+  "name": "New Year Holidays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-07",
+  "global": true,
+  "localName": "Ыйса Пайгамбардын туулган күнү",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-08",
+  "global": true,
+  "localName": "Аялдардын эл аралык күнү",
+  "name": "International Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "Орозо айт",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "Элдик Нооруз майрамы",
+  "name": "Nooruz Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-07",
+  "global": true,
+  "localName": "",
+  "name": "People's April Revolution Day",
+  "source": "https://eltr.kg/ru/mintruda-utverdil-prazdnichnye-dni-v-2026-godu/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Эмгек майрамы",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-02",
+  "global": true,
+  "localName": "Май каникулдары",
+  "name": "May Holidays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-03",
+  "global": true,
+  "localName": "Май каникулдары",
+  "name": "May Holidays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-04",
+  "global": true,
+  "localName": "Май каникулдары",
+  "name": "May Holidays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-05",
+  "global": true,
+  "localName": "Кыргыз Республикасынын Конституция күнү",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-06",
+  "global": true,
+  "localName": "Май каникулдары",
+  "name": "May Holidays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-07",
+  "global": true,
+  "localName": "Май каникулдары",
+  "name": "May Holidays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-08",
+  "global": true,
+  "localName": "Май каникулдары",
+  "name": "May Holidays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-09",
+  "global": true,
+  "localName": "Жеңиш күнү",
+  "name": "Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "Курман айт",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-31",
+  "global": true,
+  "localName": "Кыргыз Республикасынын Көз карандысыздыгынын күнү",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

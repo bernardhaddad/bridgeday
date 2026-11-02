@@ -1,0 +1,182 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Dia de Ano Novo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-03",
+  "global": true,
+  "localName": "Dia dos Veteranos",
+  "name": "Veteran's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "Idul Fitri (aproximada)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Sexta-Feira Santa",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Dia Mundial do Trabalhador",
+  "name": "International Worker's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-20",
+  "global": true,
+  "localName": "Dia da Restauração da Independência",
+  "name": "Restoration of Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "Idul Adha (aproximada)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-04",
+  "global": true,
+  "localName": "Festa do Corpo de Deus",
+  "name": "Corpus Christi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-30",
+  "global": true,
+  "localName": "Dia da Consulta Popular",
+  "name": "Popular Consultation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-01",
+  "global": true,
+  "localName": "Dia de Todos os Santos",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-02",
+  "global": true,
+  "localName": "Dia de Todos os Fiéis Defuntos",
+  "name": "All Souls' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-03",
+  "global": true,
+  "localName": "Dia Nacional da Mulher",
+  "name": "National Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-12",
+  "global": true,
+  "localName": "Dia Nacional da Juventude",
+  "name": "National Youth Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-28",
+  "global": true,
+  "localName": "Dia da Proclamação da Independência",
+  "name": "Proclamation of Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-07",
+  "global": true,
+  "localName": "Dia da Memória",
+  "name": "Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-08",
+  "global": true,
+  "localName": "Dia de Nossa Senhora da Imaculada Conceição, padroeira de Timor-Leste",
+  "name": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Dia de Natal",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-31",
+  "global": true,
+  "localName": "Dia dos Heróis Nacionais",
+  "name": "National Heroes Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

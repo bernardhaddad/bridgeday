@@ -1,0 +1,192 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-18",
+  "global": true,
+  "localName": "Independence Day",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-16",
+  "global": true,
+  "localName": "Lialat-Ul-Qadr (estimated)",
+  "name": "Laylat al-Qadr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "Koriteh (estimated)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "Koriteh (estimated)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-23",
+  "global": true,
+  "localName": "Koriteh (observed, estimated)",
+  "name": "Eid al-Fitr (observed, estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Labour Day",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-25",
+  "global": true,
+  "localName": "Africa Liberation Day",
+  "name": "Africa Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "Tobaski (estimated)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-28",
+  "global": true,
+  "localName": "Tobaski (estimated)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-25",
+  "global": true,
+  "localName": "Yawmul Ashura (estimated)",
+  "name": "Ashura (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-15",
+  "global": true,
+  "localName": "Feast of the Assumption",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-17",
+  "global": true,
+  "localName": "Feast of the Assumption (observed)",
+  "name": "Assumption Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-25",
+  "global": true,
+  "localName": "Mawlid Nabi (estimated)",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-26",
+  "global": true,
+  "localName": "Boxing Day",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-28",
+  "global": true,
+  "localName": "Boxing Day (observed)",
+  "name": "Boxing Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

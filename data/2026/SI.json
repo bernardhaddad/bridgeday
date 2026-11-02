@@ -1,0 +1,152 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "novo leto",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-02",
+  "global": true,
+  "localName": "novo leto",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-08",
+  "global": true,
+  "localName": "Prešernov dan, slovenski kulturni praznik",
+  "name": "Prešeren's Day, the Slovenian Cultural Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-05",
+  "global": true,
+  "localName": "velikonočna nedelja",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "velikonočni ponedeljek",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-27",
+  "global": true,
+  "localName": "dan upora proti okupatorju",
+  "name": "Day of Uprising Against Occupation",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "praznik dela",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-02",
+  "global": true,
+  "localName": "praznik dela",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-24",
+  "global": true,
+  "localName": "binkoštna nedelja",
+  "name": "Pentecost",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-25",
+  "global": true,
+  "localName": "dan državnosti",
+  "name": "Statehood Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-15",
+  "global": true,
+  "localName": "Marijino vnebovzetje",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-31",
+  "global": true,
+  "localName": "dan reformacije",
+  "name": "Reformation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-01",
+  "global": true,
+  "localName": "dan spomina na mrtve",
+  "name": "Day of Remembrance for the Dead",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "božič",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-26",
+  "global": true,
+  "localName": "dan samostojnosti in enotnosti",
+  "name": "Independence and Unity Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

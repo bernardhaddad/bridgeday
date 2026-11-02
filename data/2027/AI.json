@@ -1,0 +1,192 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-02",
+  "global": true,
+  "localName": "James Ronald Webster Day",
+  "name": "James Ronald Webster Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-29",
+  "global": true,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Labour Day",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-03",
+  "global": true,
+  "localName": "Labour Day (observed)",
+  "name": "Labor Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "Whit Monday",
+  "name": "Pentecost Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-30",
+  "global": true,
+  "localName": "Anguilla Day",
+  "name": "Anguilla Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-31",
+  "global": true,
+  "localName": "Anguilla Day (observed)",
+  "name": "Anguilla Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-21",
+  "global": true,
+  "localName": "Celebration of the Birthday of His Majesty the King",
+  "name": "King's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-02",
+  "global": true,
+  "localName": "August Monday",
+  "name": "August Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-05",
+  "global": true,
+  "localName": "August Thursday",
+  "name": "August Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-06",
+  "global": true,
+  "localName": "Constitution Day",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-17",
+  "global": true,
+  "localName": "National Heroes and Heroines Day (observed)",
+  "name": "National Heroes and Heroines Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-19",
+  "global": true,
+  "localName": "National Heroes and Heroines Day",
+  "name": "National Heroes and Heroines Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-26",
+  "global": true,
+  "localName": "Boxing Day",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-27",
+  "global": true,
+  "localName": "Christmas Day (observed)",
+  "name": "Christmas Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-28",
+  "global": true,
+  "localName": "Boxing Day (observed)",
+  "name": "Boxing Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

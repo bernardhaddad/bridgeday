@@ -1,0 +1,142 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-17",
+  "global": true,
+  "localName": "Chinese New Year",
+  "name": "Chinese New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-18",
+  "global": true,
+  "localName": "Chinese New Year",
+  "name": "Chinese New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "Hari Raya Puasa",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Labour Day",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "Hari Raya Haji",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-31",
+  "global": true,
+  "localName": "Vesak Day",
+  "name": "Vesak Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-01",
+  "global": true,
+  "localName": "Vesak Day (observed)",
+  "name": "Vesak Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-09",
+  "global": true,
+  "localName": "National Day",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-10",
+  "global": true,
+  "localName": "National Day (observed)",
+  "name": "National Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-08",
+  "global": true,
+  "localName": "Deepavali",
+  "name": "Diwali",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-09",
+  "global": true,
+  "localName": "Deepavali (observed)",
+  "name": "Diwali (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

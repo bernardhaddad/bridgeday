@@ -1,0 +1,152 @@
+[
+ {
+  "counties": null,
+  "date": "2026-02-05",
+  "global": true,
+  "localName": "Kashmir Solidarity Day",
+  "name": "Kashmir Solidarity Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "Eid-ul-Fitr",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "Eid-ul-Fitr",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-23",
+  "global": true,
+  "localName": "Pakistan Day",
+  "name": "Pakistan Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Labour Day",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-26",
+  "global": true,
+  "localName": "Eid-ul-Adha",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "Eid-ul-Adha",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-28",
+  "global": true,
+  "localName": "",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-28",
+  "global": true,
+  "localName": "",
+  "name": "Youm-e-Takbeer",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-25",
+  "global": true,
+  "localName": "Ashura",
+  "name": "Ashura",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-26",
+  "global": true,
+  "localName": "Ashura",
+  "name": "Ashura",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-14",
+  "global": true,
+  "localName": "Independence Day",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-26",
+  "global": true,
+  "localName": "Eid Milad-un-Nabi",
+  "name": "Prophet's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-09",
+  "global": true,
+  "localName": "Iqbal Day",
+  "name": "Iqbal Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Quaid-e-Azam Day",
+  "name": "Quaid-e-Azam Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

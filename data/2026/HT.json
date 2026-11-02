@@ -1,0 +1,182 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "",
+  "name": "National Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-02",
+  "global": true,
+  "localName": "Jour des Aïeux",
+  "name": "Ancestry Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-15",
+  "global": true,
+  "localName": "Carnaval",
+  "name": "Carnival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-16",
+  "global": true,
+  "localName": "Lundi Gras",
+  "name": "Shrove Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-17",
+  "global": true,
+  "localName": "Mardi Gras",
+  "name": "Fat Tuesday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Vendredi Saint",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-05",
+  "global": true,
+  "localName": "Pâques",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Fête de l'Agriculture et du Travail",
+  "name": "Agriculture and Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-18",
+  "global": true,
+  "localName": "Fête du Drapeau et de l'Université",
+  "name": "Flag Day and University Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-04",
+  "global": true,
+  "localName": "Fête-Dieu",
+  "name": "Corpus Christi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-15",
+  "global": true,
+  "localName": "Assomption de Marie",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-17",
+  "global": true,
+  "localName": "Mort de Dessalines",
+  "name": "Death of Dessalines",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-01",
+  "global": true,
+  "localName": "La Toussaint",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-02",
+  "global": true,
+  "localName": "Fête des Morts",
+  "name": "Day of the Dead",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-18",
+  "global": true,
+  "localName": "",
+  "name": "Armed Forces Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-18",
+  "global": true,
+  "localName": "",
+  "name": "Commemoration of the Battle of Vertieres",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Noël",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

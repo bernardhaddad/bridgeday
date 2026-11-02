@@ -1,0 +1,230 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-02",
+  "global": true,
+  "localName": "དགུན་ཉི་ལྡོག་གི་ངལ་གསོལ།",
+  "name": "Winter Solstice",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-27",
+  "global": true,
+  "localName": "སྔར་སྲོལ་འབུལ་བའི་ལོ་གསར་གྱི་ངལ་གསོལ།",
+  "name": "Traditional Day of Offering",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-21",
+  "global": true,
+  "localName": "མི་དབང་མངའ་བདག་རིན་པོ་ཆེའི་འཁྲུངས་སྐར་དུས་ཆེན་ངལ་གསོལ།",
+  "name": "Birth Anniversary of His Majesty the King",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-22",
+  "global": true,
+  "localName": "མི་དབང་མངའ་བདག་རིན་པོ་ཆེའི་འཁྲུངས་སྐར་དུས་ཆེན་ངལ་གསོལ།",
+  "name": "Birth Anniversary of His Majesty the King",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-23",
+  "global": true,
+  "localName": "མི་དབང་མངའ་བདག་རིན་པོ་ཆེའི་འཁྲུངས་སྐར་དུས་ཆེན་ངལ་གསོལ།",
+  "name": "Birth Anniversary of His Majesty the King",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-26",
+  "global": true,
+  "localName": "གནམ་ལོ་གསར་ཚེས་ཀྱིས་དུས་སྟོན་ངལ་གསོལ།",
+  "name": "Losar",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-27",
+  "global": true,
+  "localName": "གནམ་ལོ་གསར་ཚེས་ཀྱིས་དུས་སྟོན་ངལ་གསོལ།",
+  "name": "Losar",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-02",
+  "global": true,
+  "localName": "མི་དབང་འབྲུག་རྒྱལ་གསུམ་པའི་འཁྲུངས་སྐར་དུས་ཆེན་ངལ་གསོལ།",
+  "name": "Birth Anniversary of the 3rd Druk Gyalpo",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-04",
+  "global": true,
+  "localName": "མཐུ་ཆེན་ཆོས་ཀྱི་རྒྱལ་པོའི་དུས་ཆེན་ངལ་གསོལ།",
+  "name": "Death Anniversary of Zhabdrung",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-07",
+  "global": true,
+  "localName": "སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱི་དུས་ཆེན་ལྔ་འཛོམས་ངལ་གསོལ།",
+  "name": "Lord Buddha's Parinirvana",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-01",
+  "global": true,
+  "localName": "ཨོ་རྒྱན་གུ་རུ་རིན་པོ་ཆེའི་འཁྲུངས་སྐར་དུས་ཆེན་ངལ་གསོ།",
+  "name": "Birth Anniversary of Guru Rinpoche",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-25",
+  "global": true,
+  "localName": "སྟོན་པ་མཆོག་ཝ་ར་ན་སིར་བདེན་བཞིའི་ཆོས་འཁོར་བསྐོར་བའི་དུས་ཆེན་ངལ་གསོ།",
+  "name": "First Sermon of Lord Buddha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-23",
+  "global": true,
+  "localName": "རྒྱལ་ཡོངས་ཁྲུས་བབས་ངལ་གསོ།",
+  "name": "Blessed Rainy Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BT-15"
+  ],
+  "date": "2028-09-24",
+  "global": false,
+  "localName": "Thimphu Drubchoe",
+  "name": "Thimphu Drubchoe",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-27",
+  "global": true,
+  "localName": "ལྷོ་མཚམས་ད་སའིན་ངལ་གསོ། (ཚོད་དཔག་གི།)",
+  "name": "Dassain (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BT-15"
+  ],
+  "date": "2028-09-28",
+  "global": false,
+  "localName": "Thimphu Tshechu",
+  "name": "Thimphu Tshechu",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BT-15"
+  ],
+  "date": "2028-09-29",
+  "global": false,
+  "localName": "Thimphu Tshechu",
+  "name": "Thimphu Tshechu",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BT-15"
+  ],
+  "date": "2028-09-30",
+  "global": false,
+  "localName": "Thimphu Tshechu",
+  "name": "Thimphu Tshechu",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-01",
+  "global": true,
+  "localName": "མི་དབང་མངའ་བདག་རིན་པོ་ཆེའི་གསེར་ཁྲི་མངའ་གསོལ་གྱི་དུས་ཆེན་ངལ་གསོལ།",
+  "name": "Coronation of His Majesty the King",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-09",
+  "global": true,
+  "localName": "རྒྱལ་བ་ལྷ་ལས་བབས་པའི་དུས་ཆེན་ངལ་གསོ།",
+  "name": "Descending Day of Lord Buddha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-11",
+  "global": true,
+  "localName": "མི་དབང་འབྲུག་རྒྱལ་བཞི་པའི་འཁྲུངས་སྐར་དུས་ཆེན་ངལ་གསོལ།",
+  "name": "Birth Anniversary of the 4th Druk Gyalpo - Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-17",
+  "global": true,
+  "localName": "རྒྱལ་ཡོངས་དུས་ཆེན་གྱི་ངལ་གསོལ།",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

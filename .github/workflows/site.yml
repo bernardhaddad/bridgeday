@@ -1,0 +1,80 @@
+name: site
+
+# Standalone copy of the workspace's .github/workflows/bridgeday-site.yml, for when this folder
+# is the root of its own (public) repository.
+
+# The whole business, unattended: every day regenerate the holiday data, run the tests, rebuild
+# the site and (once switched on) publish it. Nothing here needs a human.
+#
+# Publishing is off until the repository variable BRIDGEDAY_DEPLOY is set to "pages"
+# (Settings → Secrets and variables → Actions → Variables). A repository has one Pages site,
+# and Pages on a private repository needs a paid plan. See README.md.
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  push:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: make setup
+      # Tests only: a new ruff release must never freeze the site. Lint runs in local checks.
+      - run: make test
+      # Holidays are computed offline (holidays library, MIT), so new years appear by themselves.
+      # Population comes from the World Bank; if it is down, the committed snapshot is used.
+      - run: make data
+      # First-party Leave Intent counts (only the "most chosen" badge reaches the site; raw counts
+      # stay in this ephemeral runner). Skips quietly until the GOATCOUNTER_TOKEN secret is set.
+      - run: make intent
+        env:
+          GOATCOUNTER_TOKEN: ${{ secrets.GOATCOUNTER_TOKEN }}
+      - run: make build
+      - name: Smoke test the output
+        run: |
+          test -s dist/index.html && test -s dist/sitemap.xml
+          pages=$(grep -o "<loc>" dist/sitemap.xml | wc -l)
+          echo "sitemap URLs: $pages"
+          test "$pages" -gt 100
+      # Only runs that can deploy need the artifact; uploading on every push burns storage quota.
+      - uses: actions/upload-pages-artifact@v3
+        if: >-
+          vars.BRIDGEDAY_DEPLOY == 'pages'
+          && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    # Publish from the daily schedule (default branch only) or a deliberate manual run,
+    # never from an ordinary push to a work branch.
+    if: >-
+      vars.BRIDGEDAY_DEPLOY == 'pages'
+      && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      # Pages must be switched on once by hand (Settings → Pages → Source: GitHub Actions).
+      - uses: actions/configure-pages@v5
+      - id: deployment
+        uses: actions/deploy-pages@v4

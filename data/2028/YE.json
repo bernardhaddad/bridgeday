@@ -1,0 +1,172 @@
+[
+ {
+  "counties": null,
+  "date": "2028-02-25",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-26",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-27",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-28",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-29",
+  "global": true,
+  "localName": "عيد الفطر (يوم تعويضي تقديري)",
+  "name": "Eid al-Fitr (observed, estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "عيد العمال",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-04",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-05",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-06",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-07",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-08",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-09",
+  "global": true,
+  "localName": "عيد الأضحى (يوم تعويضي تقديري)",
+  "name": "Eid al-Adha (observed, estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-22",
+  "global": true,
+  "localName": "اليوم الوطني للجمهورية اليمنية",
+  "name": "Unity Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-25",
+  "global": true,
+  "localName": "عيد رأس السنة الهجرية (تقديري)",
+  "name": "Islamic New Year Day (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-26",
+  "global": true,
+  "localName": "ثورة 26 سبتمبر المجيدة",
+  "name": "Revolution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-14",
+  "global": true,
+  "localName": "ثورة 14 أكتوبر المجيدة",
+  "name": "Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-30",
+  "global": true,
+  "localName": "عيد الجلاء",
+  "name": "Evacuation Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

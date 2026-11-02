@@ -1,0 +1,112 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Nova godina",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-02",
+  "global": true,
+  "localName": "Nova godina",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-03",
+  "global": true,
+  "localName": "Nova godina (neradni dan)",
+  "name": "New Year's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Praznik rada",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-02",
+  "global": true,
+  "localName": "Praznik rada",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-21",
+  "global": true,
+  "localName": "Dan nezavisnosti",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-22",
+  "global": true,
+  "localName": "Dan nezavisnosti",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-23",
+  "global": true,
+  "localName": "Dan nezavisnosti (neradni dan)",
+  "name": "Independence Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-13",
+  "global": true,
+  "localName": "Dan državnosti",
+  "name": "Statehood Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-14",
+  "global": true,
+  "localName": "Dan državnosti",
+  "name": "Statehood Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-13",
+  "global": true,
+  "localName": "Njegošev dan",
+  "name": "Njegos Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

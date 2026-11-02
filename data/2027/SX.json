@@ -1,0 +1,142 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Nieuwjaarsdag",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Goede vrijdag",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-28",
+  "global": true,
+  "localName": "Eerste paasdag",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-29",
+  "global": true,
+  "localName": "Tweede paasdag",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-27",
+  "global": true,
+  "localName": "Koningsdag",
+  "name": "King's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-30",
+  "global": true,
+  "localName": "Carnavalsdag",
+  "name": "Carnival Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Dag van de Arbeid",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-06",
+  "global": true,
+  "localName": "Hemelvaartsdag",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-16",
+  "global": true,
+  "localName": "Eerste pinksterdag",
+  "name": "Pentecost",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-01",
+  "global": true,
+  "localName": "Dag van de Bevrijding",
+  "name": "Emancipation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-11",
+  "global": true,
+  "localName": "Dag van de Constitutie",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-11",
+  "global": true,
+  "localName": "Sint-Maartensdag",
+  "name": "Sint Maarten Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Eerste kerstdag",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-26",
+  "global": true,
+  "localName": "Tweede kerstdag",
+  "name": "Second Day of Christmas",
+  "types": [
+   "Public"
+  ]
+ }
+]

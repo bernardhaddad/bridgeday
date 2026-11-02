@@ -1,0 +1,132 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Le jour de l'An",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-27",
+  "global": true,
+  "localName": "Le jour de la Sainte-Dévote",
+  "name": "Saint Devote's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "Le Lundi de Pâques",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Le jour de la Fête du Travail",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-14",
+  "global": true,
+  "localName": "Le jour de l'Ascension",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-25",
+  "global": true,
+  "localName": "Le Lundi de Pentecôte",
+  "name": "Pentecost Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-04",
+  "global": true,
+  "localName": "Le jour de la Fête Dieu",
+  "name": "Corpus Christi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-15",
+  "global": true,
+  "localName": "Le jour de l'Assomption",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-01",
+  "global": true,
+  "localName": "Le jour de la Toussaint",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-02",
+  "global": true,
+  "localName": "Le jour de la Toussaint (reporté)",
+  "name": "All Saints' Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-19",
+  "global": true,
+  "localName": "Le jour de la Fête de S.A.S. le Prince Souverain",
+  "name": "Prince's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-08",
+  "global": true,
+  "localName": "Le jour de l'Immaculée Conception",
+  "name": "Immaculate Conception",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Le jour de Noël",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

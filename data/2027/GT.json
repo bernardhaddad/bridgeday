@@ -1,0 +1,115 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Año Nuevo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-25",
+  "global": true,
+  "localName": "Jueves Santo",
+  "name": "Maundy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-27",
+  "global": true,
+  "localName": "Sábado Santo",
+  "name": "Holy Saturday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Día del Trabajo",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-28",
+  "global": true,
+  "localName": "Día del Ejército",
+  "name": "Army Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GT-GU"
+  ],
+  "date": "2027-08-15",
+  "global": false,
+  "localName": "Día de la Asunción",
+  "name": "Assumption Day",
+  "source": "https://www.prensalibre.com/vida/escenario/feriado-largo-del-15-de-agosto-por-que-no-aplica-para-toda-guatemala/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-15",
+  "global": true,
+  "localName": "Día de la Independencia",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-20",
+  "global": true,
+  "localName": "Día de la Revolución",
+  "name": "Revolution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-01",
+  "global": true,
+  "localName": "Día de Todos los Santos",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Día de Navidad",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

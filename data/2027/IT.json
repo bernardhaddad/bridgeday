@@ -1,0 +1,1365 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Capodanno",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-06",
+  "global": true,
+  "localName": "Epifania",
+  "name": "Epiphany",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PR"
+  ],
+  "date": "2027-01-13",
+  "global": false,
+  "localName": "Saint Hilary of Poitiers's Day",
+  "name": "Saint Hilary of Poitiers's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-LO"
+  ],
+  "date": "2027-01-19",
+  "global": false,
+  "localName": "Saint Bassianus's Day",
+  "name": "Saint Bassianus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-CE"
+  ],
+  "date": "2027-01-20",
+  "global": false,
+  "localName": "Saint Sebastian's Day",
+  "name": "Saint Sebastian's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-NO"
+  ],
+  "date": "2027-01-22",
+  "global": false,
+  "localName": "Saint Gaudentius's Day",
+  "name": "Saint Gaudentius's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-MO"
+  ],
+  "date": "2027-01-31",
+  "global": false,
+  "localName": "Saint Geminianus's Day",
+  "name": "Saint Geminianus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-FC",
+   "IT-Forli"
+  ],
+  "date": "2027-02-04",
+  "global": false,
+  "localName": "Our Lady of the Fire",
+  "name": "Our Lady of the Fire",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-CT"
+  ],
+  "date": "2027-02-05",
+  "global": false,
+  "localName": "Saint Agatha's Day",
+  "name": "Saint Agatha's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-CS"
+  ],
+  "date": "2027-02-12",
+  "global": false,
+  "localName": "Our Lady of the Pilerio",
+  "name": "Our Lady of the Pilerio",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-OR"
+  ],
+  "date": "2027-02-13",
+  "global": false,
+  "localName": "Saint Archelaus's Day",
+  "name": "Saint Archelaus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-AV"
+  ],
+  "date": "2027-02-14",
+  "global": false,
+  "localName": "Saint Modestinus's Day",
+  "name": "Saint Modestinus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-TR"
+  ],
+  "date": "2027-02-14",
+  "global": false,
+  "localName": "Saint Valentine's Day",
+  "name": "Saint Valentine's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-BS"
+  ],
+  "date": "2027-02-15",
+  "global": false,
+  "localName": "Saints Faustinus and Jovita's Day",
+  "name": "Saints Faustinus and Jovita's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-AG"
+  ],
+  "date": "2027-02-25",
+  "global": false,
+  "localName": "Saint Gerland's Day",
+  "name": "Saint Gerland's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-VV"
+  ],
+  "date": "2027-03-01",
+  "global": false,
+  "localName": "Saint Leoluca's Day",
+  "name": "Saint Leoluca's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-GO"
+  ],
+  "date": "2027-03-16",
+  "global": false,
+  "localName": "Saints Hilary and Tatian's Day",
+  "name": "Saints Hilary and Tatian's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-SV"
+  ],
+  "date": "2027-03-18",
+  "global": false,
+  "localName": "Our Lady of Mercy",
+  "name": "Our Lady of Mercy",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-MN"
+  ],
+  "date": "2027-03-18",
+  "global": false,
+  "localName": "Saint Anselm of Baggio's Day",
+  "name": "Saint Anselm of Baggio's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-SP"
+  ],
+  "date": "2027-03-19",
+  "global": false,
+  "localName": "Saint Joseph's Day",
+  "name": "Saint Joseph's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-FG"
+  ],
+  "date": "2027-03-22",
+  "global": false,
+  "localName": "Our Lady of the Seven Veils",
+  "name": "Our Lady of the Seven Veils",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-28",
+  "global": true,
+  "localName": "Pasqua",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-29",
+  "global": true,
+  "localName": "Lunedì dell'Angelo",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-CB",
+   "IT-FE",
+   "IT-RC",
+   "IT-RG"
+  ],
+  "date": "2027-04-23",
+  "global": false,
+  "localName": "Saint George's Day",
+  "name": "Saint George's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-25",
+  "global": true,
+  "localName": "Anniversario della Liberazione",
+  "name": "Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-LT",
+   "IT-PN",
+   "IT-VE"
+  ],
+  "date": "2027-04-25",
+  "global": false,
+  "localName": "Saint Mark's Day",
+  "name": "Saint Mark's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-TV"
+  ],
+  "date": "2027-04-27",
+  "global": false,
+  "localName": "Saint Liberal's Day",
+  "name": "Saint Liberal's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Festa del Lavoro",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-BT",
+   "IT-Trani"
+  ],
+  "date": "2027-05-03",
+  "global": false,
+  "localName": "Saint Nicholas the Pilgrim's Day",
+  "name": "Saint Nicholas the Pilgrim's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-AN"
+  ],
+  "date": "2027-05-04",
+  "global": false,
+  "localName": "Saint Cyriacus's Day",
+  "name": "Saint Cyriacus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-AT"
+  ],
+  "date": "2027-05-04",
+  "global": false,
+  "localName": "Saint Secundus of Asti's Day",
+  "name": "Saint Secundus of Asti's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-VA",
+   "IT-VB"
+  ],
+  "date": "2027-05-08",
+  "global": false,
+  "localName": "Saint Victor the Moor's Day",
+  "name": "Saint Victor the Moor's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-TA"
+  ],
+  "date": "2027-05-10",
+  "global": false,
+  "localName": "Saint Catald's Day",
+  "name": "Saint Catald's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-CH"
+  ],
+  "date": "2027-05-11",
+  "global": false,
+  "localName": "Saint Justin of Chieti's Day",
+  "name": "Saint Justin of Chieti's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-SU"
+  ],
+  "date": "2027-05-13",
+  "global": false,
+  "localName": "Saint Pontian's Day",
+  "name": "Saint Pontian's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-BZ"
+  ],
+  "date": "2027-05-17",
+  "global": false,
+  "localName": "Pentecost Monday",
+  "name": "Pentecost Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-IS"
+  ],
+  "date": "2027-05-19",
+  "global": false,
+  "localName": "Saint Peter Celestine's Day",
+  "name": "Saint Peter Celestine's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-VR"
+  ],
+  "date": "2027-05-21",
+  "global": false,
+  "localName": "Saint Zeno's Day",
+  "name": "Saint Zeno's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-LI"
+  ],
+  "date": "2027-05-22",
+  "global": false,
+  "localName": "Saint Julia's Day",
+  "name": "Saint Julia's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PZ"
+  ],
+  "date": "2027-05-30",
+  "global": false,
+  "localName": "Saint Gerard of Potenza's Day",
+  "name": "Saint Gerard of Potenza's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PU",
+   "IT-Urbino"
+  ],
+  "date": "2027-06-01",
+  "global": false,
+  "localName": "Saint Crescentinus's Day",
+  "name": "Saint Crescentinus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-02",
+  "global": true,
+  "localName": "Festa della Repubblica",
+  "name": "Republic Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-ME"
+  ],
+  "date": "2027-06-03",
+  "global": false,
+  "localName": "Our Lady of the Letter",
+  "name": "Our Lady of the Letter",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-AQ"
+  ],
+  "date": "2027-06-10",
+  "global": false,
+  "localName": "Saint Maximus of Aveia's Day",
+  "name": "Saint Maximus of Aveia's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PD"
+  ],
+  "date": "2027-06-13",
+  "global": false,
+  "localName": "Saint Anthony of Padua's Day",
+  "name": "Saint Anthony of Padua's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PI"
+  ],
+  "date": "2027-06-17",
+  "global": false,
+  "localName": "Saint Ranieri's Day",
+  "name": "Saint Ranieri's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-SO"
+  ],
+  "date": "2027-06-19",
+  "global": false,
+  "localName": "Saints Gervasius and Protasius's Day",
+  "name": "Saints Gervasius and Protasius's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-FR"
+  ],
+  "date": "2027-06-20",
+  "global": false,
+  "localName": "Saint Silverius's Day",
+  "name": "Saint Silverius's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-FC",
+   "IT-FI",
+   "IT-GE",
+   "IT-MB",
+   "IT-TO",
+   "IT-Cesena"
+  ],
+  "date": "2027-06-24",
+  "global": false,
+  "localName": "Saint John's Day",
+  "name": "Saint John's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-TN"
+  ],
+  "date": "2027-06-26",
+  "global": false,
+  "localName": "Saint Vigilius's Day",
+  "name": "Saint Vigilius's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-RM"
+  ],
+  "date": "2027-06-29",
+  "global": false,
+  "localName": "Saints Peter and Paul's Day",
+  "name": "Saints Peter and Paul's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-MT"
+  ],
+  "date": "2027-07-02",
+  "global": false,
+  "localName": "Our Lady of the Bruna",
+  "name": "Our Lady of the Bruna",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-EN"
+  ],
+  "date": "2027-07-02",
+  "global": false,
+  "localName": "Visitation of Mary Day",
+  "name": "Visitation of Mary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PC"
+  ],
+  "date": "2027-07-04",
+  "global": false,
+  "localName": "Saint Antoninus of Piacenza's Day",
+  "name": "Saint Antoninus of Piacenza's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-LT"
+  ],
+  "date": "2027-07-06",
+  "global": false,
+  "localName": "Saint Maria Goretti's Day",
+  "name": "Saint Maria Goretti's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-LU"
+  ],
+  "date": "2027-07-12",
+  "global": false,
+  "localName": "Saint Paulinus of Lucca's Day",
+  "name": "Saint Paulinus of Lucca's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-UD"
+  ],
+  "date": "2027-07-12",
+  "global": false,
+  "localName": "Saints Hermagoras and Fortunatus's Day",
+  "name": "Saints Hermagoras and Fortunatus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PA"
+  ],
+  "date": "2027-07-15",
+  "global": false,
+  "localName": "Saint Rosalia's Day",
+  "name": "Saint Rosalia's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-CZ"
+  ],
+  "date": "2027-07-16",
+  "global": false,
+  "localName": "Saint Vitalian's Day",
+  "name": "Saint Vitalian's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-RA"
+  ],
+  "date": "2027-07-23",
+  "global": false,
+  "localName": "Saint Apollinaris's Day",
+  "name": "Saint Apollinaris's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PT"
+  ],
+  "date": "2027-07-25",
+  "global": false,
+  "localName": "Saint James's Day",
+  "name": "Saint James's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-VC"
+  ],
+  "date": "2027-08-01",
+  "global": false,
+  "localName": "Saint Eusebius of Vercelli's Day",
+  "name": "Saint Eusebius of Vercelli's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-NU"
+  ],
+  "date": "2027-08-05",
+  "global": false,
+  "localName": "Our Lady of the Snows",
+  "name": "Our Lady of the Snows",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-AP"
+  ],
+  "date": "2027-08-05",
+  "global": false,
+  "localName": "Saint Emidius's Day",
+  "name": "Saint Emidius's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-TP"
+  ],
+  "date": "2027-08-07",
+  "global": false,
+  "localName": "Saint Albert of Trapani's Day",
+  "name": "Saint Albert of Trapani's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-AR"
+  ],
+  "date": "2027-08-07",
+  "global": false,
+  "localName": "Saint Donatus of Arezzo's Day",
+  "name": "Saint Donatus of Arezzo's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-GR"
+  ],
+  "date": "2027-08-10",
+  "global": false,
+  "localName": "Saint Lawrence's Day",
+  "name": "Saint Lawrence's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PG"
+  ],
+  "date": "2027-08-11",
+  "global": false,
+  "localName": "Saint Clare of Assisi's Day",
+  "name": "Saint Clare of Assisi's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-15",
+  "global": true,
+  "localName": "Assunzione della Beata Vergine Maria",
+  "name": "Assumption Of Mary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-FM"
+  ],
+  "date": "2027-08-15",
+  "global": false,
+  "localName": "Assumption Day",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-FM"
+  ],
+  "date": "2027-08-16",
+  "global": false,
+  "localName": "Assumption Day",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-BN"
+  ],
+  "date": "2027-08-24",
+  "global": false,
+  "localName": "Saint Bartholomew's Day",
+  "name": "Saint Bartholomew's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-BG"
+  ],
+  "date": "2027-08-26",
+  "global": false,
+  "localName": "Saint Alexander of Bergamo's Day",
+  "name": "Saint Alexander of Bergamo's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-LE"
+  ],
+  "date": "2027-08-26",
+  "global": false,
+  "localName": "Saint Orontius's Day",
+  "name": "Saint Orontius's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-RG"
+  ],
+  "date": "2027-08-29",
+  "global": false,
+  "localName": "Saint John's Day",
+  "name": "Saint John's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-CO"
+  ],
+  "date": "2027-08-31",
+  "global": false,
+  "localName": "Saint Abbondius's Day",
+  "name": "Saint Abbondius's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-MC"
+  ],
+  "date": "2027-08-31",
+  "global": false,
+  "localName": "Saint Julian the Hospitaller's Day",
+  "name": "Saint Julian the Hospitaller's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-VT"
+  ],
+  "date": "2027-09-04",
+  "global": false,
+  "localName": "Saint Rose of Viterbo's Day",
+  "name": "Saint Rose of Viterbo's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-BR"
+  ],
+  "date": "2027-09-05",
+  "global": false,
+  "localName": "Saint Theodore of Amasea and Saint Lawrence of Brindisi's Day",
+  "name": "Saint Theodore of Amasea and Saint Lawrence of Brindisi's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-AO"
+  ],
+  "date": "2027-09-07",
+  "global": false,
+  "localName": "Saint Grat's Day",
+  "name": "Saint Grat's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PN"
+  ],
+  "date": "2027-09-08",
+  "global": false,
+  "localName": "Our Lady of Graces",
+  "name": "Our Lady of Graces",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-VI"
+  ],
+  "date": "2027-09-08",
+  "global": false,
+  "localName": "Our Lady of Monte Berico",
+  "name": "Our Lady of Monte Berico",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-NA"
+  ],
+  "date": "2027-09-19",
+  "global": false,
+  "localName": "Saint Januarius's Day",
+  "name": "Saint Januarius's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-BT",
+   "IT-Andria"
+  ],
+  "date": "2027-09-19",
+  "global": false,
+  "localName": "Saint Richard of Andria's Day",
+  "name": "Saint Richard of Andria's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-SA"
+  ],
+  "date": "2027-09-21",
+  "global": false,
+  "localName": "Saint Matthew's Day",
+  "name": "Saint Matthew's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PU",
+   "IT-Pesaro"
+  ],
+  "date": "2027-09-24",
+  "global": false,
+  "localName": "Saint Terentius of Pesaro's Day",
+  "name": "Saint Terentius of Pesaro's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-CL",
+   "IT-CN"
+  ],
+  "date": "2027-09-29",
+  "global": false,
+  "localName": "Saint Michael the Archangel's Day",
+  "name": "Saint Michael the Archangel's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-04",
+  "global": true,
+  "localName": "Festa nazionale di San Francesco d'Assisi, patrono d'Italia",
+  "name": "Saint Francis of Assisi, Patron Saint of Italy",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-MS",
+   "IT-PG"
+  ],
+  "date": "2027-10-04",
+  "global": false,
+  "localName": "Saint Francis of Assisi's Day",
+  "name": "Saint Francis of Assisi's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-BO"
+  ],
+  "date": "2027-10-04",
+  "global": false,
+  "localName": "Saint Petronius's Day",
+  "name": "Saint Petronius's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-KR"
+  ],
+  "date": "2027-10-09",
+  "global": false,
+  "localName": "Saint Dionysius's Day",
+  "name": "Saint Dionysius's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PE"
+  ],
+  "date": "2027-10-10",
+  "global": false,
+  "localName": "Saint Cetteus's Day",
+  "name": "Saint Cetteus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-RN"
+  ],
+  "date": "2027-10-14",
+  "global": false,
+  "localName": "Saint Gaudentius's Day",
+  "name": "Saint Gaudentius's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-CA"
+  ],
+  "date": "2027-10-30",
+  "global": false,
+  "localName": "Saint Saturninus of Cagliari's Day",
+  "name": "Saint Saturninus of Cagliari's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-01",
+  "global": true,
+  "localName": "Ognissanti",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-TS"
+  ],
+  "date": "2027-11-03",
+  "global": false,
+  "localName": "Saint Justus's Day",
+  "name": "Saint Justus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-AL"
+  ],
+  "date": "2027-11-10",
+  "global": false,
+  "localName": "Saint Baudolino's Day",
+  "name": "Saint Baudolino's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-BL"
+  ],
+  "date": "2027-11-11",
+  "global": false,
+  "localName": "Saint Martin's Day",
+  "name": "Saint Martin's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-CR"
+  ],
+  "date": "2027-11-13",
+  "global": false,
+  "localName": "Saint Homobonus's Day",
+  "name": "Saint Homobonus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-VE"
+  ],
+  "date": "2027-11-21",
+  "global": false,
+  "localName": "Our Lady of Health",
+  "name": "Our Lady of Health",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-RE"
+  ],
+  "date": "2027-11-24",
+  "global": false,
+  "localName": "Saint Prosper of Reggio's Day",
+  "name": "Saint Prosper of Reggio's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-RO"
+  ],
+  "date": "2027-11-26",
+  "global": false,
+  "localName": "Saint Bellinus's Day",
+  "name": "Saint Bellinus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-IM"
+  ],
+  "date": "2027-11-26",
+  "global": false,
+  "localName": "Saint Leonard of Porto Maurizio's Day",
+  "name": "Saint Leonard of Porto Maurizio's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-SI"
+  ],
+  "date": "2027-12-01",
+  "global": false,
+  "localName": "Saint Ansanus's Day",
+  "name": "Saint Ansanus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-RI"
+  ],
+  "date": "2027-12-04",
+  "global": false,
+  "localName": "Saint Barbara's Day",
+  "name": "Saint Barbara's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-BA",
+   "IT-LC",
+   "IT-SS"
+  ],
+  "date": "2027-12-06",
+  "global": false,
+  "localName": "Saint Nicholas's Day",
+  "name": "Saint Nicholas's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-MI"
+  ],
+  "date": "2027-12-07",
+  "global": false,
+  "localName": "Saint Ambrose's Day",
+  "name": "Saint Ambrose's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-08",
+  "global": true,
+  "localName": "Immacolata Concezione",
+  "name": "Immaculate Conception",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-PV"
+  ],
+  "date": "2027-12-09",
+  "global": false,
+  "localName": "Saint Syrus's Day",
+  "name": "Saint Syrus's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-SR"
+  ],
+  "date": "2027-12-13",
+  "global": false,
+  "localName": "Saint Lucy's Day",
+  "name": "Saint Lucy's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-TE"
+  ],
+  "date": "2027-12-19",
+  "global": false,
+  "localName": "Saint Berardo's Day",
+  "name": "Saint Berardo's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Natale",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-26",
+  "global": true,
+  "localName": "Santo Stefano",
+  "name": "Saint Stephen's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IT-BT",
+   "IT-Barletta"
+  ],
+  "date": "2027-12-30",
+  "global": false,
+  "localName": "Saint Roger's Day",
+  "name": "Saint Roger's Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

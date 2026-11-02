@@ -1,0 +1,122 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-07",
+  "global": true,
+  "localName": "የገና ወይም የልደት በዓል",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-20",
+  "global": true,
+  "localName": "የጥምቀት በዓል",
+  "name": "Epiphany",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-26",
+  "global": true,
+  "localName": "የኢድ አልፈጥር (ግምት)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-02",
+  "global": true,
+  "localName": "የአድዋ ድል በዓል",
+  "name": "Adwa Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "የስቅለት በዓል",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-16",
+  "global": true,
+  "localName": "የትንሳኤ(ፋሲካ) በዓል",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "የዓለም የሠራተኞች (የላብአደሮች) ቀን",
+  "name": "International Workers' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-05",
+  "global": true,
+  "localName": "",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-05",
+  "global": true,
+  "localName": "",
+  "name": "Ethiopian Patriots' Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-03",
+  "global": true,
+  "localName": "የመውሊድ በዓል (ግምት)",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-11",
+  "global": true,
+  "localName": "የዘመን መለወጫ (እንቁጣጣሽ) በዓል",
+  "name": "Ethiopian New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-27",
+  "global": true,
+  "localName": "የመስቀል በዓል",
+  "name": "Finding of True Cross",
+  "types": [
+   "Public"
+  ]
+ }
+]

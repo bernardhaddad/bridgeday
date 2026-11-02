@@ -1,0 +1,362 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Ano Novo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-14"
+  ],
+  "date": "2027-03-19",
+  "global": false,
+  "localName": "Saint Joseph's Day",
+  "name": "Saint Joseph's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Sexta-feira Santa",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-28",
+  "global": true,
+  "localName": "Páscoa",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-05"
+  ],
+  "date": "2027-04-13",
+  "global": false,
+  "localName": "Feast of Our Lady of Mércoles",
+  "name": "Feast of Our Lady of Mércoles",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-25",
+  "global": true,
+  "localName": "Dia da Liberdade",
+  "name": "Freedom Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Dia do Trabalhador",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-02"
+  ],
+  "date": "2027-05-06",
+  "global": false,
+  "localName": "Ascension Day",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-01"
+  ],
+  "date": "2027-05-12",
+  "global": false,
+  "localName": "Saint Joanna's Day",
+  "name": "Saint Joanna's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-20"
+  ],
+  "date": "2027-05-17",
+  "global": false,
+  "localName": "Day of the Autonomous Region of the Azores",
+  "name": "Day of the Autonomous Region of the Azores",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-10"
+  ],
+  "date": "2027-05-22",
+  "global": false,
+  "localName": "Municipal Holiday of Leiria",
+  "name": "Municipal Holiday of Leiria",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-12"
+  ],
+  "date": "2027-05-23",
+  "global": false,
+  "localName": "Municipal Holiday of Portalegre",
+  "name": "Municipal Holiday of Portalegre",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-27",
+  "global": true,
+  "localName": "Corpo de Deus",
+  "name": "Corpus Christi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-10",
+  "global": true,
+  "localName": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
+  "name": "Day of Portugal, Camões, and the Portuguese Communities",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-11",
+   "PT-17"
+  ],
+  "date": "2027-06-13",
+  "global": false,
+  "localName": "Saint Anthony's Day",
+  "name": "Saint Anthony's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-03",
+   "PT-13"
+  ],
+  "date": "2027-06-24",
+  "global": false,
+  "localName": "Saint John's Day",
+  "name": "Saint John's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-07"
+  ],
+  "date": "2027-06-29",
+  "global": false,
+  "localName": "Saint Peter's Day",
+  "name": "Saint Peter's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-30"
+  ],
+  "date": "2027-07-01",
+  "global": false,
+  "localName": "Day of the Autonomous Region of Madeira and the Madeiran Communities",
+  "name": "Day of the Autonomous Region of Madeira and the Madeiran Communities",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-06"
+  ],
+  "date": "2027-07-04",
+  "global": false,
+  "localName": "Saint Elizabeth's Day",
+  "name": "Saint Elizabeth's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-15",
+  "global": true,
+  "localName": "Assunção de Nossa Senhora",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-16"
+  ],
+  "date": "2027-08-20",
+  "global": false,
+  "localName": "Feast of Our Lady of Sorrows",
+  "name": "Feast of Our Lady of Sorrows",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-04"
+  ],
+  "date": "2027-08-22",
+  "global": false,
+  "localName": "Feast of Our Lady of Graces",
+  "name": "Feast of Our Lady of Graces",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-08"
+  ],
+  "date": "2027-09-07",
+  "global": false,
+  "localName": "Municipal Holiday of Faro",
+  "name": "Municipal Holiday of Faro",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-15"
+  ],
+  "date": "2027-09-15",
+  "global": false,
+  "localName": "Bocage Day",
+  "name": "Bocage Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-18"
+  ],
+  "date": "2027-09-21",
+  "global": false,
+  "localName": "Saint Matthew's Day",
+  "name": "Saint Matthew's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-05",
+  "global": true,
+  "localName": "Implantação da República",
+  "name": "Republic Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-01",
+  "global": true,
+  "localName": "Dia de Todos os Santos",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-09"
+  ],
+  "date": "2027-11-27",
+  "global": false,
+  "localName": "Municipal Holiday of Guarda",
+  "name": "Municipal Holiday of Guarda",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-01",
+  "global": true,
+  "localName": "Restauração da Independência",
+  "name": "Restoration of Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-08",
+  "global": true,
+  "localName": "Imaculada Conceição",
+  "name": "Immaculate Conception",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Dia de Natal",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "PT-30"
+  ],
+  "date": "2027-12-26",
+  "global": false,
+  "localName": "1st Octave",
+  "name": "1st Octave",
+  "types": [
+   "Public"
+  ]
+ }
+]

@@ -1,0 +1,153 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "رأس السنة الميلادية",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "عطلة عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr Holiday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-22",
+  "global": true,
+  "localName": "عطلة عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr Holiday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-09",
+  "global": true,
+  "localName": "عيد الشهداء",
+  "name": "Martyrs' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "عيد العمال",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-28",
+  "global": true,
+  "localName": "عطلة عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha Holiday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-16",
+  "global": true,
+  "localName": "رأس السنة الهجرية (تقديري)",
+  "name": "Islamic New Year (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-25",
+  "global": true,
+  "localName": "عيد الجمهورية",
+  "name": "Republic Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-13",
+  "global": true,
+  "localName": "عيد المرأة",
+  "name": "Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-25",
+  "global": true,
+  "localName": "عيد المولد النبوي (تقديري)",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-15",
+  "global": true,
+  "localName": "عيد الجلاء",
+  "name": "Evacuation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-17",
+  "global": true,
+  "localName": "عيد الثورة والشباب",
+  "name": "Revolution and Youth Day",
+  "source": "https://legislation-securite.tn/latest-laws/decret-presidentiel-n-2021-223-du-7-decembre-2021-fixant-les-jours-feries-donnant-lieu-a-conge-au-profit-des-personnels-de-letat-des-collectivites-locales-et-des-etablissements-public/",
+  "types": [
+   "Public"
+  ]
+ }
+]

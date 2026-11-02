@@ -1,0 +1,162 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Uudenvuodenpäivä",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-06",
+  "global": true,
+  "localName": "Loppiainen",
+  "name": "Epiphany",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Pitkäperjantai",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-16",
+  "global": true,
+  "localName": "Pääsiäispäivä",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-17",
+  "global": true,
+  "localName": "Toinen pääsiäispäivä",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Vappu",
+  "name": "May Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-25",
+  "global": true,
+  "localName": "Helatorstai",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-04",
+  "global": true,
+  "localName": "Helluntaipäivä",
+  "name": "Pentecost",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-09",
+  "global": true,
+  "localName": "Ahvenanmaan itsehallintopäivä",
+  "name": "Åland's Autonomy Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-23",
+  "global": true,
+  "localName": "Juhannusaatto",
+  "name": "Midsummer Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-24",
+  "global": true,
+  "localName": "Juhannuspäivä",
+  "name": "Midsummer Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-04",
+  "global": true,
+  "localName": "Pyhäinpäivä",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-06",
+  "global": true,
+  "localName": "Itsenäisyyspäivä",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-24",
+  "global": true,
+  "localName": "Jouluaatto",
+  "name": "Christmas Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Joulupäivä",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-26",
+  "global": true,
+  "localName": "Tapaninpäivä",
+  "name": "Second Day of Christmas",
+  "types": [
+   "Public"
+  ]
+ }
+]

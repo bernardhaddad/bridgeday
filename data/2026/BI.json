@@ -1,0 +1,152 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Jour de l'an",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-05",
+  "global": true,
+  "localName": "Fête de l'Unité",
+  "name": "Unity Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "Aid-El-Fithr (estimé)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "Commémoration de l'Assassinat du Président Cyprien Ntaryamira",
+  "name": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Fête Internationale du Travail",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-14",
+  "global": true,
+  "localName": "Jour de l'Ascension",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "Aid-El-Adha (estimé)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-08",
+  "global": true,
+  "localName": "Journée Nationale du Patriotisme et Commémoration de la Mort du Président Pierre Nkurunziza",
+  "name": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-01",
+  "global": true,
+  "localName": "Anniversaire de l'Indépendance",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-15",
+  "global": true,
+  "localName": "Assomption",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-13",
+  "global": true,
+  "localName": "Commémoration de l'Assassinat du Héros National, le Prince Louis Rwagasore",
+  "name": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-21",
+  "global": true,
+  "localName": "Commémoration de l'Assassinat du Président Melchior Ndadaye",
+  "name": "Commemoration of the Assassination of President Melchior Ndadaye",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-01",
+  "global": true,
+  "localName": "Toussaint",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-02",
+  "global": true,
+  "localName": "Toussaint (observé)",
+  "name": "All Saints' Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Noël",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

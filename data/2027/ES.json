@@ -1,0 +1,510 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Año Nuevo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-06",
+  "global": true,
+  "localName": "Epifanía del Señor",
+  "name": "Epiphany",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-IB"
+  ],
+  "date": "2027-03-01",
+  "global": false,
+  "localName": "Day of the Balearic Islands",
+  "name": "Day of the Balearic Islands",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-AN"
+  ],
+  "date": "2027-03-01",
+  "global": false,
+  "localName": "Monday following Andalusia Day",
+  "name": "Monday following Andalusia Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CE",
+   "ES-ML"
+  ],
+  "date": "2027-03-09",
+  "global": false,
+  "localName": "Eid al-Fitr (estimated)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-MC",
+   "ES-MD",
+   "ES-PV",
+   "ES-VC"
+  ],
+  "date": "2027-03-19",
+  "global": false,
+  "localName": "Saint Joseph's Day",
+  "name": "Saint Joseph's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-AN",
+   "ES-AR",
+   "ES-AS",
+   "ES-CB",
+   "ES-CE",
+   "ES-CL",
+   "ES-CM",
+   "ES-CN",
+   "ES-EX",
+   "ES-GA",
+   "ES-IB",
+   "ES-MC",
+   "ES-MD",
+   "ES-ML",
+   "ES-NC",
+   "ES-PV",
+   "ES-RI"
+  ],
+  "date": "2027-03-25",
+  "global": false,
+  "localName": "Maundy Thursday",
+  "name": "Maundy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CT",
+   "ES-IB",
+   "ES-NC",
+   "ES-PV",
+   "ES-RI",
+   "ES-VC",
+   "ES-Barcelona"
+  ],
+  "date": "2027-03-29",
+  "global": false,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CL"
+  ],
+  "date": "2027-04-23",
+  "global": false,
+  "localName": "Castile and León Day",
+  "name": "Castile and León Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-AR"
+  ],
+  "date": "2027-04-23",
+  "global": false,
+  "localName": "Saint George's Day",
+  "name": "Saint George's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Fiesta del Trabajo",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-MD"
+  ],
+  "date": "2027-05-03",
+  "global": false,
+  "localName": "Monday following Madrid Day",
+  "name": "Monday following Madrid Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CE",
+   "ES-ML"
+  ],
+  "date": "2027-05-16",
+  "global": false,
+  "localName": "Eid al-Adha (estimated)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-GA"
+  ],
+  "date": "2027-05-17",
+  "global": false,
+  "localName": "Galician Literature Day",
+  "name": "Galician Literature Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-Barcelona"
+  ],
+  "date": "2027-05-17",
+  "global": false,
+  "localName": "Pentecost Monday",
+  "name": "Pentecost Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CM"
+  ],
+  "date": "2027-05-27",
+  "global": false,
+  "localName": "Corpus Christi",
+  "name": "Corpus Christi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CM"
+  ],
+  "date": "2027-05-31",
+  "global": false,
+  "localName": "Castilla-La Mancha Day",
+  "name": "Castilla-La Mancha Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CN"
+  ],
+  "date": "2027-05-31",
+  "global": false,
+  "localName": "Monday following Day of the Canary Islands",
+  "name": "Monday following Day of the Canary Islands",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-RI"
+  ],
+  "date": "2027-06-09",
+  "global": false,
+  "localName": "La Rioja Day",
+  "name": "La Rioja Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-MC"
+  ],
+  "date": "2027-06-09",
+  "global": false,
+  "localName": "Murcia Day",
+  "name": "Murcia Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CE"
+  ],
+  "date": "2027-06-14",
+  "global": false,
+  "localName": "Monday following Saint Anthony's Day",
+  "name": "Monday following Saint Anthony's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CT",
+   "ES-VC",
+   "ES-Barcelona"
+  ],
+  "date": "2027-06-24",
+  "global": false,
+  "localName": "Saint John the Baptist",
+  "name": "Saint John the Baptist",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CB"
+  ],
+  "date": "2027-07-28",
+  "global": false,
+  "localName": "Cantabria Institutions Day",
+  "name": "Cantabria Institutions Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CE"
+  ],
+  "date": "2027-08-05",
+  "global": false,
+  "localName": "Santa Maria of Africa",
+  "name": "Santa Maria of Africa",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-AN",
+   "ES-AR",
+   "ES-AS",
+   "ES-CL",
+   "ES-CN"
+  ],
+  "date": "2027-08-16",
+  "global": false,
+  "localName": "Monday following Assumption Day",
+  "name": "Monday following Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CE"
+  ],
+  "date": "2027-09-02",
+  "global": false,
+  "localName": "Ceuta Day",
+  "name": "Ceuta Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-AS"
+  ],
+  "date": "2027-09-08",
+  "global": false,
+  "localName": "Asturias Day",
+  "name": "Asturias Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-ML"
+  ],
+  "date": "2027-09-08",
+  "global": false,
+  "localName": "Day of Our Lady of Victory",
+  "name": "Day of Our Lady of Victory",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-EX"
+  ],
+  "date": "2027-09-08",
+  "global": false,
+  "localName": "Extremadura Day",
+  "name": "Extremadura Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CT",
+   "ES-Barcelona"
+  ],
+  "date": "2027-09-11",
+  "global": false,
+  "localName": "National Day of Catalonia",
+  "name": "National Day of Catalonia",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-CB"
+  ],
+  "date": "2027-09-15",
+  "global": false,
+  "localName": "Our Lady of Bien Aparecida",
+  "name": "Our Lady of Bien Aparecida",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-ML"
+  ],
+  "date": "2027-09-17",
+  "global": false,
+  "localName": "Melilla Day",
+  "name": "Melilla Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-Barcelona"
+  ],
+  "date": "2027-09-24",
+  "global": false,
+  "localName": "Our Lady of Mercy",
+  "name": "Our Lady of Mercy",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-VC"
+  ],
+  "date": "2027-10-09",
+  "global": false,
+  "localName": "Valencian Community Day",
+  "name": "Valencian Community Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-12",
+  "global": true,
+  "localName": "Fiesta Nacional de España",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-01",
+  "global": true,
+  "localName": "Todos los Santos",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ES-NC"
+  ],
+  "date": "2027-12-03",
+  "global": false,
+  "localName": "Saint Francis Xavier's Day",
+  "name": "Saint Francis Xavier's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-06",
+  "global": true,
+  "localName": "Día de la Constitución Española",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-08",
+  "global": true,
+  "localName": "Inmaculada Concepción",
+  "name": "Immaculate Conception",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Natividad del Señor",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

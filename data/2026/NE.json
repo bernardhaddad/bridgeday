@@ -1,0 +1,174 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Jour de l'An",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-16",
+  "global": true,
+  "localName": "Laylat al-Qadr (estimé)",
+  "name": "Laylat al-Qadr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "Korité (estimé)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "",
+  "name": "Day after Eid al-Fitr",
+  "source": "https://www.lesahel.org/communiques-du-ministere-de-la-fonction-publique-du-travail-et-de-lemploi-3/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-26",
+  "global": true,
+  "localName": "Journée de la Refondation",
+  "name": "Refoundation Day",
+  "source": "https://anp.ne/fetes-legales-au-niger-laid-el-fitr-ramadan-portee-a-deux-jours-feries-et-le-26-mars-institue-journee-de-la-refondation-conseil-des-ministres/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "Lundi de Pâques",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-24",
+  "global": true,
+  "localName": "Fête nationale de la Concorde",
+  "name": "National Concord Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Journée internationale du travail",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "Tabaski (estimé)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-28",
+  "global": true,
+  "localName": "Lendemain de la Tabaski (estimé)",
+  "name": "Day after Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-16",
+  "global": true,
+  "localName": "Jour de l'An musulman (estimé)",
+  "name": "Islamic New Year (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-26",
+  "global": true,
+  "localName": "Anniversaire du coup d'État du CNSP",
+  "name": "Anniversary of the CNSP Coup",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-27",
+  "global": true,
+  "localName": "Anniversaire du coup d'État du CNSP (observé)",
+  "name": "Anniversary of the CNSP Coup (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-03",
+  "global": true,
+  "localName": "L'anniversaire de la proclamation de l'indépendance",
+  "name": "Anniversary of the Proclamation of Independence",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-25",
+  "global": true,
+  "localName": "Mouloud (estimé)",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-18",
+  "global": true,
+  "localName": "Fête nationale",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Noël",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

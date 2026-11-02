@@ -1,0 +1,162 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-01",
+  "global": true,
+  "localName": "The Anniversary of the Birth of Hamilton Lavity Stoutt",
+  "name": "Lavity Stoutt's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-29",
+  "global": true,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "Whit Monday",
+  "name": "Pentecost Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-11",
+  "global": true,
+  "localName": "Sovereign's Birthday",
+  "name": "Sovereign's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-05",
+  "global": true,
+  "localName": "Virgin Islands Day",
+  "name": "Virgin Islands Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-02",
+  "global": true,
+  "localName": "Emancipation Monday",
+  "name": "Emancipation Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-03",
+  "global": true,
+  "localName": "Emancipation Tuesday",
+  "name": "Emancipation Tuesday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-04",
+  "global": true,
+  "localName": "Emancipation Wednesday",
+  "name": "Emancipation Wednesday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-18",
+  "global": true,
+  "localName": "Heroes and Foreparents Day",
+  "name": "Heroes and Foreparents Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-22",
+  "global": true,
+  "localName": "The Great March of 1949 and Restoration Day",
+  "name": "The Great March of 1949 and Restoration Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-26",
+  "global": true,
+  "localName": "Boxing Day",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-27",
+  "global": true,
+  "localName": "Christmas Day (observed)",
+  "name": "Christmas Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-28",
+  "global": true,
+  "localName": "Boxing Day (observed)",
+  "name": "Boxing Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

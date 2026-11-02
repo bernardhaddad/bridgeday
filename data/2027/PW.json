@@ -1,0 +1,142 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-15",
+  "global": true,
+  "localName": "Youth Day",
+  "name": "Youth Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-05",
+  "global": true,
+  "localName": "Senior Citizens Day",
+  "name": "Senior Citizens Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-01",
+  "global": true,
+  "localName": "President's Day",
+  "name": "President's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-09",
+  "global": true,
+  "localName": "Constitution Day",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-06",
+  "global": true,
+  "localName": "Labor Day",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-01",
+  "global": true,
+  "localName": "Independence Day",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-24",
+  "global": true,
+  "localName": "United Nations Day",
+  "name": "United Nations Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-25",
+  "global": true,
+  "localName": "United Nations Day (observed)",
+  "name": "United Nations Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-25",
+  "global": true,
+  "localName": "Thanksgiving Day",
+  "name": "Thanksgiving Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-26",
+  "global": true,
+  "localName": "Family Day",
+  "name": "Family Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-24",
+  "global": true,
+  "localName": "Christmas Day (observed)",
+  "name": "Christmas Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-31",
+  "global": true,
+  "localName": "New Year's Day (observed)",
+  "name": "New Year's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

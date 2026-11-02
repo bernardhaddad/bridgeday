@@ -1,0 +1,192 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "رأس السنة الميلادي",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-05",
+  "global": true,
+  "localName": "ذكرى الإسراء والمعراج",
+  "name": "Isra' and Mi'raj",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-07",
+  "global": true,
+  "localName": "عيد الميلاد المجيد الشرقي",
+  "name": "Orthodox Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-08",
+  "global": true,
+  "localName": "يوم المراة العالمي",
+  "name": "International Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-09",
+  "global": true,
+  "localName": "عيد الفطر السعيد",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-10",
+  "global": true,
+  "localName": "عيد الفطر السعيد",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-11",
+  "global": true,
+  "localName": "عيد الفطر السعيد",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-28",
+  "global": true,
+  "localName": "عيد الفصح المجيد",
+  "name": "Easter",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "عيد العمال",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-02",
+  "global": true,
+  "localName": "عيد الفصح المجيد",
+  "name": "Easter",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-16",
+  "global": true,
+  "localName": "عيد الأضحى المبارك",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "عيد الأضحى المبارك",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-18",
+  "global": true,
+  "localName": "عيد الأضحى المبارك",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-19",
+  "global": true,
+  "localName": "عيد الأضحى المبارك",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-06",
+  "global": true,
+  "localName": "رأس السنة الهجرية",
+  "name": "Islamic New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-14",
+  "global": true,
+  "localName": "ذكرى المولد النبوي الشريف",
+  "name": "Prophet's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-15",
+  "global": true,
+  "localName": "عيد الاستقلال",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "",
+  "name": "Catholic Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "",
+  "name": "Isra' and Mi'raj",
+  "types": [
+   "Public"
+  ]
+ }
+]

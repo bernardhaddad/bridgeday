@@ -1,0 +1,1950 @@
+[
+ {
+  "countryCode": "AF",
+  "name": "Afghanistan",
+  "weekend": [
+   5
+  ]
+ },
+ {
+  "countryCode": "AL",
+  "name": "Albania",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "DZ",
+  "name": "Algeria",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "AS",
+  "name": "American Samoa",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "AD",
+  "name": "Andorra",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "AO",
+  "name": "Angola",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "AI",
+  "name": "Anguilla",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "AG",
+  "name": "Antigua and Barbuda",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "AR",
+  "name": "Argentina",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "AM",
+  "name": "Armenia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "AW",
+  "name": "Aruba",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "AU",
+  "name": "Australia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "AT",
+  "name": "Austria",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "AZ",
+  "name": "Azerbaijan",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BS",
+  "name": "Bahamas",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BH",
+  "name": "Bahrain",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "BD",
+  "name": "Bangladesh",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "BB",
+  "name": "Barbados",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BY",
+  "name": "Belarus",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BE",
+  "name": "Belgium",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BZ",
+  "name": "Belize",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BJ",
+  "name": "Benin",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BM",
+  "name": "Bermuda",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BT",
+  "name": "Bhutan",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BO",
+  "name": "Bolivia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BQ",
+  "name": "Bonaire Sint Eustatius and Saba",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BA",
+  "name": "Bosnia and Herzegovina",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BW",
+  "name": "Botswana",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BR",
+  "name": "Brazil",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "IO",
+  "name": "British Indian Ocean Territory",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "VG",
+  "name": "British Virgin Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BN",
+  "name": "Brunei",
+  "weekend": [
+   5,
+   7
+  ]
+ },
+ {
+  "countryCode": "BG",
+  "name": "Bulgaria",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BF",
+  "name": "Burkina Faso",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BI",
+  "name": "Burundi",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CV",
+  "name": "Cabo Verde",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "KH",
+  "name": "Cambodia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CM",
+  "name": "Cameroon",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CA",
+  "name": "Canada",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "KY",
+  "name": "Cayman Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CF",
+  "name": "Central African Republic",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TD",
+  "name": "Chad",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CL",
+  "name": "Chile",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CN",
+  "name": "China",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CX",
+  "name": "Christmas Island",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CC",
+  "name": "Cocos (Keeling) Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CO",
+  "name": "Colombia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "KM",
+  "name": "Comoros",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CG",
+  "name": "Congo",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CK",
+  "name": "Cook Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CR",
+  "name": "Costa Rica",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "HR",
+  "name": "Croatia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CU",
+  "name": "Cuba",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CW",
+  "name": "Curaçao",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CY",
+  "name": "Cyprus",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CZ",
+  "name": "Czechia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CI",
+  "name": "Côte d'Ivoire",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CD",
+  "name": "DR Congo",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "DK",
+  "name": "Denmark",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "DJ",
+  "name": "Djibouti",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "DM",
+  "name": "Dominica",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "DO",
+  "name": "Dominican Republic",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "EC",
+  "name": "Ecuador",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "EG",
+  "name": "Egypt",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "SV",
+  "name": "El Salvador",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GQ",
+  "name": "Equatorial Guinea",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "ER",
+  "name": "Eritrea",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "EE",
+  "name": "Estonia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SZ",
+  "name": "Eswatini",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "ET",
+  "name": "Ethiopia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "FK",
+  "name": "Falkland Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "FO",
+  "name": "Faroe Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "FJ",
+  "name": "Fiji",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "FI",
+  "name": "Finland",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "FR",
+  "name": "France",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GF",
+  "name": "French Guiana",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "PF",
+  "name": "French Polynesia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GA",
+  "name": "Gabon",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GM",
+  "name": "Gambia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GE",
+  "name": "Georgia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "DE",
+  "name": "Germany",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GH",
+  "name": "Ghana",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GI",
+  "name": "Gibraltar",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GR",
+  "name": "Greece",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GL",
+  "name": "Greenland",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GD",
+  "name": "Grenada",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GP",
+  "name": "Guadeloupe",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GU",
+  "name": "Guam",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GT",
+  "name": "Guatemala",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GG",
+  "name": "Guernsey",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GN",
+  "name": "Guinea",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GW",
+  "name": "Guinea-Bissau",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GY",
+  "name": "Guyana",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "HT",
+  "name": "Haiti",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "HN",
+  "name": "Honduras",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "HK",
+  "name": "Hong Kong",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "HU",
+  "name": "Hungary",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "IS",
+  "name": "Iceland",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "IN",
+  "name": "India",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "ID",
+  "name": "Indonesia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "IR",
+  "name": "Iran",
+  "weekend": [
+   5
+  ]
+ },
+ {
+  "countryCode": "IQ",
+  "name": "Iraq",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "IE",
+  "name": "Ireland",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "IM",
+  "name": "Isle of Man",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "IL",
+  "name": "Israel",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "IT",
+  "name": "Italy",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "JM",
+  "name": "Jamaica",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "JP",
+  "name": "Japan",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "JE",
+  "name": "Jersey",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "JO",
+  "name": "Jordan",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "KZ",
+  "name": "Kazakhstan",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "KE",
+  "name": "Kenya",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "KI",
+  "name": "Kiribati",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "XK",
+  "name": "Kosovo",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "KW",
+  "name": "Kuwait",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "KG",
+  "name": "Kyrgyzstan",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "LA",
+  "name": "Laos",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "LV",
+  "name": "Latvia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "LB",
+  "name": "Lebanon",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "LS",
+  "name": "Lesotho",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "LR",
+  "name": "Liberia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "LY",
+  "name": "Libya",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "LI",
+  "name": "Liechtenstein",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "LT",
+  "name": "Lithuania",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "LU",
+  "name": "Luxembourg",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MO",
+  "name": "Macau",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MG",
+  "name": "Madagascar",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MW",
+  "name": "Malawi",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MY",
+  "name": "Malaysia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MV",
+  "name": "Maldives",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "ML",
+  "name": "Mali",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MT",
+  "name": "Malta",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MH",
+  "name": "Marshall Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MQ",
+  "name": "Martinique",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MR",
+  "name": "Mauritania",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MU",
+  "name": "Mauritius",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "YT",
+  "name": "Mayotte",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MX",
+  "name": "Mexico",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "FM",
+  "name": "Micronesia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MD",
+  "name": "Moldova",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MC",
+  "name": "Monaco",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MN",
+  "name": "Mongolia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "ME",
+  "name": "Montenegro",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MS",
+  "name": "Montserrat",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MA",
+  "name": "Morocco",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MZ",
+  "name": "Mozambique",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MM",
+  "name": "Myanmar",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "NA",
+  "name": "Namibia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "NR",
+  "name": "Nauru",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "NP",
+  "name": "Nepal",
+  "weekend": [
+   6
+  ]
+ },
+ {
+  "countryCode": "NL",
+  "name": "Netherlands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "NC",
+  "name": "New Caledonia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "NZ",
+  "name": "New Zealand",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "NI",
+  "name": "Nicaragua",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "NE",
+  "name": "Niger",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "NG",
+  "name": "Nigeria",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "NU",
+  "name": "Niue",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "NF",
+  "name": "Norfolk Island",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "KP",
+  "name": "North Korea",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MK",
+  "name": "North Macedonia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MP",
+  "name": "Northern Mariana Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "NO",
+  "name": "Norway",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "OM",
+  "name": "Oman",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "PK",
+  "name": "Pakistan",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "PW",
+  "name": "Palau",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "PS",
+  "name": "Palestine",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "PA",
+  "name": "Panama",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "PG",
+  "name": "Papua New Guinea",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "PY",
+  "name": "Paraguay",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "PE",
+  "name": "Peru",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "PH",
+  "name": "Philippines",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "PN",
+  "name": "Pitcairn Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "PL",
+  "name": "Poland",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "PT",
+  "name": "Portugal",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "PR",
+  "name": "Puerto Rico",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "QA",
+  "name": "Qatar",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "RO",
+  "name": "Romania",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "RU",
+  "name": "Russia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "RW",
+  "name": "Rwanda",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "RE",
+  "name": "Réunion",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "BL",
+  "name": "Saint Barthélemy",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SH",
+  "name": "Saint Helena Ascension and Tristan Da Cunha",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "KN",
+  "name": "Saint Kitts and Nevis",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "LC",
+  "name": "Saint Lucia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "MF",
+  "name": "Saint Martin",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "PM",
+  "name": "Saint Pierre and Miquelon",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "VC",
+  "name": "Saint Vincent and the Grenadines",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "WS",
+  "name": "Samoa",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SM",
+  "name": "San Marino",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SA",
+  "name": "Saudi Arabia",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "SN",
+  "name": "Senegal",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "RS",
+  "name": "Serbia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SC",
+  "name": "Seychelles",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SL",
+  "name": "Sierra Leone",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SG",
+  "name": "Singapore",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SX",
+  "name": "Sint Maarten",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SK",
+  "name": "Slovakia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SI",
+  "name": "Slovenia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SB",
+  "name": "Solomon Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SO",
+  "name": "Somalia",
+  "weekend": [
+   5
+  ]
+ },
+ {
+  "countryCode": "ZA",
+  "name": "South Africa",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "KR",
+  "name": "South Korea",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SS",
+  "name": "South Sudan",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "ES",
+  "name": "Spain",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "LK",
+  "name": "Sri Lanka",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SD",
+  "name": "Sudan",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "SR",
+  "name": "Suriname",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SJ",
+  "name": "Svalbard and Jan Mayen",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SE",
+  "name": "Sweden",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "CH",
+  "name": "Switzerland",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "SY",
+  "name": "Syria",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "ST",
+  "name": "São Tomé and Príncipe",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TW",
+  "name": "Taiwan",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TJ",
+  "name": "Tajikistan",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TZ",
+  "name": "Tanzania",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TH",
+  "name": "Thailand",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TL",
+  "name": "Timor-Leste",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TG",
+  "name": "Togo",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TK",
+  "name": "Tokelau",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TO",
+  "name": "Tonga",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TT",
+  "name": "Trinidad and Tobago",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TN",
+  "name": "Tunisia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TR",
+  "name": "Turkey",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TM",
+  "name": "Turkmenistan",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TC",
+  "name": "Turks and Caicos Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "TV",
+  "name": "Tuvalu",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "VI",
+  "name": "U.S. Virgin Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "UG",
+  "name": "Uganda",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "UA",
+  "name": "Ukraine",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "AE",
+  "name": "United Arab Emirates",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "GB",
+  "name": "United Kingdom",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "US",
+  "name": "United States",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "UY",
+  "name": "Uruguay",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "UZ",
+  "name": "Uzbekistan",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "VU",
+  "name": "Vanuatu",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "VA",
+  "name": "Vatican City",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "VE",
+  "name": "Venezuela",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "VN",
+  "name": "Vietnam",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "WF",
+  "name": "Wallis and Futuna",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "EH",
+  "name": "Western Sahara",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "YE",
+  "name": "Yemen",
+  "weekend": [
+   5,
+   6
+  ]
+ },
+ {
+  "countryCode": "ZM",
+  "name": "Zambia",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "ZW",
+  "name": "Zimbabwe",
+  "weekend": [
+   6,
+   7
+  ]
+ },
+ {
+  "countryCode": "AX",
+  "name": "Åland Islands",
+  "weekend": [
+   6,
+   7
+  ]
+ }
+]

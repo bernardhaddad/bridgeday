@@ -1,0 +1,222 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "元旦",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-02",
+  "global": true,
+  "localName": "休息日（由 2026-01-04 调休）",
+  "name": "Day off (substituted from 01/04/2026)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-16",
+  "global": true,
+  "localName": "农历除夕",
+  "name": "Chinese New Year's Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-17",
+  "global": true,
+  "localName": "春节",
+  "name": "Chinese New Year (Spring Festival)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-18",
+  "global": true,
+  "localName": "春节",
+  "name": "Chinese New Year (Spring Festival)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-19",
+  "global": true,
+  "localName": "春节",
+  "name": "Chinese New Year (Spring Festival)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-20",
+  "global": true,
+  "localName": "休息日（由 2026-02-14 调休）",
+  "name": "Day off (substituted from 02/14/2026)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-23",
+  "global": true,
+  "localName": "休息日（由 2026-02-28 调休）",
+  "name": "Day off (substituted from 02/28/2026)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-05",
+  "global": true,
+  "localName": "清明节",
+  "name": "Tomb-Sweeping Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "清明节（补假）",
+  "name": "Tomb-Sweeping Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "劳动节",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-02",
+  "global": true,
+  "localName": "劳动节",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-04",
+  "global": true,
+  "localName": "劳动节（补假）",
+  "name": "Labor Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-05",
+  "global": true,
+  "localName": "休息日（由 2026-05-09 调休）",
+  "name": "Day off (substituted from 05/09/2026)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-19",
+  "global": true,
+  "localName": "端午节",
+  "name": "Dragon Boat Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-25",
+  "global": true,
+  "localName": "中秋节",
+  "name": "Mid-Autumn Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-01",
+  "global": true,
+  "localName": "国庆节",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-02",
+  "global": true,
+  "localName": "国庆节",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-03",
+  "global": true,
+  "localName": "国庆节",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-05",
+  "global": true,
+  "localName": "国庆节（补假）",
+  "name": "National Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-06",
+  "global": true,
+  "localName": "休息日（由 2026-09-20 调休）",
+  "name": "Day off (substituted from 09/20/2026)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-07",
+  "global": true,
+  "localName": "休息日（由 2026-10-10 调休）",
+  "name": "Day off (substituted from 10/10/2026)",
+  "types": [
+   "Public"
+  ]
+ }
+]

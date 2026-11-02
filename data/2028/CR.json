@@ -1,0 +1,92 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Año Nuevo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-11",
+  "global": true,
+  "localName": "Día de Juan Santamaría",
+  "name": "Juan Santamaría Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-13",
+  "global": true,
+  "localName": "Jueves Santo",
+  "name": "Maundy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Día Internacional del Trabajo",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-25",
+  "global": true,
+  "localName": "Anexión del Partido de Nicoya a Costa Rica",
+  "name": "Annexation of the Party of Nicoya to Costa Rica",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-15",
+  "global": true,
+  "localName": "Día de la Madre",
+  "name": "Mother's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-15",
+  "global": true,
+  "localName": "Día de la Independencia",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Navidad",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

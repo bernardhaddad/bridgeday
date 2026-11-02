@@ -1,0 +1,101 @@
+[
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-17",
+  "global": true,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SH-HL"
+  ],
+  "date": "2028-05-21",
+  "global": false,
+  "localName": "Saint Helena Day",
+  "name": "Saint Helena Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SH-HL"
+  ],
+  "date": "2028-05-22",
+  "global": false,
+  "localName": "Saint Helena Day (observed)",
+  "name": "Saint Helena Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SH-AC",
+   "SH-TA"
+  ],
+  "date": "2028-05-25",
+  "global": false,
+  "localName": "Ascension Day",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SH-TA"
+  ],
+  "date": "2028-08-14",
+  "global": false,
+  "localName": "Anniversary Day",
+  "name": "Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-17",
+  "global": true,
+  "localName": "King's Birthday",
+  "name": "King's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-26",
+  "global": true,
+  "localName": "Boxing Day",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

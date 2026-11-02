@@ -1,0 +1,154 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Taom-baovao",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-08",
+  "global": true,
+  "localName": "Fetin'ny vehivavy",
+  "name": "Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-09",
+  "global": true,
+  "localName": "",
+  "name": "Eid al-Fitr (estimated)",
+  "source": "https://www.comptoirdesvoyages.fr/guide/madagascar/quand-partir-a-madagascar/les-jours-feries-a-madagascar/4594",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-28",
+  "global": true,
+  "localName": "Fetin'ny paska",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-29",
+  "global": true,
+  "localName": "",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-29",
+  "global": true,
+  "localName": "",
+  "name": "Martyrs' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Fetin'ny asa",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-06",
+  "global": true,
+  "localName": "Fiakaran'ny Jesosy kristy tany an-danitra",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-16",
+  "global": true,
+  "localName": "Pentekosta",
+  "name": "Pentecost",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "",
+  "name": "Eid al-Adha (estimated)",
+  "source": "https://www.comptoirdesvoyages.fr/guide/madagascar/quand-partir-a-madagascar/les-jours-feries-a-madagascar/4594",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "Alatsinain'ny pentekosta",
+  "name": "Pentecost Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-26",
+  "global": true,
+  "localName": "Fetin'ny fahaleovantena",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-15",
+  "global": true,
+  "localName": "Fiakaran'ny Masina Maria tany an-danitra",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-01",
+  "global": true,
+  "localName": "Fetin'ny olo-masina",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Fetin'ny noely",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

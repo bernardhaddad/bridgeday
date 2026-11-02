@@ -1,0 +1,192 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "신정연휴",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-26",
+  "global": true,
+  "localName": "설날 전날",
+  "name": "The day preceding Korean New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-27",
+  "global": true,
+  "localName": "설날",
+  "name": "Korean New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-28",
+  "global": true,
+  "localName": "설날 다음날",
+  "name": "The second day of Korean New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-01",
+  "global": true,
+  "localName": "삼일절",
+  "name": "Independence Movement Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-12",
+  "global": true,
+  "localName": "국회의원 선거일",
+  "name": "National Assembly Election Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "노동절",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-02",
+  "global": true,
+  "localName": "부처님오신날",
+  "name": "Buddha's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-05",
+  "global": true,
+  "localName": "어린이날",
+  "name": "Children's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-06",
+  "global": true,
+  "localName": "현충일",
+  "name": "Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-17",
+  "global": true,
+  "localName": "제헌절",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-15",
+  "global": true,
+  "localName": "광복절",
+  "name": "Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-02",
+  "global": true,
+  "localName": "추석 전날",
+  "name": "The day preceding Chuseok",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-03",
+  "global": true,
+  "localName": "",
+  "name": "Chuseok",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-03",
+  "global": true,
+  "localName": "",
+  "name": "National Foundation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-04",
+  "global": true,
+  "localName": "추석 다음날",
+  "name": "The second day of Chuseok",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-05",
+  "global": true,
+  "localName": "추석 대체 휴일",
+  "name": "Alternative holiday for Chuseok",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-09",
+  "global": true,
+  "localName": "한글날",
+  "name": "Hangul Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "기독탄신일",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

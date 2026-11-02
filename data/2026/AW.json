@@ -1,0 +1,112 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Aña Nobo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-25",
+  "global": true,
+  "localName": "Dia di Betico",
+  "name": "Betico Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-16",
+  "global": true,
+  "localName": "Dialuna prome cu diaranson di shinish",
+  "name": "Monday before Ash Wednesday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-18",
+  "global": true,
+  "localName": "Dia di Himno y Bandera",
+  "name": "National Anthem and Flag Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Bierna Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "Di dos dia di Pasco di Resureccion",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-27",
+  "global": true,
+  "localName": "Dia di Rey",
+  "name": "King's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Dia di Obrero",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-14",
+  "global": true,
+  "localName": "Dia di Asuncion",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Pasco di Nacemento",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-26",
+  "global": true,
+  "localName": "Di dos dia di Pasco di Nacemento",
+  "name": "Second Day of Christmas",
+  "types": [
+   "Public"
+  ]
+ }
+]

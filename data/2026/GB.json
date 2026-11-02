@@ -1,0 +1,184 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-SCT"
+  ],
+  "date": "2026-01-02",
+  "global": false,
+  "localName": "New Year Holiday",
+  "name": "New Year Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-NIR"
+  ],
+  "date": "2026-03-17",
+  "global": false,
+  "localName": "Saint Patrick's Day",
+  "name": "Saint Patrick's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-ENG",
+   "GB-NIR",
+   "GB-WLS"
+  ],
+  "date": "2026-04-06",
+  "global": false,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-04",
+  "global": true,
+  "localName": "May Day",
+  "name": "May Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-25",
+  "global": true,
+  "localName": "Spring Bank Holiday",
+  "name": "Spring Bank Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-SCT"
+  ],
+  "date": "2026-06-15",
+  "global": false,
+  "localName": "Scotland's participation in the FIFA World Cup final",
+  "name": "Scotland's participation in the FIFA World Cup final",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-NIR"
+  ],
+  "date": "2026-07-12",
+  "global": false,
+  "localName": "Battle of the Boyne",
+  "name": "Battle of the Boyne",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-NIR"
+  ],
+  "date": "2026-07-13",
+  "global": false,
+  "localName": "Battle of the Boyne (observed)",
+  "name": "Battle of the Boyne (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-SCT"
+  ],
+  "date": "2026-08-03",
+  "global": false,
+  "localName": "Summer Bank Holiday",
+  "name": "Summer Bank Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-ENG",
+   "GB-NIR",
+   "GB-WLS"
+  ],
+  "date": "2026-08-31",
+  "global": false,
+  "localName": "Late Summer Bank Holiday",
+  "name": "Late Summer Bank Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-SCT"
+  ],
+  "date": "2026-11-30",
+  "global": false,
+  "localName": "Saint Andrew's Day",
+  "name": "Saint Andrew's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-26",
+  "global": true,
+  "localName": "Boxing Day",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-28",
+  "global": true,
+  "localName": "Boxing Day (observed)",
+  "name": "Boxing Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

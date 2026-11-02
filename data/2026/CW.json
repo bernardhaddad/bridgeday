@@ -1,0 +1,122 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Aña Nobo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-16",
+  "global": true,
+  "localName": "Dialuna despues di Carnaval Grandi",
+  "name": "Carnival Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Bièrnèsantu",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-05",
+  "global": true,
+  "localName": "Pasku di Resurekshon",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "Di dos dia di Pasku di Resurekshon",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-27",
+  "global": true,
+  "localName": "Dia di Rey",
+  "name": "King's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Dia di Obrero",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-14",
+  "global": true,
+  "localName": "Dia di Asenshon",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-02",
+  "global": true,
+  "localName": "Dia di Himno i Bandera",
+  "name": "National Anthem and Flag Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-10",
+  "global": true,
+  "localName": "Dia di Pais Kòrsou",
+  "name": "Curaçao Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Pasku di Nasementu",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-26",
+  "global": true,
+  "localName": "Di dos dia di Pasku di Nasementu",
+  "name": "Second Day of Christmas",
+  "types": [
+   "Public"
+  ]
+ }
+]

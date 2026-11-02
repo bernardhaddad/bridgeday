@@ -1,0 +1,254 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SB-CH"
+  ],
+  "date": "2027-02-25",
+  "global": false,
+  "localName": "Choiseul Province Day",
+  "name": "Choiseul Province Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-27",
+  "global": true,
+  "localName": "Holy Saturday",
+  "name": "Holy Saturday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-29",
+  "global": true,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "Whit Monday",
+  "name": "Whit Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SB-IS"
+  ],
+  "date": "2027-06-02",
+  "global": false,
+  "localName": "Isabel Province Day",
+  "name": "Isabel Province Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SB-TE"
+  ],
+  "date": "2027-06-08",
+  "global": false,
+  "localName": "Temotu Province Day",
+  "name": "Temotu Province Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-18",
+  "global": true,
+  "localName": "King's Birthday",
+  "name": "King's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SB-CE"
+  ],
+  "date": "2027-06-29",
+  "global": false,
+  "localName": "Central Province Day",
+  "name": "Central Province Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-07",
+  "global": true,
+  "localName": "Independence Day",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SB-RB"
+  ],
+  "date": "2027-07-20",
+  "global": false,
+  "localName": "Rennell and Bellona Province Day",
+  "name": "Rennell and Bellona Province Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SB-GU"
+  ],
+  "date": "2027-08-01",
+  "global": false,
+  "localName": "Guadalcanal Province Day",
+  "name": "Guadalcanal Province Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SB-GU"
+  ],
+  "date": "2027-08-02",
+  "global": false,
+  "localName": "Guadalcanal Province Day (observed)",
+  "name": "Guadalcanal Province Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SB-MK"
+  ],
+  "date": "2027-08-03",
+  "global": false,
+  "localName": "Makira-Ulawa Province Day",
+  "name": "Makira-Ulawa Province Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SB-ML"
+  ],
+  "date": "2027-08-15",
+  "global": false,
+  "localName": "Malaita Province Day",
+  "name": "Malaita Province Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SB-ML"
+  ],
+  "date": "2027-08-16",
+  "global": false,
+  "localName": "Malaita Province Day (observed)",
+  "name": "Malaita Province Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SB-WE"
+  ],
+  "date": "2027-12-07",
+  "global": false,
+  "localName": "Western Province Day",
+  "name": "Western Province Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-26",
+  "global": true,
+  "localName": "National Day of Thanksgiving",
+  "name": "National Day of Thanksgiving",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-27",
+  "global": true,
+  "localName": "Christmas Day (observed)",
+  "name": "Christmas Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-28",
+  "global": true,
+  "localName": "National Day of Thanksgiving (observed)",
+  "name": "National Day of Thanksgiving (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-31",
+  "global": true,
+  "localName": "New Year's Day (observed)",
+  "name": "New Year's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

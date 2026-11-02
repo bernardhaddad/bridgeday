@@ -1,0 +1,152 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Año Nuevo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-16",
+  "global": true,
+  "localName": "Lunes de Carnaval",
+  "name": "Carnival Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-17",
+  "global": true,
+  "localName": "Martes de Carnaval",
+  "name": "Carnival Tuesday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-02",
+  "global": true,
+  "localName": "Jueves Santo",
+  "name": "Maundy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-19",
+  "global": true,
+  "localName": "Declaración de la Independencia",
+  "name": "Declaration of Independence",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Dia Mundial del Trabajador",
+  "name": "International Worker's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-15",
+  "global": true,
+  "localName": "Día de la Familia",
+  "name": "Family Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-24",
+  "global": true,
+  "localName": "Batalla de Carabobo",
+  "name": "Battle of Carabobo",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-05",
+  "global": true,
+  "localName": "Día de la Independencia",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-24",
+  "global": true,
+  "localName": "Natalicio de Simón Bolívar",
+  "name": "Birthday of Simon Bolivar",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-12",
+  "global": true,
+  "localName": "Día de la Resistencia Indígena",
+  "name": "Day of Indigenous Resistance",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-24",
+  "global": true,
+  "localName": "Nochebuena",
+  "name": "Christmas Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Día de Navidad",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-31",
+  "global": true,
+  "localName": "Fiesta de Fin de Año",
+  "name": "New Year's Eve",
+  "types": [
+   "Public"
+  ]
+ }
+]

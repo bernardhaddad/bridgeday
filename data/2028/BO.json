@@ -1,0 +1,240 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Año Nuevo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-22",
+  "global": true,
+  "localName": "Día de la Creación del Estado Plurinacional de Bolivia",
+  "name": "Plurinational State Foundation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BO-O"
+  ],
+  "date": "2028-02-25",
+  "global": false,
+  "localName": "Carnival in Oruro",
+  "name": "Carnival in Oruro",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-28",
+  "global": true,
+  "localName": "Carnaval",
+  "name": "Carnival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-29",
+  "global": true,
+  "localName": "Carnaval",
+  "name": "Carnival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BO-T"
+  ],
+  "date": "2028-04-15",
+  "global": false,
+  "localName": "La Tablada",
+  "name": "La Tablada",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Día del Trabajo",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BO-H"
+  ],
+  "date": "2028-05-25",
+  "global": false,
+  "localName": "Chuquisaca Day",
+  "name": "Chuquisaca Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-15",
+  "global": true,
+  "localName": "Corpus Christi",
+  "name": "Corpus Christi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-21",
+  "global": true,
+  "localName": "Año Nuevo Aymara Amazónico",
+  "name": "Aymara New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BO-L"
+  ],
+  "date": "2028-07-16",
+  "global": false,
+  "localName": "La Paz Day",
+  "name": "La Paz Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-06",
+  "global": true,
+  "localName": "Día de la Independencia de Bolivia",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-07",
+  "global": true,
+  "localName": "Día de la Independencia de Bolivia (observado)",
+  "name": "Independence Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BO-C"
+  ],
+  "date": "2028-09-14",
+  "global": false,
+  "localName": "Cochabamba Day",
+  "name": "Cochabamba Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BO-S"
+  ],
+  "date": "2028-09-24",
+  "global": false,
+  "localName": "Santa Cruz Day",
+  "name": "Santa Cruz Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BO-N"
+  ],
+  "date": "2028-10-11",
+  "global": false,
+  "localName": "Pando Day",
+  "name": "Pando Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-17",
+  "global": true,
+  "localName": "Día de la Dignidad Nacional",
+  "name": "National Dignity Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-02",
+  "global": true,
+  "localName": "Día de Todos los Difuntos",
+  "name": "All Souls' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BO-P"
+  ],
+  "date": "2028-11-10",
+  "global": false,
+  "localName": "Potosí Day",
+  "name": "Potosí Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BO-B"
+  ],
+  "date": "2028-11-18",
+  "global": false,
+  "localName": "Beni Day",
+  "name": "Beni Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Navidad",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

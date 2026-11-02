@@ -1,0 +1,92 @@
+[
+ {
+  "counties": null,
+  "date": "2028-04-11",
+  "global": true,
+  "localName": "פסח",
+  "name": "Pesach",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-17",
+  "global": true,
+  "localName": "שביעי של פסח",
+  "name": "Seventh day of Pesach",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-02",
+  "global": true,
+  "localName": "יום העצמאות (נצפה)",
+  "name": "Independence Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-31",
+  "global": true,
+  "localName": "שבועות",
+  "name": "Shavuot",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-21",
+  "global": true,
+  "localName": "ראש השנה",
+  "name": "Rosh Hashanah",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-22",
+  "global": true,
+  "localName": "ראש השנה",
+  "name": "Rosh Hashanah",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-30",
+  "global": true,
+  "localName": "יום כיפור",
+  "name": "Yom Kippur",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-05",
+  "global": true,
+  "localName": "סוכות",
+  "name": "Sukkot",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-12",
+  "global": true,
+  "localName": "שמחת תורה/שמיני עצרת",
+  "name": "Simchat Torah / Shemini Atzeret",
+  "types": [
+   "Public"
+  ]
+ }
+]

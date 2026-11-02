@@ -1,0 +1,412 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Ano Novo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-13",
+  "global": true,
+  "localName": "Dia da Liberdade e da Democracia",
+  "name": "Democracy and Freedom Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-TA"
+  ],
+  "date": "2027-01-15",
+  "global": false,
+  "localName": "Tarrafal de Santiago Municipality Day",
+  "name": "Tarrafal de Santiago Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-PA",
+   "CV-PN",
+   "CV-RG"
+  ],
+  "date": "2027-01-17",
+  "global": false,
+  "localName": "Santo Antão Island Day",
+  "name": "Santo Antão Island Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-20",
+  "global": true,
+  "localName": "Dia da Nacionalidade e dos Heróis Nacionais",
+  "name": "National Heroes Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-SV"
+  ],
+  "date": "2027-01-22",
+  "global": false,
+  "localName": "São Vicente Municipality Day",
+  "name": "São Vicente Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-RS"
+  ],
+  "date": "2027-01-31",
+  "global": false,
+  "localName": "Ribeira Grande de Santiago Municipality Day",
+  "name": "Ribeira Grande de Santiago Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-SV"
+  ],
+  "date": "2027-02-09",
+  "global": false,
+  "localName": "Carnival Tuesday",
+  "name": "Carnival Tuesday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-10",
+  "global": true,
+  "localName": "Quarta-feira de Cinzas",
+  "name": "Ash Wednesday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-SD"
+  ],
+  "date": "2027-03-13",
+  "global": false,
+  "localName": "São Domingos Municipality Day",
+  "name": "São Domingos Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Sexta-feira Santa",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-28",
+  "global": true,
+  "localName": "Páscoa",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Dia do Trabalhador",
+  "name": "Worker's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-SF"
+  ],
+  "date": "2027-05-01",
+  "global": false,
+  "localName": "São Filipe Municipality Day",
+  "name": "São Filipe Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-RG"
+  ],
+  "date": "2027-05-07",
+  "global": false,
+  "localName": "Ribeira Grande Municipality Day",
+  "name": "Ribeira Grande Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-SO"
+  ],
+  "date": "2027-05-09",
+  "global": false,
+  "localName": "São Lourenço dos Órgãos Municipality Day",
+  "name": "São Lourenço dos Órgãos Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-PR"
+  ],
+  "date": "2027-05-19",
+  "global": false,
+  "localName": "Praia Municipality Day",
+  "name": "Praia Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-01",
+  "global": true,
+  "localName": "Dia Mundial da Criança",
+  "name": "International Children's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-PA"
+  ],
+  "date": "2027-06-13",
+  "global": false,
+  "localName": "Paúl Municipality Day",
+  "name": "Paúl Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-BR"
+  ],
+  "date": "2027-06-24",
+  "global": false,
+  "localName": "Brava Municipality Day",
+  "name": "Brava Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-BV"
+  ],
+  "date": "2027-07-04",
+  "global": false,
+  "localName": "Boa Vista Municipality Day",
+  "name": "Boa Vista Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-05",
+  "global": true,
+  "localName": "Dia da Independência Nacional",
+  "name": "National Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-SS"
+  ],
+  "date": "2027-07-19",
+  "global": false,
+  "localName": "São Salvador do Mundo Municipality Day",
+  "name": "São Salvador do Mundo Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-CR"
+  ],
+  "date": "2027-07-25",
+  "global": false,
+  "localName": "Santa Cruz Municipality Day",
+  "name": "Santa Cruz Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-TS"
+  ],
+  "date": "2027-08-02",
+  "global": false,
+  "localName": "Tarrafal de São Nicolau Municipality Day",
+  "name": "Tarrafal de São Nicolau Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-15",
+  "global": true,
+  "localName": "Dia da Assunção",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-MO"
+  ],
+  "date": "2027-08-15",
+  "global": false,
+  "localName": "Mosteiros Municipality Day",
+  "name": "Mosteiros Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-PN"
+  ],
+  "date": "2027-09-02",
+  "global": false,
+  "localName": "Porto Novo Municipality Day",
+  "name": "Porto Novo Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-MA"
+  ],
+  "date": "2027-09-08",
+  "global": false,
+  "localName": "Maio Municipality Day",
+  "name": "Maio Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-SL"
+  ],
+  "date": "2027-09-15",
+  "global": false,
+  "localName": "Sal Municipality Day",
+  "name": "Sal Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-SM"
+  ],
+  "date": "2027-09-29",
+  "global": false,
+  "localName": "São Miguel Municipality Day",
+  "name": "São Miguel Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-01",
+  "global": true,
+  "localName": "Dia de Todos os Santos",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-CA"
+  ],
+  "date": "2027-11-25",
+  "global": false,
+  "localName": "Santa Catarina de Santiago Municipality Day",
+  "name": "Santa Catarina de Santiago Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-CF"
+  ],
+  "date": "2027-11-25",
+  "global": false,
+  "localName": "Santa Catarina do Fogo Municipality Day",
+  "name": "Santa Catarina do Fogo Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CV-RB"
+  ],
+  "date": "2027-12-06",
+  "global": false,
+  "localName": "Ribeira Brava Municipality Day",
+  "name": "Ribeira Brava Municipality Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Dia do Natal",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

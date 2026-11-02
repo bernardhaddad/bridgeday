@@ -1,0 +1,382 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-03",
+  "global": true,
+  "localName": "New Year's Day (observed)",
+  "name": "New Year's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-AB",
+   "CA-BC",
+   "CA-NB",
+   "CA-ON",
+   "CA-SK"
+  ],
+  "date": "2028-02-21",
+  "global": false,
+  "localName": "Family Day",
+  "name": "Family Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-NS"
+  ],
+  "date": "2028-02-21",
+  "global": false,
+  "localName": "Heritage Day",
+  "name": "Heritage Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-PE"
+  ],
+  "date": "2028-02-21",
+  "global": false,
+  "localName": "Islander Day",
+  "name": "Islander Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-MB"
+  ],
+  "date": "2028-02-21",
+  "global": false,
+  "localName": "Louis Riel Day",
+  "name": "Louis Riel Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-QC"
+  ],
+  "date": "2028-05-22",
+  "global": false,
+  "localName": "National Patriots' Day",
+  "name": "National Patriots' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-AB",
+   "CA-BC",
+   "CA-MB",
+   "CA-NT",
+   "CA-NU",
+   "CA-ON",
+   "CA-SK",
+   "CA-YT"
+  ],
+  "date": "2028-05-22",
+  "global": false,
+  "localName": "Victoria Day",
+  "name": "Victoria Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-NT",
+   "CA-YT"
+  ],
+  "date": "2028-06-21",
+  "global": false,
+  "localName": "National Aboriginal Day",
+  "name": "National Aboriginal Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-QC"
+  ],
+  "date": "2028-06-24",
+  "global": false,
+  "localName": "Saint John the Baptist Day",
+  "name": "Saint John the Baptist Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-01",
+  "global": true,
+  "localName": "Canada Day",
+  "name": "Canada Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-NL"
+  ],
+  "date": "2028-07-01",
+  "global": false,
+  "localName": "Memorial Day",
+  "name": "Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-NL",
+   "CA-PE",
+   "CA-SK",
+   "CA-YT"
+  ],
+  "date": "2028-07-03",
+  "global": false,
+  "localName": "Canada Day (observed)",
+  "name": "Canada Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-NL"
+  ],
+  "date": "2028-07-03",
+  "global": false,
+  "localName": "Memorial Day (observed)",
+  "name": "Memorial Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-NU"
+  ],
+  "date": "2028-07-09",
+  "global": false,
+  "localName": "Nunavut Day",
+  "name": "Nunavut Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-BC"
+  ],
+  "date": "2028-08-07",
+  "global": false,
+  "localName": "British Columbia Day",
+  "name": "British Columbia Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-NT",
+   "CA-NU"
+  ],
+  "date": "2028-08-07",
+  "global": false,
+  "localName": "Civic Holiday",
+  "name": "Civic Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-NB"
+  ],
+  "date": "2028-08-07",
+  "global": false,
+  "localName": "New Brunswick Day",
+  "name": "New Brunswick Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-SK"
+  ],
+  "date": "2028-08-07",
+  "global": false,
+  "localName": "Saskatchewan Day",
+  "name": "Saskatchewan Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-YT"
+  ],
+  "date": "2028-08-21",
+  "global": false,
+  "localName": "Discovery Day",
+  "name": "Discovery Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-04",
+  "global": true,
+  "localName": "Labour Day",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-BC",
+   "CA-MB",
+   "CA-NT",
+   "CA-NU",
+   "CA-PE",
+   "CA-YT"
+  ],
+  "date": "2028-09-30",
+  "global": false,
+  "localName": "National Day for Truth and Reconciliation",
+  "name": "National Day for Truth and Reconciliation",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-BC",
+   "CA-MB"
+  ],
+  "date": "2028-10-02",
+  "global": false,
+  "localName": "National Day for Truth and Reconciliation (observed)",
+  "name": "National Day for Truth and Reconciliation (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-AB",
+   "CA-BC",
+   "CA-MB",
+   "CA-NT",
+   "CA-NU",
+   "CA-ON",
+   "CA-QC",
+   "CA-SK",
+   "CA-YT"
+  ],
+  "date": "2028-10-09",
+  "global": false,
+  "localName": "Thanksgiving Day",
+  "name": "Thanksgiving Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-AB",
+   "CA-BC",
+   "CA-NB",
+   "CA-NL",
+   "CA-NS",
+   "CA-NT",
+   "CA-NU",
+   "CA-PE",
+   "CA-SK",
+   "CA-YT"
+  ],
+  "date": "2028-11-11",
+  "global": false,
+  "localName": "Remembrance Day",
+  "name": "Remembrance Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-AB",
+   "CA-NL",
+   "CA-NS",
+   "CA-PE",
+   "CA-SK",
+   "CA-YT"
+  ],
+  "date": "2028-11-13",
+  "global": false,
+  "localName": "Remembrance Day (observed)",
+  "name": "Remembrance Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CA-ON"
+  ],
+  "date": "2028-12-26",
+  "global": false,
+  "localName": "Boxing Day",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

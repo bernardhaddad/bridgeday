@@ -1,0 +1,306 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Nova godina",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-02",
+  "global": true,
+  "localName": "Nova godina",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BIH",
+   "BA-SRP"
+  ],
+  "date": "2027-01-06",
+  "global": false,
+  "localName": "Orthodox Christmas Eve",
+  "name": "Orthodox Christmas Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-07",
+  "global": true,
+  "localName": "Božić (Pravoslavni)",
+  "name": "Orthodox Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-SRP"
+  ],
+  "date": "2027-01-09",
+  "global": false,
+  "localName": "",
+  "name": "Day of Republika Srpska",
+  "source": "https://desavanjaubijeljini.com/neradni-dani-u-srpskoj-u-januaru-2026/231185/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-SRP"
+  ],
+  "date": "2027-01-14",
+  "global": false,
+  "localName": "Orthodox New Year",
+  "name": "Orthodox New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BIH"
+  ],
+  "date": "2027-03-01",
+  "global": false,
+  "localName": "Independence Day",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BRC"
+  ],
+  "date": "2027-03-08",
+  "global": false,
+  "localName": "Day of establishment of Brčko District",
+  "name": "Day of establishment of Brčko District",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-09",
+  "global": true,
+  "localName": "Ramazanski Bajram (procijenjeno)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BIH",
+   "BA-SRP"
+  ],
+  "date": "2027-03-10",
+  "global": false,
+  "localName": "Eid al-Fitr (estimated)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BIH",
+   "BA-SRP"
+  ],
+  "date": "2027-03-26",
+  "global": false,
+  "localName": "Catholic Good Friday",
+  "name": "Catholic Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BIH",
+   "BA-SRP"
+  ],
+  "date": "2027-03-28",
+  "global": false,
+  "localName": "Catholic Easter Sunday",
+  "name": "Catholic Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-29",
+  "global": true,
+  "localName": "Uskrsni ponedjeljak (Katolički)",
+  "name": "Catholic Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-30",
+  "global": true,
+  "localName": "Veliki petak (Pravoslavni)",
+  "name": "Orthodox Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Međunarodni praznik rada",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-02",
+  "global": true,
+  "localName": "Međunarodni praznik rada",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BIH",
+   "BA-SRP"
+  ],
+  "date": "2027-05-02",
+  "global": false,
+  "localName": "Orthodox Easter Sunday",
+  "name": "Orthodox Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BIH",
+   "BA-SRP"
+  ],
+  "date": "2027-05-03",
+  "global": true,
+  "localName": "Orthodox Easter Monday",
+  "name": "Orthodox Easter Monday",
+  "nearNationwide": true,
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BRC",
+   "BA-SRP"
+  ],
+  "date": "2027-05-03",
+  "global": false,
+  "localName": "International Labor Day (observed)",
+  "name": "International Labor Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BIH",
+   "BA-SRP"
+  ],
+  "date": "2027-05-09",
+  "global": false,
+  "localName": "Victory Day",
+  "name": "Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-16",
+  "global": true,
+  "localName": "Kurban Bajram (procijenjeno)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BIH",
+   "BA-SRP"
+  ],
+  "date": "2027-05-17",
+  "global": false,
+  "localName": "Eid al-Adha (estimated)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-SRP"
+  ],
+  "date": "2027-11-21",
+  "global": false,
+  "localName": "Dayton Agreement Day",
+  "name": "Dayton Agreement Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BIH"
+  ],
+  "date": "2027-11-25",
+  "global": false,
+  "localName": "Statehood Day",
+  "name": "Statehood Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BA-BIH",
+   "BA-SRP"
+  ],
+  "date": "2027-12-24",
+  "global": false,
+  "localName": "Catholic Christmas Eve",
+  "name": "Catholic Christmas Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Božić (Katolički)",
+  "name": "Catholic Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

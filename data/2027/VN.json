@@ -1,0 +1,152 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Tết Dương lịch",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-04",
+  "global": true,
+  "localName": "29 Tết",
+  "name": "29 of Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-05",
+  "global": true,
+  "localName": "Giao thừa Tết Nguyên Đán",
+  "name": "Lunar New Year's Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-06",
+  "global": true,
+  "localName": "Tết Nguyên Đán",
+  "name": "Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-07",
+  "global": true,
+  "localName": "Mùng hai Tết Nguyên Đán",
+  "name": "Second Day of Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-08",
+  "global": true,
+  "localName": "Mùng ba Tết Nguyên Đán",
+  "name": "Third Day of Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-09",
+  "global": true,
+  "localName": "Mùng bốn Tết Nguyên Đán",
+  "name": "Fourth Day of Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-10",
+  "global": true,
+  "localName": "Mùng năm Tết Nguyên Đán",
+  "name": "Fifth Day of Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-16",
+  "global": true,
+  "localName": "Ngày Giỗ Tổ Hùng Vương",
+  "name": "Hung Kings' Commemoration Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-30",
+  "global": true,
+  "localName": "Ngày Chiến thắng",
+  "name": "Liberation Day/Reunification Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Ngày Quốc tế Lao động",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-03",
+  "global": true,
+  "localName": "Ngày Quốc tế Lao động (nghỉ bù)",
+  "name": "International Labor Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-02",
+  "global": true,
+  "localName": "Quốc khánh",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-03",
+  "global": true,
+  "localName": "Quốc khánh",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-24",
+  "global": true,
+  "localName": "Ngày Văn hóa Việt Nam",
+  "name": "Vietnam Cultural Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

@@ -1,0 +1,172 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "رأس السنة الميلادي",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-07",
+  "global": true,
+  "localName": "عيد الميلاد المجيد الشرقي",
+  "name": "Orthodox Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-26",
+  "global": true,
+  "localName": "عيد الفطر السعيد",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-27",
+  "global": true,
+  "localName": "عيد الفطر السعيد",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-28",
+  "global": true,
+  "localName": "عيد الفطر السعيد",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-08",
+  "global": true,
+  "localName": "يوم المراة العالمي",
+  "name": "International Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-16",
+  "global": true,
+  "localName": "عيد الفصح المجيد",
+  "name": "Easter",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "عيد العمال",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-05",
+  "global": true,
+  "localName": "عيد الأضحى المبارك",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-06",
+  "global": true,
+  "localName": "عيد الأضحى المبارك",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-07",
+  "global": true,
+  "localName": "عيد الأضحى المبارك",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-08",
+  "global": true,
+  "localName": "عيد الأضحى المبارك",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-25",
+  "global": true,
+  "localName": "رأس السنة الهجرية",
+  "name": "Islamic New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-03",
+  "global": true,
+  "localName": "ذكرى المولد النبوي الشريف",
+  "name": "Prophet's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-15",
+  "global": true,
+  "localName": "عيد الاستقلال",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-14",
+  "global": true,
+  "localName": "ذكرى الإسراء والمعراج",
+  "name": "Isra' and Mi'raj",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "عيد الميلاد المجيد الغربي",
+  "name": "Catholic Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

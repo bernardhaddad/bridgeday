@@ -1,0 +1,222 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "양력설",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-27",
+  "global": true,
+  "localName": "설명절",
+  "name": "Korean New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-08",
+  "global": true,
+  "localName": "조선인민군창건일",
+  "name": "Founding Day of the Korean People's Army",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-10",
+  "global": true,
+  "localName": "대보름",
+  "name": "Daeboreum",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-16",
+  "global": true,
+  "localName": "광명성절",
+  "name": "Day of the Shining Star",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-17",
+  "global": true,
+  "localName": "광명성절",
+  "name": "Day of the Shining Star",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-08",
+  "global": true,
+  "localName": "국제부녀절",
+  "name": "International Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-04",
+  "global": true,
+  "localName": "청명",
+  "name": "Cheongmyeong Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-15",
+  "global": true,
+  "localName": "태양절",
+  "name": "Day of the Sun",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-16",
+  "global": true,
+  "localName": "태양절",
+  "name": "Day of the Sun",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-25",
+  "global": true,
+  "localName": "조선인민혁명군 창건일",
+  "name": "Founding Day of the Korean People's Revolutionary Army",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "전세계근로자들의 국제적명절",
+  "name": "International Workers' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-06",
+  "global": true,
+  "localName": "조선소년단 창립절",
+  "name": "Foundation Day of the Korean Children's Union",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-27",
+  "global": true,
+  "localName": "조국해방전쟁승리기념일",
+  "name": "Day of Victory in the Great Fatherland Liberation War",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-15",
+  "global": true,
+  "localName": "조국해방절",
+  "name": "Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-25",
+  "global": true,
+  "localName": "선군절",
+  "name": "Day of Songun",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-28",
+  "global": true,
+  "localName": "청년절",
+  "name": "Youth Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-09",
+  "global": true,
+  "localName": "조선민주주의인민공화국창건일",
+  "name": "Founding Day of the DPRK",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-03",
+  "global": true,
+  "localName": "추석",
+  "name": "Chuseok",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-10",
+  "global": true,
+  "localName": "조선로동당창건일",
+  "name": "Foundation Day of the Workers' Party of Korea",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-16",
+  "global": true,
+  "localName": "어머니날",
+  "name": "Mother's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-27",
+  "global": true,
+  "localName": "사회주의헌법절",
+  "name": "Socialist Constitution Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

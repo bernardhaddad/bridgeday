@@ -1,0 +1,192 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Viti i Ri",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-02",
+  "global": true,
+  "localName": "Viti i Ri",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-04",
+  "global": true,
+  "localName": "Viti i Ri (ditë pushimi e shtyrë)",
+  "name": "New Year's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-07",
+  "global": true,
+  "localName": "Krishtlindjet Ortodokse",
+  "name": "Orthodox Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-17",
+  "global": true,
+  "localName": "Dita e Pavarësisë së Republikës së Kosovës",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-09",
+  "global": true,
+  "localName": "Bajrami i Madh, dita e parë (e vlerësuar)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-28",
+  "global": true,
+  "localName": "Pashkët Katolike",
+  "name": "Catholic Easter",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-29",
+  "global": true,
+  "localName": "Pashkët Katolike (ditë pushimi e shtyrë)",
+  "name": "Catholic Easter (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-09",
+  "global": true,
+  "localName": "Dita e Kushtetutës së Republikës së Kosovës",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Dita Ndërkombëtare e Punës",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-02",
+  "global": true,
+  "localName": "Pashkët Ortodokse",
+  "name": "Orthodox Easter",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-03",
+  "global": true,
+  "localName": "Dita Ndërkombëtare e Punës (ditë pushimi e shtyrë)",
+  "name": "International Labor Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-04",
+  "global": true,
+  "localName": "Pashkët Ortodokse (ditë pushimi e shtyrë)",
+  "name": "Orthodox Easter (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-09",
+  "global": true,
+  "localName": "Dita e Evropës",
+  "name": "Europe Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-10",
+  "global": true,
+  "localName": "Dita e Evropës (ditë pushimi e shtyrë)",
+  "name": "Europe Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-16",
+  "global": true,
+  "localName": "Bajrami i Vogël, dita e parë (e vlerësuar)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "Bajrami i Vogël, dita e parë (ditë pushimi e shtyrë, e vlerësuar)",
+  "name": "Eid al-Adha (observed, estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Krishtlindjet Katolike",
+  "name": "Catholic Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-27",
+  "global": true,
+  "localName": "Krishtlindjet Katolike (ditë pushimi e shtyrë)",
+  "name": "Catholic Christmas Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

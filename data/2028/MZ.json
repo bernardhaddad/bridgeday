@@ -1,0 +1,102 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Dia da Fraternidade universal",
+  "name": "International Fraternalism Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-03",
+  "global": true,
+  "localName": "Dia dos Heróis Moçambicanos",
+  "name": "Heroes' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-07",
+  "global": true,
+  "localName": "Dia da Mulher Moçambicana",
+  "name": "Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Dia Internacional dos Trabalhadores",
+  "name": "International Workers' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-25",
+  "global": true,
+  "localName": "Dia da Independência Nacional",
+  "name": "National Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-26",
+  "global": true,
+  "localName": "Dia da Independência Nacional (ponte)",
+  "name": "National Independence Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-07",
+  "global": true,
+  "localName": "Dia da Vitória",
+  "name": "Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-25",
+  "global": true,
+  "localName": "Dia das Forças Armadas de Libertação Nacional",
+  "name": "Armed Forces Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-04",
+  "global": true,
+  "localName": "Dia da Paz e Reconciliação",
+  "name": "Peace and Reconciliation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Dia da Família",
+  "name": "Family Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

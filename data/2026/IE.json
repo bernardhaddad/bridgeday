@@ -1,0 +1,102 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-02",
+  "global": true,
+  "localName": "Saint Brigid's Day",
+  "name": "Saint Brigid's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-17",
+  "global": true,
+  "localName": "Saint Patrick's Day",
+  "name": "Saint Patrick's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-04",
+  "global": true,
+  "localName": "May Day",
+  "name": "May Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-01",
+  "global": true,
+  "localName": "June Bank Holiday",
+  "name": "June Bank Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-03",
+  "global": true,
+  "localName": "August Bank Holiday",
+  "name": "August Bank Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-26",
+  "global": true,
+  "localName": "October Bank Holiday",
+  "name": "October Bank Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-26",
+  "global": true,
+  "localName": "Saint Stephen's Day",
+  "name": "Saint Stephen's Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

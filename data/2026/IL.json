@@ -1,0 +1,103 @@
+[
+ {
+  "counties": null,
+  "date": "2026-04-02",
+  "global": true,
+  "localName": "פסח",
+  "name": "Pesach",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-08",
+  "global": true,
+  "localName": "שביעי של פסח",
+  "name": "Seventh day of Pesach",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-22",
+  "global": true,
+  "localName": "יום העצמאות",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-22",
+  "global": true,
+  "localName": "שבועות",
+  "name": "Shavuot",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-12",
+  "global": true,
+  "localName": "ראש השנה",
+  "name": "Rosh Hashanah",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-13",
+  "global": true,
+  "localName": "ראש השנה",
+  "name": "Rosh Hashanah",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-21",
+  "global": true,
+  "localName": "יום כיפור",
+  "name": "Yom Kippur",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-26",
+  "global": true,
+  "localName": "סוכות",
+  "name": "Sukkot",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-03",
+  "global": true,
+  "localName": "שמחת תורה/שמיני עצרת",
+  "name": "Simchat Torah / Shemini Atzeret",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-27",
+  "global": true,
+  "localName": "יום הבחירות",
+  "name": "Knesset Election Day",
+  "source": "https://www.shibolet.com/en/election-day-for-the-26th-knesset/",
+  "types": [
+   "Public"
+  ]
+ }
+]

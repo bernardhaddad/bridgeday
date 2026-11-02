@@ -1,0 +1,142 @@
+[
+ {
+  "counties": null,
+  "date": "2026-02-15",
+  "global": true,
+  "localName": "روز آزادی",
+  "name": "Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-18",
+  "global": true,
+  "localName": "اول رمضان (برآورد شده)",
+  "name": "First Day of Ramadan (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "عید فطر (برآورد شده)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "عید فطر (برآورد شده)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-22",
+  "global": true,
+  "localName": "عید فطر (برآورد شده)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-28",
+  "global": true,
+  "localName": "روز پیروزی مجاهدین",
+  "name": "Mojahedin's Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-26",
+  "global": true,
+  "localName": "روز عرفه (برآورد شده)",
+  "name": "Day of Arafah (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "عید قربانی (برآورد شده)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-28",
+  "global": true,
+  "localName": "عید قربانی (برآورد شده)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-29",
+  "global": true,
+  "localName": "عید قربانی (برآورد شده)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-15",
+  "global": true,
+  "localName": "روز پیروزی امارت اسلامی",
+  "name": "Islamic Emirate Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-19",
+  "global": true,
+  "localName": "روز استقلال افغانستان",
+  "name": "Afghanistan Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-25",
+  "global": true,
+  "localName": "میلاد پیامبر (برآورد شده)",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-31",
+  "global": true,
+  "localName": "روز خروج آمریکایی ها",
+  "name": "American Withdrawal Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

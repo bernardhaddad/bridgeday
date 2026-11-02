@@ -1,0 +1,125 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Año Nuevo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-02",
+  "global": true,
+  "localName": "Jueves Santo",
+  "name": "Maundy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-11",
+  "global": true,
+  "localName": "Día de Juan Santamaría",
+  "name": "Juan Santamaría Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Día Internacional del Trabajo",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-25",
+  "global": true,
+  "localName": "Anexión del Partido de Nicoya a Costa Rica",
+  "name": "Annexation of the Party of Nicoya to Costa Rica",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-02",
+  "global": true,
+  "localName": "Día de la Virgen de los Ángeles",
+  "name": "Day of Our Lady of the Angels",
+  "source": "https://www.larepublica.net/noticia/conozca-los-feriados-que-tendra-costa-rica-durante-el-2026",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-15",
+  "global": true,
+  "localName": "Día de la Madre",
+  "name": "Mother's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-31",
+  "global": true,
+  "localName": "Día de la Persona Negra y la Cultura Afrocostarricense",
+  "name": "Day of the Black Person and Afro-Costa Rican Culture",
+  "source": "https://www.mtss.go.cr/prensa/comunicados/2026/agosto/cp_017_2026.html",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-15",
+  "global": true,
+  "localName": "Día de la Independencia",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-01",
+  "global": true,
+  "localName": "Día de la Abolición del Ejército",
+  "name": "Abolition of the Army Day",
+  "source": "https://www.mtss.go.cr/temas-laborales/feriados/feriados_calendario_2026.pdf",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Navidad",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

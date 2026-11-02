@@ -1,0 +1,172 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Tahun Baru Masehi",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-26",
+  "global": true,
+  "localName": "Tahun Baru Imlek (perkiraan)",
+  "name": "Lunar New Year (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-27",
+  "global": true,
+  "localName": "Hari Raya Idul Fitri (perkiraan)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-28",
+  "global": true,
+  "localName": "Hari kedua dari Hari Raya Idul Fitri (perkiraan)",
+  "name": "Eid al-Fitr Second Day (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-26",
+  "global": true,
+  "localName": "Hari Suci Nyepi",
+  "name": "Day of Silence",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Wafat Yesus Kristus",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-16",
+  "global": true,
+  "localName": "Kebangkitan Yesus Kristus",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Hari Buruh Internasional",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-05",
+  "global": true,
+  "localName": "Hari Raya Idul Adha (perkiraan)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-09",
+  "global": true,
+  "localName": "Hari Raya Waisak (perkiraan)",
+  "name": "Vesak Day (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-25",
+  "global": true,
+  "localName": "Kenaikan Yesus Kristus",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-26",
+  "global": true,
+  "localName": "Tahun Baru Islam (perkiraan)",
+  "name": "Islamic New Year (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-01",
+  "global": true,
+  "localName": "Hari Lahir Pancasila",
+  "name": "Pancasila Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-04",
+  "global": true,
+  "localName": "Maulid Nabi Muhammad (perkiraan)",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-17",
+  "global": true,
+  "localName": "Hari Kemerdekaan Republik Indonesia",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-14",
+  "global": true,
+  "localName": "Isra Mikraj Nabi Muhammad (perkiraan)",
+  "name": "Isra' and Mi'raj (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Hari Raya Natal",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

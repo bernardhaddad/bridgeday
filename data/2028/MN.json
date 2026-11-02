@@ -1,0 +1,162 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Шинэ жил",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-26",
+  "global": true,
+  "localName": "Цагаан сар",
+  "name": "Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-27",
+  "global": true,
+  "localName": "Цагаан сар",
+  "name": "Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-28",
+  "global": true,
+  "localName": "Цагаан сар",
+  "name": "Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-08",
+  "global": true,
+  "localName": "Олон улсын эмэгтэйчүүдийн өдөр",
+  "name": "International Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-01",
+  "global": true,
+  "localName": "Хүүхдийн баяр",
+  "name": "Children's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-07",
+  "global": true,
+  "localName": "Бурхан багшийн Их дүйчин өдөр",
+  "name": "The Buddha's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-10",
+  "global": true,
+  "localName": "Үндэсний их баяр наадам, Ардын хувьсгалын ойн баяр",
+  "name": "National Festival and People's Revolution Anniversary",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-11",
+  "global": true,
+  "localName": "Үндэсний их баяр наадам, Ардын хувьсгалын ойн баяр",
+  "name": "National Festival and People's Revolution Anniversary",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-12",
+  "global": true,
+  "localName": "Үндэсний их баяр наадам, Ардын хувьсгалын ойн баяр",
+  "name": "National Festival and People's Revolution Anniversary",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-13",
+  "global": true,
+  "localName": "Үндэсний их баяр наадам, Ардын хувьсгалын ойн баяр",
+  "name": "National Festival and People's Revolution Anniversary",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-14",
+  "global": true,
+  "localName": "Үндэсний их баяр наадам, Ардын хувьсгалын ойн баяр",
+  "name": "National Festival and People's Revolution Anniversary",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-15",
+  "global": true,
+  "localName": "Үндэсний их баяр наадам, Ардын хувьсгалын ойн баяр",
+  "name": "National Festival and People's Revolution Anniversary",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-17",
+  "global": true,
+  "localName": "Их Эзэн Чингис хааны өдөр",
+  "name": "Genghis Khan's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-26",
+  "global": true,
+  "localName": "Бүгд Найрамдах Улс тунхагласан өдөр",
+  "name": "Republic Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-29",
+  "global": true,
+  "localName": "Үндэсний эрх чөлөө, тусгаар тогтнолоо сэргээсний баярын өдөр",
+  "name": "National Freedom and Independence Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

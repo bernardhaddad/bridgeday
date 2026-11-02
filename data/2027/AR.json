@@ -1,0 +1,652 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Año Nuevo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-E"
+  ],
+  "date": "2027-02-03",
+  "global": false,
+  "localName": "Commemoration of the Battle of Caseros",
+  "name": "Commemoration of the Battle of Caseros",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-08",
+  "global": true,
+  "localName": "Lunes de Carnaval",
+  "name": "Carnival Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-09",
+  "global": true,
+  "localName": "Martes de Carnaval",
+  "name": "Carnival Tuesday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-F"
+  ],
+  "date": "2027-02-16",
+  "global": false,
+  "localName": "Day of the Death of Juan Facundo Quiroga",
+  "name": "Day of the Death of Juan Facundo Quiroga",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-A"
+  ],
+  "date": "2027-02-20",
+  "global": false,
+  "localName": "Anniversary of the Battle of Salta",
+  "name": "Anniversary of the Battle of Salta",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-F"
+  ],
+  "date": "2027-03-01",
+  "global": false,
+  "localName": "Provincial Autonomy Day",
+  "name": "Provincial Autonomy Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-24",
+  "global": true,
+  "localName": "Día Nacional de la Memoria por la Verdad y la Justicia",
+  "name": "National Day of Remembrance for Truth and Justice",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-F"
+  ],
+  "date": "2027-03-24",
+  "global": false,
+  "localName": "Day of Remembrance for Truth and Justice",
+  "name": "Day of Remembrance for Truth and Justice",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-E"
+  ],
+  "date": "2027-03-24",
+  "global": false,
+  "localName": "Provincial Day of Remembrance for Truth and Justice",
+  "name": "Provincial Day of Remembrance for Truth and Justice",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-25",
+  "global": true,
+  "localName": "Jueves Santo",
+  "name": "Maundy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-02",
+  "global": true,
+  "localName": "Día del Veterano y de los Caidos en la Guerra de Malvinas",
+  "name": "Veteran's Day and the Fallen in the Malvinas War",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-Y"
+  ],
+  "date": "2027-04-27",
+  "global": false,
+  "localName": "Great Day of Jujuy",
+  "name": "Great Day of Jujuy",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-U"
+  ],
+  "date": "2027-04-30",
+  "global": false,
+  "localName": "Plebiscite 1902 Trevelin",
+  "name": "Plebiscite 1902 Trevelin",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Día del Trabajo",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-D"
+  ],
+  "date": "2027-05-03",
+  "global": false,
+  "localName": "Exaltation of the Holy Cross Day",
+  "name": "Exaltation of the Holy Cross Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-K"
+  ],
+  "date": "2027-05-11",
+  "global": false,
+  "localName": "Birthday of Mamerto Esquiú",
+  "name": "Birthday of Mamerto Esquiú",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-F"
+  ],
+  "date": "2027-05-20",
+  "global": false,
+  "localName": "La Rioja Foundation Day",
+  "name": "La Rioja Foundation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-25",
+  "global": true,
+  "localName": "Día de la Revolución de Mayo",
+  "name": "May Revolution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-V"
+  ],
+  "date": "2027-06-01",
+  "global": false,
+  "localName": "Day of the Province of Tierra del Fuego, Antarctica and the South Atlantic Islands",
+  "name": "Day of the Province of Tierra del Fuego, Antarctica and the South Atlantic Islands",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-A"
+  ],
+  "date": "2027-06-17",
+  "global": false,
+  "localName": "Day of Memory of General Don Martín Miguel de Güemes",
+  "name": "Day of Memory of General Don Martín Miguel de Güemes",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-20",
+  "global": true,
+  "localName": "Paso a la Inmortalidad del General Don Manuel Belgrano",
+  "name": "Pass to the Immortality of General Don Manuel Belgrano",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-W"
+  ],
+  "date": "2027-06-20",
+  "global": false,
+  "localName": "Anniversary of the Death of General Manuel Belgrano",
+  "name": "Anniversary of the Death of General Manuel Belgrano",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-21",
+  "global": true,
+  "localName": "Paso a la Inmortalidad del General Don Martín Miguel de Güemes",
+  "name": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-E"
+  ],
+  "date": "2027-06-27",
+  "global": false,
+  "localName": "State Worker's Day",
+  "name": "State Worker's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-09",
+  "global": true,
+  "localName": "Día de la Independencia",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-M"
+  ],
+  "date": "2027-07-25",
+  "global": false,
+  "localName": "Saint James' Day",
+  "name": "Saint James' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-U"
+  ],
+  "date": "2027-07-28",
+  "global": false,
+  "localName": "Anniversary of the arrival of the first Welsh settlers",
+  "name": "Anniversary of the arrival of the first Welsh settlers",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-Y"
+  ],
+  "date": "2027-08-01",
+  "global": false,
+  "localName": "Pachamama Day",
+  "name": "Pachamama Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-F"
+  ],
+  "date": "2027-08-04",
+  "global": false,
+  "localName": "Anniversary of the Death of Enrique Angelelli",
+  "name": "Anniversary of the Death of Enrique Angelelli",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-16",
+  "global": true,
+  "localName": "Paso a la Inmortalidad del General Don José de San Martín",
+  "name": "Pass to the Immortality of General Don José de San Martín",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-Z"
+  ],
+  "date": "2027-08-16",
+  "global": false,
+  "localName": "Saint John Bosco's Day",
+  "name": "Saint John Bosco's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-W"
+  ],
+  "date": "2027-08-17",
+  "global": false,
+  "localName": "Anniversary of the Death of General José Francisco de San Martín",
+  "name": "Anniversary of the Death of General José Francisco de San Martín",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-Y"
+  ],
+  "date": "2027-08-23",
+  "global": false,
+  "localName": "Jujuy Exodus Day",
+  "name": "Jujuy Exodus Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-K"
+  ],
+  "date": "2027-08-25",
+  "global": false,
+  "localName": "Catamarca Autonomy Day",
+  "name": "Catamarca Autonomy Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-D"
+  ],
+  "date": "2027-08-25",
+  "global": false,
+  "localName": "Saint Louis the King of France's Day",
+  "name": "Saint Louis the King of France's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-K"
+  ],
+  "date": "2027-09-07",
+  "global": false,
+  "localName": "Miracle Day",
+  "name": "Miracle Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-J"
+  ],
+  "date": "2027-09-11",
+  "global": false,
+  "localName": "Teacher's Day",
+  "name": "Teacher's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-A"
+  ],
+  "date": "2027-09-13",
+  "global": false,
+  "localName": "Feasts of the Lord and the Virgin of Miracle",
+  "name": "Feasts of the Lord and the Virgin of Miracle",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-A"
+  ],
+  "date": "2027-09-14",
+  "global": false,
+  "localName": "Feasts of the Lord and the Virgin of Miracle",
+  "name": "Feasts of the Lord and the Virgin of Miracle",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-A"
+  ],
+  "date": "2027-09-15",
+  "global": false,
+  "localName": "Feasts of the Lord and the Virgin of Miracle",
+  "name": "Feasts of the Lord and the Virgin of Miracle",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-T"
+  ],
+  "date": "2027-09-24",
+  "global": false,
+  "localName": "Anniversary of the Battle of Tucumán",
+  "name": "Anniversary of the Battle of Tucumán",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-E"
+  ],
+  "date": "2027-09-29",
+  "global": false,
+  "localName": "Saint Michael the Archangel's Day",
+  "name": "Saint Michael the Archangel's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-Y"
+  ],
+  "date": "2027-10-07",
+  "global": false,
+  "localName": "Day of the Virgin of the Rosary of Río Blanco and Paypaya",
+  "name": "Day of the Virgin of the Rosary of Río Blanco and Paypaya",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-11",
+  "global": true,
+  "localName": "Día del Respeto a la Diversidad Cultural",
+  "name": "Respect for Cultural Diversity Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-Z"
+  ],
+  "date": "2027-10-27",
+  "global": false,
+  "localName": "Anniversary of the Death of Néstor Carlos Kirchner",
+  "name": "Anniversary of the Death of Néstor Carlos Kirchner",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-U"
+  ],
+  "date": "2027-11-03",
+  "global": false,
+  "localName": "Tehuelches and Mapuches declare loyalty to the Argentine flag",
+  "name": "Tehuelches and Mapuches declare loyalty to the Argentine flag",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-F"
+  ],
+  "date": "2027-11-12",
+  "global": false,
+  "localName": "Anniversary of the Death of Ángel Vicente Peñaloza",
+  "name": "Anniversary of the Death of Ángel Vicente Peñaloza",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-Y"
+  ],
+  "date": "2027-11-18",
+  "global": false,
+  "localName": "Jujuy Political Autonomy Day",
+  "name": "Jujuy Political Autonomy Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-20",
+  "global": true,
+  "localName": "Día de la Soberanía Nacional",
+  "name": "National Sovereignty Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-V"
+  ],
+  "date": "2027-11-25",
+  "global": false,
+  "localName": "Selk'Nam Genocide Day",
+  "name": "Selk'Nam Genocide Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-Z"
+  ],
+  "date": "2027-12-07",
+  "global": false,
+  "localName": "Commemoration of the workers shot in the Patagonian Strikes",
+  "name": "Commemoration of the workers shot in the Patagonian Strikes",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-08",
+  "global": true,
+  "localName": "Inmaculada Concepción de María",
+  "name": "Immaculate Conception",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-U"
+  ],
+  "date": "2027-12-13",
+  "global": false,
+  "localName": "National Petroleum Day",
+  "name": "National Petroleum Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Navidad",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AR-F"
+  ],
+  "date": "2027-12-31",
+  "global": false,
+  "localName": "Tinkunaco Festival",
+  "name": "Tinkunaco Festival",
+  "types": [
+   "Public"
+  ]
+ }
+]

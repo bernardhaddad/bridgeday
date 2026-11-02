@@ -1,0 +1,122 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "ʻUluaki ʻAho ʻo e Taʻu Foʻou",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Falaite Lelei",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-17",
+  "global": true,
+  "localName": "Monite ʻo e Toetuʻu",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-25",
+  "global": true,
+  "localName": "ʻAho Anzac",
+  "name": "ANZAC Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-05",
+  "global": true,
+  "localName": "ʻAho Tauʻataina (fakatokangaʻi)",
+  "name": "Emancipation Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-04",
+  "global": true,
+  "localName": "ʻAho ʻAloʻi ʻo ʻEne ʻAfio ko e Tuʻi ʻo Tonga ʻoku lolotonga Pule",
+  "name": "Birthday of the Reigning Sovereign of Tonga",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-17",
+  "global": true,
+  "localName": "ʻAho ʻAloʻi ʻo e ʻEa ki he Kalauni ʻo Tonga",
+  "name": "Birthday of the Heir to the Crown of Tonga",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-18",
+  "global": true,
+  "localName": "ʻAho ʻAloʻi ʻo e ʻEa ki he Kalauni ʻo Tonga (fakatokangaʻi)",
+  "name": "Birthday of the Heir to the Crown of Tonga (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-06",
+  "global": true,
+  "localName": "ʻAho Konisitutone (fakatokangaʻi)",
+  "name": "Constitution Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-04",
+  "global": true,
+  "localName": "ʻAho Fakamanatu ʻo e Hilifaki Kalauni ʻo ʻEne ʻAfio ko Siaosi Tupou I",
+  "name": "Anniversary of the Coronation of HM King George Tupou I",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "ʻAho Kilisimasi",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-26",
+  "global": true,
+  "localName": "ʻAho 2 ʻo e Kilisimasi",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

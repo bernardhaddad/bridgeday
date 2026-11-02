@@ -1,0 +1,102 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Triunfo de la Revolución",
+  "name": "Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-02",
+  "global": true,
+  "localName": "Día de la Victoria",
+  "name": "Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Día Internacional de los Trabajadores",
+  "name": "International Workers' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-25",
+  "global": true,
+  "localName": "Conmemoración del asalto a Moncada",
+  "name": "Commemoration of the Assault of the Moncada garrison",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-26",
+  "global": true,
+  "localName": "Día de la Rebeldía Nacional",
+  "name": "Day of the National Rebellion",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-27",
+  "global": true,
+  "localName": "Conmemoración del asalto a Moncada",
+  "name": "Commemoration of the Assault of the Moncada garrison",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-10",
+  "global": true,
+  "localName": "Inicio de las Guerras de Independencia",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Día de Navidad",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-31",
+  "global": true,
+  "localName": "Fiesta de Fin de Año",
+  "name": "New Year's Eve",
+  "types": [
+   "Public"
+  ]
+ }
+]

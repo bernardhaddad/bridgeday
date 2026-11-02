@@ -1,0 +1,103 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Nova godina",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-02",
+  "global": true,
+  "localName": "Nova godina",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Praznik rada",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-02",
+  "global": true,
+  "localName": "Praznik rada",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-21",
+  "global": true,
+  "localName": "Dan nezavisnosti",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-22",
+  "global": true,
+  "localName": "Dan nezavisnosti",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-13",
+  "global": true,
+  "localName": "Dan državnosti",
+  "name": "Statehood Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-14",
+  "global": true,
+  "localName": "Dan državnosti",
+  "name": "Statehood Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-13",
+  "global": true,
+  "localName": "Njegošev dan",
+  "name": "Njegos Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-14",
+  "global": true,
+  "localName": "",
+  "name": "Njegos Day",
+  "source": "https://wapi.gov.me/download/927f23a3-db4e-4f65-9f29-ce3c9dde0c90?version=1.0",
+  "types": [
+   "Public"
+  ]
+ }
+]

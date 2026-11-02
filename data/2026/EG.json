@@ -1,0 +1,195 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-07",
+  "global": true,
+  "localName": "عيد الميلاد المجيد",
+  "name": "Coptic Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-29",
+  "global": true,
+  "localName": "ثورة ٢٥ يناير وعيد الشرطة (يوم تعويضي)",
+  "name": "January 25th Revolution and National Police Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-19",
+  "global": true,
+  "localName": "",
+  "name": "Eid al-Fitr Holiday",
+  "source": "https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-19-%D9%85%D8%A7%D8%B1%D8%B3-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-23-%D9%85%D8%A7%D8%B1%D8%B3/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "عيد الفطر المبارك",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "عيد الفطر المبارك",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-22",
+  "global": true,
+  "localName": "",
+  "name": "Eid al-Fitr Holiday",
+  "source": "https://english.ahram.org.eg/News/563816.aspx",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-23",
+  "global": true,
+  "localName": "",
+  "name": "Eid al-Fitr Holiday",
+  "source": "https://sis.gov.eg/en/media-center/news/pm-declares-march-19-23-paid-holiday-for-eid-al-fitr/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-13",
+  "global": true,
+  "localName": "عيد شم النسيم",
+  "name": "Spring Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-25",
+  "global": true,
+  "localName": "عيد تحرير سيناء",
+  "name": "Sinai Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "عيد العمال",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-26",
+  "global": true,
+  "localName": "وقفة عيد الأضحى المبارك (تقديري)",
+  "name": "Day of Arafah (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "عيد الأضحى المبارك (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-28",
+  "global": true,
+  "localName": "عيد الأضحى المبارك (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-29",
+  "global": true,
+  "localName": "عيد الأضحى المبارك (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-18",
+  "global": true,
+  "localName": "رأس السنة الهجرية (يوم تعويضي تقديري)",
+  "name": "Islamic New Year (observed, estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-02",
+  "global": true,
+  "localName": "عيد ثورة ٣٠ يونيو (يوم تعويضي)",
+  "name": "June 30 Revolution Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-23",
+  "global": true,
+  "localName": "عيد ثورة ٢٣ يوليو",
+  "name": "July 23 Revolution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-25",
+  "global": true,
+  "localName": "المولد النبوي الشريف (تقديري)",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-08",
+  "global": true,
+  "localName": "عيد القوات المسلحة (يوم تعويضي)",
+  "name": "Armed Forces Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

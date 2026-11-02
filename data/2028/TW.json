@@ -1,0 +1,182 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "中華民國開國紀念日",
+  "name": "Founding Day of the Republic of China",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-24",
+  "global": true,
+  "localName": "農曆除夕",
+  "name": "Chinese New Year's Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-25",
+  "global": true,
+  "localName": "農曆除夕",
+  "name": "Chinese New Year's Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-26",
+  "global": true,
+  "localName": "春節",
+  "name": "Chinese New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-27",
+  "global": true,
+  "localName": "春節",
+  "name": "Chinese New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-28",
+  "global": true,
+  "localName": "春節",
+  "name": "Chinese New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-28",
+  "global": true,
+  "localName": "和平紀念日",
+  "name": "Peace Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-03",
+  "global": true,
+  "localName": "兒童節（補假）",
+  "name": "Children's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-04",
+  "global": true,
+  "localName": "",
+  "name": "Children's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-04",
+  "global": true,
+  "localName": "",
+  "name": "Tomb-Sweeping Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "勞動節",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-28",
+  "global": true,
+  "localName": "端午節",
+  "name": "Dragon Boat Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-29",
+  "global": true,
+  "localName": "端午節（補假）",
+  "name": "Dragon Boat Festival (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-28",
+  "global": true,
+  "localName": "孔子誕辰紀念日",
+  "name": "Confucius' Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-03",
+  "global": true,
+  "localName": "中秋節",
+  "name": "Mid-Autumn Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-10",
+  "global": true,
+  "localName": "國慶日",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-25",
+  "global": true,
+  "localName": "臺灣光復暨金門古寧頭大捷紀念日",
+  "name": "Taiwan Restoration and Guningtou Victory Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "行憲紀念日",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

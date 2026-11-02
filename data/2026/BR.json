@@ -1,0 +1,598 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Confraternização Universal",
+  "name": "Universal Fraternization Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-RO"
+  ],
+  "date": "2026-01-04",
+  "global": false,
+  "localName": "State Creation Day",
+  "name": "State Creation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AC"
+  ],
+  "date": "2026-01-23",
+  "global": false,
+  "localName": "Evangelical Day",
+  "name": "Evangelical Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-São Paulo Capital"
+  ],
+  "date": "2026-01-25",
+  "global": false,
+  "localName": "São Paulo City Anniversary",
+  "name": "São Paulo City Anniversary",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-RJ"
+  ],
+  "date": "2026-02-17",
+  "global": false,
+  "localName": "Carnival",
+  "name": "Carnival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-PE"
+  ],
+  "date": "2026-03-06",
+  "global": false,
+  "localName": "Pernambuco Revolution of 1817",
+  "name": "Pernambuco Revolution of 1817",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AC"
+  ],
+  "date": "2026-03-08",
+  "global": false,
+  "localName": "International Women's Day",
+  "name": "International Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-TO"
+  ],
+  "date": "2026-03-18",
+  "global": false,
+  "localName": "Autonomy Day",
+  "name": "Autonomy Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AP",
+   "BR-CE"
+  ],
+  "date": "2026-03-19",
+  "global": false,
+  "localName": "Saint Joseph's Day",
+  "name": "Saint Joseph's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-CE"
+  ],
+  "date": "2026-03-25",
+  "global": false,
+  "localName": "Abolition of slavery in Ceará",
+  "name": "Abolition of slavery in Ceará",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Sexta-feira Santa",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-ES"
+  ],
+  "date": "2026-04-13",
+  "global": false,
+  "localName": "Our Lady of Penha",
+  "name": "Our Lady of Penha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-21",
+  "global": true,
+  "localName": "Tiradentes",
+  "name": "Tiradentes' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-DF"
+  ],
+  "date": "2026-04-21",
+  "global": false,
+  "localName": "Founding of Brasilia",
+  "name": "Founding of Brasilia",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-MG"
+  ],
+  "date": "2026-04-21",
+  "global": false,
+  "localName": "Tiradentes' Execution",
+  "name": "Tiradentes' Execution",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-RJ"
+  ],
+  "date": "2026-04-23",
+  "global": false,
+  "localName": "Saint George's Day",
+  "name": "Saint George's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Dia do Trabalhador",
+  "name": "Worker's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-São Paulo Capital"
+  ],
+  "date": "2026-06-04",
+  "global": false,
+  "localName": "Corpus Christi",
+  "name": "Corpus Christi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AC"
+  ],
+  "date": "2026-06-15",
+  "global": false,
+  "localName": "Founding of Acre",
+  "name": "Founding of Acre",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-RO"
+  ],
+  "date": "2026-06-18",
+  "global": false,
+  "localName": "Evangelical Day",
+  "name": "Evangelical Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AL"
+  ],
+  "date": "2026-06-24",
+  "global": false,
+  "localName": "Saint John's Day",
+  "name": "Saint John's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AL"
+  ],
+  "date": "2026-06-29",
+  "global": false,
+  "localName": "Saint Peter's Day",
+  "name": "Saint Peter's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-BA"
+  ],
+  "date": "2026-07-02",
+  "global": false,
+  "localName": "Bahia Independence Day",
+  "name": "Bahia Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-SE"
+  ],
+  "date": "2026-07-08",
+  "global": false,
+  "localName": "Sergipe Political Emancipation Day",
+  "name": "Sergipe Political Emancipation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-SP",
+   "BR-São Paulo Capital"
+  ],
+  "date": "2026-07-09",
+  "global": false,
+  "localName": "Constitutionalist Revolution",
+  "name": "Constitutionalist Revolution",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AP"
+  ],
+  "date": "2026-07-25",
+  "global": false,
+  "localName": "Saint James' Day",
+  "name": "Saint James' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-GO"
+  ],
+  "date": "2026-07-26",
+  "global": false,
+  "localName": "Foundation of Goiás city",
+  "name": "Foundation of Goiás city",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-MA"
+  ],
+  "date": "2026-07-28",
+  "global": false,
+  "localName": "Maranhão joining to independence of Brazil",
+  "name": "Maranhão joining to independence of Brazil",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-PB"
+  ],
+  "date": "2026-08-05",
+  "global": false,
+  "localName": "State Founding Day",
+  "name": "State Founding Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-RN"
+  ],
+  "date": "2026-08-07",
+  "global": false,
+  "localName": "Rio Grande do Norte Day",
+  "name": "Rio Grande do Norte Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-PA"
+  ],
+  "date": "2026-08-15",
+  "global": false,
+  "localName": "Grão-Pará joining to independence of Brazil",
+  "name": "Grão-Pará joining to independence of Brazil",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-SC"
+  ],
+  "date": "2026-08-16",
+  "global": false,
+  "localName": "Santa Catarina State Day",
+  "name": "Santa Catarina State Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AC"
+  ],
+  "date": "2026-09-05",
+  "global": false,
+  "localName": "Amazonia Day",
+  "name": "Amazonia Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AM"
+  ],
+  "date": "2026-09-05",
+  "global": false,
+  "localName": "Elevation of Amazonas to province",
+  "name": "Elevation of Amazonas to province",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-07",
+  "global": true,
+  "localName": "Independência do Brasil",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-TO"
+  ],
+  "date": "2026-09-08",
+  "global": false,
+  "localName": "Our Lady of Nativity",
+  "name": "Our Lady of Nativity",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AP"
+  ],
+  "date": "2026-09-13",
+  "global": false,
+  "localName": "Creation of the Federal Territory",
+  "name": "Creation of the Federal Territory",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AL"
+  ],
+  "date": "2026-09-16",
+  "global": false,
+  "localName": "Political Emancipation of Alagoas",
+  "name": "Political Emancipation of Alagoas",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-RS"
+  ],
+  "date": "2026-09-20",
+  "global": false,
+  "localName": "Gaucho Day",
+  "name": "Gaucho Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-RN"
+  ],
+  "date": "2026-10-03",
+  "global": false,
+  "localName": "Uruaçu and Cunhaú Martyrs Day",
+  "name": "Uruaçu and Cunhaú Martyrs Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-RR",
+   "BR-TO"
+  ],
+  "date": "2026-10-05",
+  "global": false,
+  "localName": "State Creation Day",
+  "name": "State Creation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-MS"
+  ],
+  "date": "2026-10-11",
+  "global": false,
+  "localName": "State Creation Day",
+  "name": "State Creation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-12",
+  "global": true,
+  "localName": "Nossa Senhora Aparecida",
+  "name": "Our Lady of Aparecida",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-PI"
+  ],
+  "date": "2026-10-19",
+  "global": false,
+  "localName": "Piauí Day",
+  "name": "Piauí Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-02",
+  "global": true,
+  "localName": "Finados",
+  "name": "All Souls' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-15",
+  "global": true,
+  "localName": "Proclamação da República",
+  "name": "Republic Proclamation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-20",
+  "global": true,
+  "localName": "Dia Nacional de Zumbi e da Consciência Negra",
+  "name": "National Day of Zumbi and Black Awareness",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AC"
+  ],
+  "date": "2026-11-20",
+  "global": false,
+  "localName": "Signing of the Petropolis Treaty",
+  "name": "Signing of the Petropolis Treaty",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-SC"
+  ],
+  "date": "2026-11-29",
+  "global": false,
+  "localName": "Saint Catherine of Alexandria Day",
+  "name": "Saint Catherine of Alexandria Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "BR-AL",
+   "BR-DF"
+  ],
+  "date": "2026-11-30",
+  "global": false,
+  "localName": "Evangelical Day",
+  "name": "Evangelical Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Natal",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

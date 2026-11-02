@@ -1,0 +1,172 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-SCT"
+  ],
+  "date": "2028-01-02",
+  "global": false,
+  "localName": "New Year Holiday",
+  "name": "New Year Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-03",
+  "global": true,
+  "localName": "New Year's Day (observed)",
+  "name": "New Year's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-SCT"
+  ],
+  "date": "2028-01-04",
+  "global": false,
+  "localName": "New Year Holiday (observed)",
+  "name": "New Year Holiday (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-NIR"
+  ],
+  "date": "2028-03-17",
+  "global": false,
+  "localName": "Saint Patrick's Day",
+  "name": "Saint Patrick's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-ENG",
+   "GB-NIR",
+   "GB-WLS"
+  ],
+  "date": "2028-04-17",
+  "global": false,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "May Day",
+  "name": "May Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-29",
+  "global": true,
+  "localName": "Spring Bank Holiday",
+  "name": "Spring Bank Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-NIR"
+  ],
+  "date": "2028-07-12",
+  "global": false,
+  "localName": "Battle of the Boyne",
+  "name": "Battle of the Boyne",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-SCT"
+  ],
+  "date": "2028-08-07",
+  "global": false,
+  "localName": "Summer Bank Holiday",
+  "name": "Summer Bank Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-ENG",
+   "GB-NIR",
+   "GB-WLS"
+  ],
+  "date": "2028-08-28",
+  "global": false,
+  "localName": "Late Summer Bank Holiday",
+  "name": "Late Summer Bank Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "GB-SCT"
+  ],
+  "date": "2028-11-30",
+  "global": false,
+  "localName": "Saint Andrew's Day",
+  "name": "Saint Andrew's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-26",
+  "global": true,
+  "localName": "Boxing Day",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

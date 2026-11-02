@@ -1,0 +1,204 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "رأس السنة الميلادية",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-06",
+  "global": true,
+  "localName": "عيد الميلاد عند الطوائف الارمنية الارثوذكسية",
+  "name": "Armenian Orthodox Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-09",
+  "global": true,
+  "localName": "عيد مار مارون",
+  "name": "Saint Maron's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "عيد الفطر (تقديري)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-25",
+  "global": true,
+  "localName": "عيد بشارة السيدة مريم العذراء",
+  "name": "Feast of the Annunciation",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "الجمعة العظيمة عند الطوائف الكاثوليكية",
+  "name": "Catholic Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-10",
+  "global": true,
+  "localName": "الجمعة العظيمة عند الطوائف الأرثوذكسية",
+  "name": "Orthodox Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "عيد العمل",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-03",
+  "global": true,
+  "localName": "عيد الشهداء",
+  "name": "Martyrs' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-10",
+  "global": true,
+  "localName": "عيد المقاومة والتحرير",
+  "name": "Resistance and Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-25",
+  "global": true,
+  "localName": "",
+  "name": "Resistance and Liberation Day",
+  "source": "https://www.abl.org.lb/english/abl-and-banking-sector-news/official-holidays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-28",
+  "global": true,
+  "localName": "عيد الأضحى (تقديري)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-16",
+  "global": true,
+  "localName": "عيد رأس السنة الهجرية (تقديري)",
+  "name": "Islamic New Year Day (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-26",
+  "global": true,
+  "localName": "عاشوراء (تقديري)",
+  "name": "Ashura",
+  "source": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=27249",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-15",
+  "global": true,
+  "localName": "عيد انتقال العذراء",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-25",
+  "global": true,
+  "localName": "ذكرى المولد النبوي الشريف (تقديري)",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-22",
+  "global": true,
+  "localName": "ذكرى الاستقلال",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "عيد الميلاد",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

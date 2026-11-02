@@ -1,0 +1,262 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-03",
+  "global": true,
+  "localName": "දුරුතු පුර පසළොස්වක පෝය දිනය",
+  "name": "Duruthu Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-15",
+  "global": true,
+  "localName": "දෙමළ තෛපොංැලල් දිනය",
+  "name": "Tamil Thai Pongal Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-01",
+  "global": true,
+  "localName": "නවම් පුර පසළොස්වක පෝය දිනය",
+  "name": "Nawam Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-04",
+  "global": true,
+  "localName": "නිදහස් සමරු දිනය",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-15",
+  "global": true,
+  "localName": "මහ සිවරාත්රි දිනය",
+  "name": "Maha Sivarathri Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-02",
+  "global": true,
+  "localName": "මැදින් පුර පසළොස්වක පෝය දිනය",
+  "name": "Medin Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "ඊදුල් ෆීතර්",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-01",
+  "global": true,
+  "localName": "බක් පුර පසළොස්වක පෝය දිනය",
+  "name": "Bak Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "මහ සිකුරාදා දිනය",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-13",
+  "global": true,
+  "localName": "සිංහල හා දෙමළ අලුත් අවුරුදු දිනට පෙර දිනය",
+  "name": "Day Before Sinhala and Tamil New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-14",
+  "global": true,
+  "localName": "සිංහල හා දෙමළ අලුත් අවුරුදු දිනය",
+  "name": "Sinhala and Tamil New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "",
+  "name": "International Workers' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "",
+  "name": "Vesak Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-02",
+  "global": true,
+  "localName": "වෙසක් පුර පසළොස්වක පෝය දිනට පසු දිනය",
+  "name": "Day Following Vesak Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-28",
+  "global": true,
+  "localName": "ඊදුල් අල්හා",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-30",
+  "global": true,
+  "localName": "අධි පොසොන් පුර පසළොස්වක පෝය දිනය",
+  "name": "Adhi Poson Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-29",
+  "global": true,
+  "localName": "පොසොන් පුර පසළොස්වක පෝය දිනය",
+  "name": "Poson Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-29",
+  "global": true,
+  "localName": "ඇසල පුර පසළොස්වක පෝය දිනය",
+  "name": "Esala Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-26",
+  "global": true,
+  "localName": "නබි නායකතුමාගේ උපන් දිනය",
+  "name": "Prophet's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-27",
+  "global": true,
+  "localName": "නිකිණි පුර පසළොස්වක පෝය දිනය",
+  "name": "Nikini Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-26",
+  "global": true,
+  "localName": "බිනර පුර පසළොස්වක පෝය දිනය",
+  "name": "Binara Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-25",
+  "global": true,
+  "localName": "වප් පුර පසළොස්වක පෝය දිනය",
+  "name": "Vap Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-08",
+  "global": true,
+  "localName": "දීපවාලි උත්සව දිනය",
+  "name": "Diwali",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-24",
+  "global": true,
+  "localName": "ඉල් පුර පසළොස්වක පෝය දිනය",
+  "name": "Il Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-23",
+  "global": true,
+  "localName": "උඳුවප් පුර පසළොස්වක පෝය දිනය",
+  "name": "Unduvap Full Moon Poya Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "නත්තල් උත්සව දිනය",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

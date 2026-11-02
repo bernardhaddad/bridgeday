@@ -1,0 +1,145 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-04",
+  "global": true,
+  "localName": "Easter Saturday",
+  "name": "Easter Saturday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-15",
+  "global": true,
+  "localName": "Girmit Day",
+  "name": "Girmit Day",
+  "source": "https://www.parliament.gov.fj/wp-content/uploads/2026/10/GN-95-Declaration-of-Public-Holidays-for-2026-.pdf",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-29",
+  "global": true,
+  "localName": "Ratu Sir Lala Sukuna Day",
+  "name": "Ratu Sir Lala Sukuna Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-24",
+  "global": true,
+  "localName": "Prophet Mohammed's Birthday (estimated)",
+  "name": "Prophet Mohammed's Birthday",
+  "source": "https://www.fiji.gov.fj/public-holidays/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-10",
+  "global": true,
+  "localName": "Fiji Day",
+  "name": "Fiji Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-12",
+  "global": true,
+  "localName": "",
+  "name": "Fiji Day (observed)",
+  "source": "https://www.parliament.gov.fj/wp-content/uploads/2026/10/GN-95-Declaration-of-Public-Holidays-for-2026-.pdf",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-08",
+  "global": true,
+  "localName": "Diwali (estimated)",
+  "name": "Diwali (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-09",
+  "global": true,
+  "localName": "Diwali (observed, estimated)",
+  "name": "Diwali (observed, estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-26",
+  "global": true,
+  "localName": "Boxing Day",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-28",
+  "global": true,
+  "localName": "Boxing Day (observed)",
+  "name": "Boxing Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

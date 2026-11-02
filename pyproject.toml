@@ -1,0 +1,39 @@
+[project]
+name = "bridgeday"
+version = "0.1.0"
+description = "Fully automated public-holiday and leave-planner static site"
+requires-python = ">=3.11"
+dependencies = ["holidays==0.107"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.5"]
+
+[project.scripts]
+bridgeday = "bridgeday.main:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+bridgeday = ["style.css"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+# HTML templates read better unwrapped.
+"src/bridgeday/render.py" = ["E501"]
+"src/bridgeday/planner.py" = ["E501"]
+"src/bridgeday/render_global.py" = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

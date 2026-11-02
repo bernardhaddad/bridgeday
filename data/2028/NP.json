@@ -1,0 +1,352 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-11",
+  "global": true,
+  "localName": "पृथ्वी जयन्ती",
+  "name": "Prithvi Jayanti",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-15",
+  "global": true,
+  "localName": "माघे संक्रान्ति",
+  "name": "Maghe Sankranti",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-29",
+  "global": true,
+  "localName": "शहीद दिवस",
+  "name": "Martyr's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-19",
+  "global": true,
+  "localName": "राष्ट्रिय प्रजातन्त्र दिवस",
+  "name": "National Democracy Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-23",
+  "global": true,
+  "localName": "महाशिवरात्रि",
+  "name": "Maha Shivaratri",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-26",
+  "global": true,
+  "localName": "",
+  "name": "Gyalpo Lhosar",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-26",
+  "global": true,
+  "localName": "",
+  "name": "Sonam Lhochhar",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-27",
+  "global": true,
+  "localName": "ईद (ईद उल फित्र) (अनुमानित)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-08",
+  "global": true,
+  "localName": "अन्तर्राष्ट्रिय महिला दिवस",
+  "name": "International Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-10",
+  "global": true,
+  "localName": "फागुपूर्णिमा",
+  "name": "Fagu Poornima",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-11",
+  "global": true,
+  "localName": "फागुपूर्णिमा (तराई)",
+  "name": "Fagu Poornima (Terai)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-03",
+  "global": true,
+  "localName": "राम नवमी",
+  "name": "Ram Navami",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-13",
+  "global": true,
+  "localName": "नेपाली नयाँ वर्ष",
+  "name": "Nepali New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "अन्तर्राष्ट्रिय श्रम दिवस",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-06",
+  "global": true,
+  "localName": "बकर ईद (ईद उल अजहा) (अनुमानित)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-08",
+  "global": true,
+  "localName": "बुद्ध जयन्ती",
+  "name": "Buddha Jayanti",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-28",
+  "global": true,
+  "localName": "गणतन्त्र दिवस",
+  "name": "Republic Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-05",
+  "global": true,
+  "localName": "जनै पूर्णिमा",
+  "name": "Janai Poornima",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-13",
+  "global": true,
+  "localName": "श्रीकृष्ण जन्माष्टमी",
+  "name": "Shree Krishna Janmashtami",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-18",
+  "global": true,
+  "localName": "संविधान दिवस",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-19",
+  "global": true,
+  "localName": "घटस्थापना",
+  "name": "Ghatasthapana",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-25",
+  "global": true,
+  "localName": "फुलपाती",
+  "name": "Fulpati",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-26",
+  "global": true,
+  "localName": "",
+  "name": "Maha Ashtami",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-26",
+  "global": true,
+  "localName": "",
+  "name": "Maha Navami",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-27",
+  "global": true,
+  "localName": "विजया दशमी",
+  "name": "Bijaya Dashami",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-28",
+  "global": true,
+  "localName": "एकादशी (दशैं)",
+  "name": "Ekadashi (Dashain)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-29",
+  "global": true,
+  "localName": "दुवादशी (दशैं)",
+  "name": "Duwadashi (Dashain)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-17",
+  "global": true,
+  "localName": "",
+  "name": "Gai Tihar",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-17",
+  "global": true,
+  "localName": "",
+  "name": "Laxmi Pooja",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-18",
+  "global": true,
+  "localName": "",
+  "name": "Gobardhan Pooja",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-18",
+  "global": true,
+  "localName": "",
+  "name": "Mha Pooja",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-19",
+  "global": true,
+  "localName": "भाइटीका",
+  "name": "Bhai Tika",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-23",
+  "global": true,
+  "localName": "छठ पर्व",
+  "name": "Chhath Parva",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "क्रिसमसको दिन",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-30",
+  "global": true,
+  "localName": "तमु ल्हाेसार",
+  "name": "Tamu Lhochhar",
+  "types": [
+   "Public"
+  ]
+ }
+]

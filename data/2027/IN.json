@@ -1,0 +1,1677 @@
+[
+ {
+  "counties": [
+   "IN-KL"
+  ],
+  "date": "2027-01-02",
+  "global": false,
+  "localName": "Mannam's Birthday",
+  "name": "Mannam's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-MZ"
+  ],
+  "date": "2027-01-02",
+  "global": false,
+  "localName": "Post New Year",
+  "name": "Post New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-JK"
+  ],
+  "date": "2027-01-06",
+  "global": false,
+  "localName": "Isra' and Mi'raj (estimated)",
+  "name": "Isra' and Mi'raj (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-MZ"
+  ],
+  "date": "2027-01-11",
+  "global": false,
+  "localName": "Missionary Day",
+  "name": "Missionary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-WB"
+  ],
+  "date": "2027-01-12",
+  "global": false,
+  "localName": "Swami Vivekananda's Birthday",
+  "name": "Swami Vivekananda's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-CH",
+   "IN-PB"
+  ],
+  "date": "2027-01-15",
+  "global": false,
+  "localName": "Guru Gobind Singh's Birthday",
+  "name": "Guru Gobind Singh's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-AS",
+   "IN-DH"
+  ],
+  "date": "2027-01-15",
+  "global": false,
+  "localName": "Magh Bihu",
+  "name": "Magh Bihu",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-DH",
+   "IN-KA",
+   "IN-LD",
+   "IN-SK"
+  ],
+  "date": "2027-01-15",
+  "global": false,
+  "localName": "Makar Sankranti",
+  "name": "Makar Sankranti",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-DH",
+   "IN-PY",
+   "IN-TN"
+  ],
+  "date": "2027-01-15",
+  "global": false,
+  "localName": "Pongal",
+  "name": "Pongal",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-GJ"
+  ],
+  "date": "2027-01-15",
+  "global": false,
+  "localName": "Uttarayan",
+  "name": "Uttarayan",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-PY",
+   "IN-TN"
+  ],
+  "date": "2027-01-16",
+  "global": false,
+  "localName": "Thiruvalluvar Day",
+  "name": "Thiruvalluvar Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-TN"
+  ],
+  "date": "2027-01-17",
+  "global": false,
+  "localName": "Uzhavar Thirunal",
+  "name": "Uzhavar Thirunal",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-AS",
+   "IN-TR",
+   "IN-WB"
+  ],
+  "date": "2027-01-23",
+  "global": false,
+  "localName": "Netaji Subhas Chandra Bose's Birthday",
+  "name": "Netaji Subhas Chandra Bose's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HP"
+  ],
+  "date": "2027-01-25",
+  "global": false,
+  "localName": "Statehood Day",
+  "name": "Statehood Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-26",
+  "global": true,
+  "localName": "Republic Day",
+  "name": "Republic Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-SK"
+  ],
+  "date": "2027-02-07",
+  "global": false,
+  "localName": "Sonam Lochhar",
+  "name": "Sonam Lochhar",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HR"
+  ],
+  "date": "2027-02-11",
+  "global": false,
+  "localName": "Sir Chottu Ram's Birthday",
+  "name": "Sir Chottu Ram's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-MH"
+  ],
+  "date": "2027-02-19",
+  "global": false,
+  "localName": "Chhatrapati Shivaji Maharaj's Birthday",
+  "name": "Chhatrapati Shivaji Maharaj's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HP"
+  ],
+  "date": "2027-02-20",
+  "global": false,
+  "localName": "Guru Ravi Das's Birthday",
+  "name": "Guru Ravi Das's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-AR"
+  ],
+  "date": "2027-02-20",
+  "global": false,
+  "localName": "Statehood Day",
+  "name": "Statehood Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-SK"
+  ],
+  "date": "2027-02-26",
+  "global": false,
+  "localName": "Akhil Sikkim Khas Chettri Bahun Kalyan Sangh's Foundation Day",
+  "name": "Akhil Sikkim Khas Chettri Bahun Kalyan Sangh's Foundation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-10",
+  "global": true,
+  "localName": "Id-ul-Fitr (estimated)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-MP"
+  ],
+  "date": "2027-03-20",
+  "global": false,
+  "localName": "Veerangana Avantibai's Martyrdom Day",
+  "name": "Veerangana Avantibai's Martyrdom Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-RJ",
+   "IN-UK"
+  ],
+  "date": "2027-03-21",
+  "global": false,
+  "localName": "Holika Dahan",
+  "name": "Holika Dahan",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-JK",
+   "IN-LA"
+  ],
+  "date": "2027-03-21",
+  "global": false,
+  "localName": "Nowruz",
+  "name": "Nowruz",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-23",
+  "global": true,
+  "localName": "Holi",
+  "name": "Holi",
+  "source": "https://utilities.cept.gov.in/dop/pdfbind.ashx?id=15435",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HR",
+   "IN-PB"
+  ],
+  "date": "2027-03-23",
+  "global": false,
+  "localName": "Shaheed-e-Azam Bhagat Singh, Sukhdev and Rajguru's Martyrdom Day",
+  "name": "Shaheed-e-Azam Bhagat Singh, Sukhdev and Rajguru's Martyrdom Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-KL"
+  ],
+  "date": "2027-03-25",
+  "global": false,
+  "localName": "Maundy Thursday",
+  "name": "Maundy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-KL"
+  ],
+  "date": "2027-03-28",
+  "global": false,
+  "localName": "Easter Sunday",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-DH"
+  ],
+  "date": "2027-04-07",
+  "global": false,
+  "localName": "Chaitra Sukladi",
+  "name": "Chaitra Sukladi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-DH",
+   "IN-GJ",
+   "IN-RJ",
+   "IN-UK"
+  ],
+  "date": "2027-04-07",
+  "global": false,
+  "localName": "Cheti Chand",
+  "name": "Cheti Chand",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-DH",
+   "IN-GA",
+   "IN-MH"
+  ],
+  "date": "2027-04-07",
+  "global": false,
+  "localName": "Gudi Padwa",
+  "name": "Gudi Padwa",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-DH",
+   "IN-KA"
+  ],
+  "date": "2027-04-07",
+  "global": false,
+  "localName": "Ugadi",
+  "name": "Ugadi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-JK"
+  ],
+  "date": "2027-04-08",
+  "global": false,
+  "localName": "1st Navratra",
+  "name": "1st Navratra",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-PB"
+  ],
+  "date": "2027-04-08",
+  "global": false,
+  "localName": "Guru Nabha Dass's Birthday",
+  "name": "Guru Nabha Dass's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-RJ"
+  ],
+  "date": "2027-04-11",
+  "global": false,
+  "localName": "Mahatma Jyotiba Phule's Birthday",
+  "name": "Mahatma Jyotiba Phule's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-14",
+  "global": true,
+  "localName": "Dr. B. R. Ambedkar's Jayanti",
+  "name": "Dr. B. R. Ambedkar's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-AS"
+  ],
+  "date": "2027-04-14",
+  "global": false,
+  "localName": "Bahag Bihu",
+  "name": "Bahag Bihu",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-JK"
+  ],
+  "date": "2027-04-14",
+  "global": false,
+  "localName": "Baisakhi",
+  "name": "Baisakhi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-PY",
+   "IN-TN"
+  ],
+  "date": "2027-04-14",
+  "global": false,
+  "localName": "Tamil New Year",
+  "name": "Tamil New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HR",
+   "IN-PB"
+  ],
+  "date": "2027-04-14",
+  "global": false,
+  "localName": "Vaisakhi",
+  "name": "Vaisakhi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-15",
+  "global": true,
+  "localName": "Ram Navami",
+  "name": "Ram Navami",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-AR",
+   "IN-AS"
+  ],
+  "date": "2027-04-15",
+  "global": false,
+  "localName": "Bahag Bihu",
+  "name": "Bahag Bihu",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-TR",
+   "IN-WB"
+  ],
+  "date": "2027-04-15",
+  "global": false,
+  "localName": "Bengali New Year",
+  "name": "Bengali New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HP"
+  ],
+  "date": "2027-04-15",
+  "global": false,
+  "localName": "Himachal Day",
+  "name": "Himachal Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-KL",
+   "IN-PY"
+  ],
+  "date": "2027-04-15",
+  "global": false,
+  "localName": "Vishu",
+  "name": "Vishu",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-AS"
+  ],
+  "date": "2027-04-16",
+  "global": false,
+  "localName": "Bahag Bihu",
+  "name": "Bahag Bihu",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-PY"
+  ],
+  "date": "2027-04-16",
+  "global": false,
+  "localName": "Vishu (Day 2)",
+  "name": "Vishu (Day 2)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-19",
+  "global": true,
+  "localName": "Mahavir Jayanti",
+  "name": "Mahavira's Birthday",
+  "source": "https://www.govtemployeeshub.com/2026/07/dopt-central-government-holiday-list.html",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-TR"
+  ],
+  "date": "2027-04-21",
+  "global": false,
+  "localName": "Garia Puja",
+  "name": "Garia Puja",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-MH"
+  ],
+  "date": "2027-05-01",
+  "global": false,
+  "localName": "Maharashtra Day",
+  "name": "Maharashtra Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-AS",
+   "IN-KA",
+   "IN-KL",
+   "IN-PY",
+   "IN-TN",
+   "IN-WB"
+  ],
+  "date": "2027-05-01",
+  "global": false,
+  "localName": "May Day",
+  "name": "May Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HR"
+  ],
+  "date": "2027-05-08",
+  "global": false,
+  "localName": "Akshay Tritiya",
+  "name": "Akshay Tritiya",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-GJ",
+   "IN-HP",
+   "IN-HR",
+   "IN-PB",
+   "IN-RJ"
+  ],
+  "date": "2027-05-08",
+  "global": false,
+  "localName": "Lord Shri Parshuram's Birthday",
+  "name": "Lord Shri Parshuram's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-WB"
+  ],
+  "date": "2027-05-09",
+  "global": false,
+  "localName": "Rabindranath Tagore's Birthday",
+  "name": "Rabindranath Tagore's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-SK"
+  ],
+  "date": "2027-05-16",
+  "global": false,
+  "localName": "Sikkim State Day",
+  "name": "Sikkim State Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "Id-ul-Zuha (Bakrid) (estimated)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-20",
+  "global": true,
+  "localName": "Buddha Purnima",
+  "name": "Buddha Purnima",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HP",
+   "IN-HR",
+   "IN-RJ"
+  ],
+  "date": "2027-06-07",
+  "global": false,
+  "localName": "Maharana Pratap's Birthday",
+  "name": "Maharana Pratap's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-PB"
+  ],
+  "date": "2027-06-08",
+  "global": false,
+  "localName": "Guru Arjun Dev's Martyrdom Day",
+  "name": "Guru Arjun Dev's Martyrdom Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-MZ"
+  ],
+  "date": "2027-06-15",
+  "global": false,
+  "localName": "Young Mizo Association's Day",
+  "name": "Young Mizo Association's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-16",
+  "global": true,
+  "localName": "Muharram (estimated)",
+  "name": "Ashura (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HP",
+   "IN-HR",
+   "IN-PB"
+  ],
+  "date": "2027-06-18",
+  "global": false,
+  "localName": "Sant Kabir's Birthday",
+  "name": "Sant Kabir's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-MZ"
+  ],
+  "date": "2027-06-30",
+  "global": false,
+  "localName": "Peace Accord Day",
+  "name": "Peace Accord Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-MZ"
+  ],
+  "date": "2027-07-06",
+  "global": false,
+  "localName": "Mizo Hmeichhe Insuihkhawm Pawl's Day",
+  "name": "Mizo Hmeichhe Insuihkhawm Pawl's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-TR"
+  ],
+  "date": "2027-07-11",
+  "global": false,
+  "localName": "Kharchi Puja",
+  "name": "Kharchi Puja",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-SK"
+  ],
+  "date": "2027-07-13",
+  "global": false,
+  "localName": "Bhanu's Birthday",
+  "name": "Bhanu's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-UK"
+  ],
+  "date": "2027-07-16",
+  "global": false,
+  "localName": "Harela",
+  "name": "Harela",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-TR"
+  ],
+  "date": "2027-07-28",
+  "global": false,
+  "localName": "Ker Puja",
+  "name": "Ker Puja",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HR",
+   "IN-PB"
+  ],
+  "date": "2027-07-31",
+  "global": false,
+  "localName": "Shaheed Udham Singh's Martyrdom Day",
+  "name": "Shaheed Udham Singh's Martyrdom Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-RJ"
+  ],
+  "date": "2027-08-09",
+  "global": false,
+  "localName": "International Day of the World's Indigenous Peoples",
+  "name": "International Day of the World's Indigenous Peoples",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-15",
+  "global": true,
+  "localName": "",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-15",
+  "global": true,
+  "localName": "",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-DH",
+   "IN-GJ",
+   "IN-MH"
+  ],
+  "date": "2027-08-15",
+  "global": false,
+  "localName": "Parsi New Year (Shahenshahi)",
+  "name": "Parsi New Year (Shahenshahi)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-PY"
+  ],
+  "date": "2027-08-16",
+  "global": false,
+  "localName": "Puducherry De Jure Transfer Day",
+  "name": "Puducherry De Jure Transfer Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-DH",
+   "IN-GJ",
+   "IN-HR",
+   "IN-MP",
+   "IN-RJ",
+   "IN-UK",
+   "IN-UP"
+  ],
+  "date": "2027-08-17",
+  "global": false,
+  "localName": "Raksha Bandhan",
+  "name": "Raksha Bandhan",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-TR"
+  ],
+  "date": "2027-08-19",
+  "global": false,
+  "localName": "Maharaja Bir Bikram Kishore Manikya Bahadur's Birthday",
+  "name": "Maharaja Bir Bikram Kishore Manikya Bahadur's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-SK"
+  ],
+  "date": "2027-08-20",
+  "global": false,
+  "localName": "Nepali Bhasa Manyata Day",
+  "name": "Nepali Bhasa Manyata Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-25",
+  "global": true,
+  "localName": "Janmashtami (Vaishnava)",
+  "name": "Janmashtami (Vaishnava)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-SK"
+  ],
+  "date": "2027-09-03",
+  "global": false,
+  "localName": "Hartalika Teej",
+  "name": "Hartalika Teej",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-GA",
+   "IN-KA",
+   "IN-LD",
+   "IN-MH",
+   "IN-PY",
+   "IN-TN"
+  ],
+  "date": "2027-09-04",
+  "global": false,
+  "localName": "Ganesh Chaturthi",
+  "name": "Ganesh Chaturthi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-DH"
+  ],
+  "date": "2027-09-04",
+  "global": false,
+  "localName": "Ganesh Chaturthi / Vinayak Chaturthi",
+  "name": "Ganesh Chaturthi / Vinayak Chaturthi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-GJ"
+  ],
+  "date": "2027-09-04",
+  "global": false,
+  "localName": "Samvatsari Day",
+  "name": "Samvatsari Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-GA"
+  ],
+  "date": "2027-09-05",
+  "global": false,
+  "localName": "Ganesh Chaturthi (Day 2)",
+  "name": "Ganesh Chaturthi (Day 2)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-JH"
+  ],
+  "date": "2027-09-11",
+  "global": false,
+  "localName": "Karma Puja",
+  "name": "Karma Puja",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-RJ"
+  ],
+  "date": "2027-09-11",
+  "global": false,
+  "localName": "Khejarli's Martyrdom Day",
+  "name": "Khejarli's Martyrdom Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-AN",
+   "IN-KL",
+   "IN-LD",
+   "IN-PY"
+  ],
+  "date": "2027-09-12",
+  "global": false,
+  "localName": "Onam",
+  "name": "Onam",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-KL",
+   "IN-PY"
+  ],
+  "date": "2027-09-13",
+  "global": false,
+  "localName": "Onam (Day 2)",
+  "name": "Onam (Day 2)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-KL"
+  ],
+  "date": "2027-09-14",
+  "global": false,
+  "localName": "Onam (Day 3)",
+  "name": "Onam (Day 3)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-KL"
+  ],
+  "date": "2027-09-15",
+  "global": false,
+  "localName": "Onam (Day 4)",
+  "name": "Onam (Day 4)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-UK"
+  ],
+  "date": "2027-09-17",
+  "global": false,
+  "localName": "Vishwakarma Puja",
+  "name": "Vishwakarma Puja",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-KL"
+  ],
+  "date": "2027-09-21",
+  "global": false,
+  "localName": "Shri Narayana Guru's Death Anniversary",
+  "name": "Shri Narayana Guru's Death Anniversary",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HR"
+  ],
+  "date": "2027-09-23",
+  "global": false,
+  "localName": "Haryana War Heroes' Martyrdom Day",
+  "name": "Haryana War Heroes' Martyrdom Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-JK"
+  ],
+  "date": "2027-09-23",
+  "global": false,
+  "localName": "Maharaja Hari Singh's Birthday",
+  "name": "Maharaja Hari Singh's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-WB"
+  ],
+  "date": "2027-09-29",
+  "global": false,
+  "localName": "Mahalaya",
+  "name": "Mahalaya",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HR",
+   "IN-PB",
+   "IN-RJ"
+  ],
+  "date": "2027-09-30",
+  "global": false,
+  "localName": "Maharaj Agrasen's Birthday",
+  "name": "Maharaj Agrasen's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-RJ"
+  ],
+  "date": "2027-09-30",
+  "global": false,
+  "localName": "Sharad Navratri",
+  "name": "Sharad Navratri",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-02",
+  "global": true,
+  "localName": "Mahatma Gandhi's Jayanti",
+  "name": "Mahatma Gandhi's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-SK"
+  ],
+  "date": "2027-10-05",
+  "global": false,
+  "localName": "Late Nar Bahadur Bhandari's Birthday",
+  "name": "Late Nar Bahadur Bhandari's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-TR",
+   "IN-WB"
+  ],
+  "date": "2027-10-06",
+  "global": false,
+  "localName": "Mahasaptami",
+  "name": "Mahasaptami",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-RJ"
+  ],
+  "date": "2027-10-07",
+  "global": false,
+  "localName": "Durgashtami",
+  "name": "Durgashtami",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-AR",
+   "IN-TR",
+   "IN-WB"
+  ],
+  "date": "2027-10-07",
+  "global": false,
+  "localName": "Mahashtami",
+  "name": "Mahashtami",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-PY",
+   "IN-TN"
+  ],
+  "date": "2027-10-08",
+  "global": false,
+  "localName": "Ayudha Puja",
+  "name": "Ayudha Puja",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-JK",
+   "IN-KL",
+   "IN-WB"
+  ],
+  "date": "2027-10-08",
+  "global": false,
+  "localName": "Mahanavami",
+  "name": "Mahanavami",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-09",
+  "global": true,
+  "localName": "Dussehra",
+  "name": "Dussehra",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-KL",
+   "IN-WB"
+  ],
+  "date": "2027-10-09",
+  "global": false,
+  "localName": "Vijayadashami",
+  "name": "Vijayadashami",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-CH",
+   "IN-HP",
+   "IN-HR",
+   "IN-PB",
+   "IN-UK"
+  ],
+  "date": "2027-10-15",
+  "global": false,
+  "localName": "Maharishi Valmiki's Birthday",
+  "name": "Maharishi Valmiki's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-JK"
+  ],
+  "date": "2027-10-26",
+  "global": false,
+  "localName": "Accession Day",
+  "name": "Accession Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-WB"
+  ],
+  "date": "2027-10-28",
+  "global": false,
+  "localName": "Kali Puja",
+  "name": "Kali Puja",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-29",
+  "global": true,
+  "localName": "Diwali (Deepavali)",
+  "name": "Diwali",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-MH"
+  ],
+  "date": "2027-10-30",
+  "global": false,
+  "localName": "Diwali (Bali Pratipada)",
+  "name": "Diwali (Bali Pratipada)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-DH",
+   "IN-MP",
+   "IN-RJ",
+   "IN-UP"
+  ],
+  "date": "2027-10-30",
+  "global": false,
+  "localName": "Govardhan Puja",
+  "name": "Govardhan Puja",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-GJ"
+  ],
+  "date": "2027-10-30",
+  "global": false,
+  "localName": "Gujarati New Year",
+  "name": "Gujarati New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HR",
+   "IN-PB"
+  ],
+  "date": "2027-10-30",
+  "global": false,
+  "localName": "Vishwakarma Day",
+  "name": "Vishwakarma Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-GJ",
+   "IN-RJ",
+   "IN-UP",
+   "IN-WB"
+  ],
+  "date": "2027-10-31",
+  "global": false,
+  "localName": "Bhai Duj",
+  "name": "Bhai Duj",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-UP"
+  ],
+  "date": "2027-10-31",
+  "global": false,
+  "localName": "Chitragupt's Birthday",
+  "name": "Chitragupt's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-GJ"
+  ],
+  "date": "2027-10-31",
+  "global": false,
+  "localName": "Sardar Vallabhbhai Patel's Birthday",
+  "name": "Sardar Vallabhbhai Patel's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-HR"
+  ],
+  "date": "2027-11-01",
+  "global": false,
+  "localName": "Haryana Day",
+  "name": "Haryana Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-PY"
+  ],
+  "date": "2027-11-01",
+  "global": false,
+  "localName": "Puducherry Liberation Day",
+  "name": "Puducherry Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-JH",
+   "IN-WB"
+  ],
+  "date": "2027-11-04",
+  "global": false,
+  "localName": "Chhath Puja",
+  "name": "Chhath Puja",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-DH"
+  ],
+  "date": "2027-11-04",
+  "global": false,
+  "localName": "Pratihar Shashthi or Surya Shashthi (Chhath Puja)",
+  "name": "Pratihar Shashthi or Surya Shashthi (Chhath Puja)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-14",
+  "global": true,
+  "localName": "Guru Nanak's Jayanti",
+  "name": "Guru Nanak's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-WB"
+  ],
+  "date": "2027-11-15",
+  "global": false,
+  "localName": "Birsa Munda's Birthday",
+  "name": "Birsa Munda's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-PB"
+  ],
+  "date": "2027-11-16",
+  "global": false,
+  "localName": "Kartar Singh Sarabha's Martyrdom Day",
+  "name": "Kartar Singh Sarabha's Martyrdom Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-PB",
+   "IN-UK"
+  ],
+  "date": "2027-11-24",
+  "global": false,
+  "localName": "Guru Tegh Bahadur's Martyrdom Day",
+  "name": "Guru Tegh Bahadur's Martyrdom Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-AR"
+  ],
+  "date": "2027-12-01",
+  "global": false,
+  "localName": "Indigenous Faith Day",
+  "name": "Indigenous Faith Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-GA"
+  ],
+  "date": "2027-12-03",
+  "global": false,
+  "localName": "Saint Francis Xavier's Day",
+  "name": "Saint Francis Xavier's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-GA"
+  ],
+  "date": "2027-12-19",
+  "global": false,
+  "localName": "Goa Liberation Day",
+  "name": "Goa Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-MZ"
+  ],
+  "date": "2027-12-24",
+  "global": false,
+  "localName": "Christmas Eve",
+  "name": "Christmas Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Christmas",
+  "name": "Christmas",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-JK"
+  ],
+  "date": "2027-12-26",
+  "global": false,
+  "localName": "Isra' and Mi'raj (estimated)",
+  "name": "Isra' and Mi'raj (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-MZ"
+  ],
+  "date": "2027-12-26",
+  "global": false,
+  "localName": "Post Christmas",
+  "name": "Post Christmas",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-PB"
+  ],
+  "date": "2027-12-28",
+  "global": false,
+  "localName": "Jor Mela Fatehgarh Sahib",
+  "name": "Jor Mela Fatehgarh Sahib",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-SK"
+  ],
+  "date": "2027-12-30",
+  "global": false,
+  "localName": "Tamu Lochhar",
+  "name": "Tamu Lochhar",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "IN-MZ"
+  ],
+  "date": "2027-12-31",
+  "global": false,
+  "localName": "New Year's Eve",
+  "name": "New Year's Eve",
+  "types": [
+   "Public"
+  ]
+ }
+]

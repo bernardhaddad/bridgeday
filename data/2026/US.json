@@ -1,0 +1,1322 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-PR"
+  ],
+  "date": "2026-01-06",
+  "global": false,
+  "localName": "Epiphany",
+  "name": "Epiphany",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-VI"
+  ],
+  "date": "2026-01-06",
+  "global": false,
+  "localName": "Three Kings Day",
+  "name": "Three Kings Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-19",
+  "global": true,
+  "localName": "Martin Luther King Jr. Day",
+  "name": "Martin Luther King Jr. Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-TX"
+  ],
+  "date": "2026-01-19",
+  "global": false,
+  "localName": "Confederate Memorial Day",
+  "name": "Confederate Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AZ",
+   "US-NH"
+  ],
+  "date": "2026-01-19",
+  "global": false,
+  "localName": "Dr. Martin Luther King Jr. / Civil Rights Day",
+  "name": "Dr. Martin Luther King Jr. / Civil Rights Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-MS"
+  ],
+  "date": "2026-01-19",
+  "global": false,
+  "localName": "Dr. Martin Luther King Jr. and Robert E. Lee's Birthdays",
+  "name": "Dr. Martin Luther King Jr. and Robert E. Lee's Birthdays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-ID"
+  ],
+  "date": "2026-01-19",
+  "global": false,
+  "localName": "Martin Luther King Jr. / Idaho Human Rights Day",
+  "name": "Martin Luther King Jr. / Idaho Human Rights Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AK"
+  ],
+  "date": "2026-01-19",
+  "global": false,
+  "localName": "Martin Luther King Jr.'s Birthday",
+  "name": "Martin Luther King Jr.'s Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AL"
+  ],
+  "date": "2026-01-19",
+  "global": false,
+  "localName": "Martin Luther King, Jr & Robert E. Lee's Birthday",
+  "name": "Martin Luther King, Jr & Robert E. Lee's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-CT",
+   "US-IA",
+   "US-IL",
+   "US-NJ",
+   "US-NY"
+  ],
+  "date": "2026-02-12",
+  "global": false,
+  "localName": "Lincoln's Birthday",
+  "name": "Lincoln's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-CA",
+   "US-FL",
+   "US-NY",
+   "US-WI"
+  ],
+  "date": "2026-02-15",
+  "global": false,
+  "localName": "Susan B. Anthony Day",
+  "name": "Susan B. Anthony Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-16",
+  "global": true,
+  "localName": "Washington's Birthday",
+  "name": "Washington's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AL"
+  ],
+  "date": "2026-02-16",
+  "global": false,
+  "localName": "George Washington & Thomas Jefferson's Birthday",
+  "name": "George Washington & Thomas Jefferson's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-VA"
+  ],
+  "date": "2026-02-16",
+  "global": false,
+  "localName": "George Washington Day",
+  "name": "George Washington Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-PR"
+  ],
+  "date": "2026-02-16",
+  "global": false,
+  "localName": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+  "name": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AR"
+  ],
+  "date": "2026-02-16",
+  "global": false,
+  "localName": "George Washington's Birthday and Daisy Gatson Bates Day",
+  "name": "George Washington's Birthday and Daisy Gatson Bates Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-MT"
+  ],
+  "date": "2026-02-16",
+  "global": false,
+  "localName": "Lincoln's and Washington's Birthdays",
+  "name": "Lincoln's and Washington's Birthdays",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AZ"
+  ],
+  "date": "2026-02-16",
+  "global": false,
+  "localName": "Lincoln/Washington Presidents' Day",
+  "name": "Lincoln/Washington Presidents' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-SC",
+   "US-TN",
+   "US-WY"
+  ],
+  "date": "2026-02-16",
+  "global": false,
+  "localName": "President's Day",
+  "name": "President's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-NJ",
+   "US-OR"
+  ],
+  "date": "2026-02-16",
+  "global": false,
+  "localName": "Presidents Day",
+  "name": "Presidents Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AK",
+   "US-CA",
+   "US-HI",
+   "US-ID",
+   "US-MD",
+   "US-OK",
+   "US-PA",
+   "US-TX",
+   "US-VI",
+   "US-VT",
+   "US-WA",
+   "US-WV"
+  ],
+  "date": "2026-02-16",
+  "global": false,
+  "localName": "Presidents' Day",
+  "name": "Presidents' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-UT"
+  ],
+  "date": "2026-02-16",
+  "global": false,
+  "localName": "Washington and Lincoln Day",
+  "name": "Washington and Lincoln Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-MN"
+  ],
+  "date": "2026-02-16",
+  "global": false,
+  "localName": "Washington's and Lincoln's Birthday",
+  "name": "Washington's and Lincoln's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-CO",
+   "US-OH"
+  ],
+  "date": "2026-02-16",
+  "global": false,
+  "localName": "Washington-Lincoln Day",
+  "name": "Washington-Lincoln Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-LA"
+  ],
+  "date": "2026-02-17",
+  "global": false,
+  "localName": "Mardi Gras",
+  "name": "Mardi Gras",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-IL"
+  ],
+  "date": "2026-03-02",
+  "global": false,
+  "localName": "Casimir Pulaski Day",
+  "name": "Casimir Pulaski Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-GU"
+  ],
+  "date": "2026-03-02",
+  "global": false,
+  "localName": "Guam Discovery Day",
+  "name": "Guam Discovery Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-TX"
+  ],
+  "date": "2026-03-02",
+  "global": false,
+  "localName": "Texas Independence Day",
+  "name": "Texas Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-VT"
+  ],
+  "date": "2026-03-03",
+  "global": false,
+  "localName": "Town Meeting Day",
+  "name": "Town Meeting Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-PR"
+  ],
+  "date": "2026-03-22",
+  "global": false,
+  "localName": "Emancipation Day",
+  "name": "Emancipation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-PR"
+  ],
+  "date": "2026-03-23",
+  "global": false,
+  "localName": "Emancipation Day (observed)",
+  "name": "Emancipation Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-MP"
+  ],
+  "date": "2026-03-24",
+  "global": false,
+  "localName": "Commonwealth Covenant Day",
+  "name": "Commonwealth Covenant Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-HI"
+  ],
+  "date": "2026-03-26",
+  "global": false,
+  "localName": "Prince Jonah Kuhio Kalanianaole Day",
+  "name": "Prince Jonah Kuhio Kalanianaole Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AK"
+  ],
+  "date": "2026-03-30",
+  "global": false,
+  "localName": "Seward's Day",
+  "name": "Seward's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-CA",
+   "US-CO",
+   "US-TX"
+  ],
+  "date": "2026-03-31",
+  "global": false,
+  "localName": "Cesar Chavez Day",
+  "name": "Cesar Chavez Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-VI"
+  ],
+  "date": "2026-03-31",
+  "global": false,
+  "localName": "Transfer Day",
+  "name": "Transfer Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-VI"
+  ],
+  "date": "2026-04-02",
+  "global": false,
+  "localName": "Holy Thursday",
+  "name": "Holy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-CT",
+   "US-DE",
+   "US-GU",
+   "US-IN",
+   "US-KY",
+   "US-LA",
+   "US-MP",
+   "US-NC",
+   "US-NJ",
+   "US-PR",
+   "US-TN",
+   "US-TX",
+   "US-VI"
+  ],
+  "date": "2026-04-03",
+  "global": false,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-GA"
+  ],
+  "date": "2026-04-03",
+  "global": false,
+  "localName": "State Holiday",
+  "name": "State Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-VI"
+  ],
+  "date": "2026-04-06",
+  "global": false,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-DC"
+  ],
+  "date": "2026-04-16",
+  "global": false,
+  "localName": "Emancipation Day",
+  "name": "Emancipation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AS"
+  ],
+  "date": "2026-04-17",
+  "global": false,
+  "localName": "American Samoa Flag Day",
+  "name": "American Samoa Flag Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-MA",
+   "US-ME"
+  ],
+  "date": "2026-04-20",
+  "global": false,
+  "localName": "Patriots' Day",
+  "name": "Patriots' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-TX"
+  ],
+  "date": "2026-04-21",
+  "global": false,
+  "localName": "San Jacinto Day",
+  "name": "San Jacinto Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-NE"
+  ],
+  "date": "2026-04-24",
+  "global": false,
+  "localName": "Arbor Day",
+  "name": "Arbor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AL",
+   "US-MS",
+   "US-SC"
+  ],
+  "date": "2026-04-27",
+  "global": false,
+  "localName": "Confederate Memorial Day",
+  "name": "Confederate Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-IN"
+  ],
+  "date": "2026-05-05",
+  "global": false,
+  "localName": "Primary Election Day",
+  "name": "Primary Election Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-MO"
+  ],
+  "date": "2026-05-08",
+  "global": false,
+  "localName": "Truman Day",
+  "name": "Truman Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-25",
+  "global": true,
+  "localName": "Memorial Day",
+  "name": "Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AL"
+  ],
+  "date": "2026-06-01",
+  "global": false,
+  "localName": "Jefferson Davis Birthday",
+  "name": "Jefferson Davis Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-HI"
+  ],
+  "date": "2026-06-11",
+  "global": false,
+  "localName": "Kamehameha Day",
+  "name": "Kamehameha Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-19",
+  "global": true,
+  "localName": "Juneteenth National Independence Day",
+  "name": "Juneteenth National Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-TX"
+  ],
+  "date": "2026-06-19",
+  "global": false,
+  "localName": "Emancipation Day In Texas",
+  "name": "Emancipation Day In Texas",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-WV"
+  ],
+  "date": "2026-06-19",
+  "global": false,
+  "localName": "West Virginia Day (observed)",
+  "name": "West Virginia Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-WV"
+  ],
+  "date": "2026-06-20",
+  "global": false,
+  "localName": "West Virginia Day",
+  "name": "West Virginia Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-03",
+  "global": true,
+  "localName": "Independence Day (observed)",
+  "name": "Independence Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-VI"
+  ],
+  "date": "2026-07-03",
+  "global": false,
+  "localName": "Emancipation Day",
+  "name": "Emancipation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-04",
+  "global": true,
+  "localName": "Independence Day",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AS"
+  ],
+  "date": "2026-07-16",
+  "global": false,
+  "localName": "Manu'a Islands Cession Day",
+  "name": "Manu'a Islands Cession Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-GU"
+  ],
+  "date": "2026-07-21",
+  "global": false,
+  "localName": "Liberation Day (Guam)",
+  "name": "Liberation Day (Guam)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-UT"
+  ],
+  "date": "2026-07-24",
+  "global": false,
+  "localName": "Pioneer Day",
+  "name": "Pioneer Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-PR"
+  ],
+  "date": "2026-07-25",
+  "global": false,
+  "localName": "Puerto Rico Constitution Day",
+  "name": "Puerto Rico Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-RI"
+  ],
+  "date": "2026-08-10",
+  "global": false,
+  "localName": "Victory Day",
+  "name": "Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-VT"
+  ],
+  "date": "2026-08-16",
+  "global": false,
+  "localName": "Bennington Battle Day",
+  "name": "Bennington Battle Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-VT"
+  ],
+  "date": "2026-08-17",
+  "global": false,
+  "localName": "Bennington Battle Day (observed)",
+  "name": "Bennington Battle Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-HI"
+  ],
+  "date": "2026-08-21",
+  "global": false,
+  "localName": "Statehood Day",
+  "name": "Statehood Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-TX"
+  ],
+  "date": "2026-08-27",
+  "global": false,
+  "localName": "Lyndon Baines Johnson Day",
+  "name": "Lyndon Baines Johnson Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-07",
+  "global": true,
+  "localName": "Labor Day",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-CO"
+  ],
+  "date": "2026-10-05",
+  "global": false,
+  "localName": "Frances Xavier Cabrini Day",
+  "name": "Frances Xavier Cabrini Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AS"
+  ],
+  "date": "2026-10-11",
+  "global": false,
+  "localName": "White Sunday",
+  "name": "White Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-12",
+  "global": true,
+  "localName": "Columbus Day",
+  "name": "Columbus Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AL"
+  ],
+  "date": "2026-10-12",
+  "global": false,
+  "localName": "Columbus Day / American Indian Heritage Day / Fraternal Day",
+  "name": "Columbus Day / American Indian Heritage Day / Fraternal Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-VI"
+  ],
+  "date": "2026-10-12",
+  "global": false,
+  "localName": "Columbus Day and Puerto Rico Friendship Day",
+  "name": "Columbus Day and Puerto Rico Friendship Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-MP"
+  ],
+  "date": "2026-10-12",
+  "global": false,
+  "localName": "Commonwealth Cultural Day",
+  "name": "Commonwealth Cultural Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AK",
+   "US-DC",
+   "US-ME",
+   "US-NE",
+   "US-NM",
+   "US-VA"
+  ],
+  "date": "2026-10-12",
+  "global": false,
+  "localName": "Indigenous Peoples' Day",
+  "name": "Indigenous Peoples' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-RI"
+  ],
+  "date": "2026-10-12",
+  "global": false,
+  "localName": "Indigenous Peoples' Day / Columbus Day",
+  "name": "Indigenous Peoples' Day / Columbus Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-SD"
+  ],
+  "date": "2026-10-12",
+  "global": false,
+  "localName": "Native Americans' Day",
+  "name": "Native Americans' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AK"
+  ],
+  "date": "2026-10-18",
+  "global": false,
+  "localName": "Alaska Day",
+  "name": "Alaska Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-AK"
+  ],
+  "date": "2026-10-19",
+  "global": false,
+  "localName": "Alaska Day (observed)",
+  "name": "Alaska Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-NV"
+  ],
+  "date": "2026-10-30",
+  "global": false,
+  "localName": "Nevada Day",
+  "name": "Nevada Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-VI"
+  ],
+  "date": "2026-11-01",
+  "global": false,
+  "localName": "Liberty Day",
+  "name": "Liberty Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-GU"
+  ],
+  "date": "2026-11-02",
+  "global": false,
+  "localName": "All Souls' Day",
+  "name": "All Souls' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-DE",
+   "US-HI",
+   "US-IL",
+   "US-IN",
+   "US-LA",
+   "US-MI",
+   "US-MP",
+   "US-MT",
+   "US-NH",
+   "US-NJ",
+   "US-NY",
+   "US-WV"
+  ],
+  "date": "2026-11-03",
+  "global": false,
+  "localName": "Election Day",
+  "name": "Election Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-MP"
+  ],
+  "date": "2026-11-04",
+  "global": false,
+  "localName": "Citizenship Day",
+  "name": "Citizenship Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-CA"
+  ],
+  "date": "2026-11-08",
+  "global": false,
+  "localName": "Diwali",
+  "name": "Diwali",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-11",
+  "global": true,
+  "localName": "Veterans Day",
+  "name": "Veterans Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-PR"
+  ],
+  "date": "2026-11-19",
+  "global": false,
+  "localName": "Puerto Rican Identity Day",
+  "name": "Puerto Rican Identity Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-26",
+  "global": true,
+  "localName": "Thanksgiving Day",
+  "name": "Thanksgiving Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-MD"
+  ],
+  "date": "2026-11-27",
+  "global": false,
+  "localName": "American Indian Heritage Day",
+  "name": "American Indian Heritage Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-CA",
+   "US-DE",
+   "US-MI",
+   "US-NC",
+   "US-NH",
+   "US-OK",
+   "US-PA",
+   "US-WV"
+  ],
+  "date": "2026-11-27",
+  "global": false,
+  "localName": "Day After Thanksgiving",
+  "name": "Day After Thanksgiving",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-NV"
+  ],
+  "date": "2026-11-27",
+  "global": false,
+  "localName": "Family Day",
+  "name": "Family Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-FL",
+   "US-TX"
+  ],
+  "date": "2026-11-27",
+  "global": false,
+  "localName": "Friday After Thanksgiving",
+  "name": "Friday After Thanksgiving",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-IN"
+  ],
+  "date": "2026-11-27",
+  "global": false,
+  "localName": "Lincoln's Birthday",
+  "name": "Lincoln's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-WA"
+  ],
+  "date": "2026-11-27",
+  "global": false,
+  "localName": "Native American Heritage Day",
+  "name": "Native American Heritage Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-NM"
+  ],
+  "date": "2026-11-27",
+  "global": false,
+  "localName": "Presidents' Day",
+  "name": "Presidents' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-GA"
+  ],
+  "date": "2026-11-27",
+  "global": false,
+  "localName": "State Holiday",
+  "name": "State Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-MP"
+  ],
+  "date": "2026-12-08",
+  "global": false,
+  "localName": "Constitution Day",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-GU"
+  ],
+  "date": "2026-12-08",
+  "global": false,
+  "localName": "Lady of Camarin Day",
+  "name": "Lady of Camarin Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-KS",
+   "US-MI",
+   "US-NC",
+   "US-TX",
+   "US-WI"
+  ],
+  "date": "2026-12-24",
+  "global": false,
+  "localName": "Christmas Eve",
+  "name": "Christmas Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-GA",
+   "US-IN"
+  ],
+  "date": "2026-12-24",
+  "global": false,
+  "localName": "Washington's Birthday",
+  "name": "Washington's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-VI"
+  ],
+  "date": "2026-12-26",
+  "global": false,
+  "localName": "Christmas Second Day",
+  "name": "Christmas Second Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-NC",
+   "US-TX"
+  ],
+  "date": "2026-12-26",
+  "global": false,
+  "localName": "Day After Christmas",
+  "name": "Day After Christmas",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-NC"
+  ],
+  "date": "2026-12-28",
+  "global": false,
+  "localName": "Day After Christmas (observed)",
+  "name": "Day After Christmas (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "US-KY",
+   "US-MI",
+   "US-WI"
+  ],
+  "date": "2026-12-31",
+  "global": false,
+  "localName": "New Year's Eve",
+  "name": "New Year's Eve",
+  "types": [
+   "Public"
+  ]
+ }
+]

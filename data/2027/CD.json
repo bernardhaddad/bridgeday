@@ -1,0 +1,132 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Nouvel an",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-04",
+  "global": true,
+  "localName": "Martyrs de l'indépendance",
+  "name": "Martyrs' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-16",
+  "global": true,
+  "localName": "",
+  "name": "National Hero Laurent Désiré Kabila Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-16",
+  "global": true,
+  "localName": "",
+  "name": "National Hero Patrice Emery Lumumba Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-17",
+  "global": true,
+  "localName": "Journée du héros national Patrice Emery Lumumba",
+  "name": "National Hero Patrice Emery Lumumba Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-06",
+  "global": true,
+  "localName": "Journée du combat de Simon Kimbangu et de la conscience africaine",
+  "name": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Fête du travail",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "Journée de la Révolution et des Forces Armées",
+  "name": "Revolution and Armed Forces Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-30",
+  "global": true,
+  "localName": "Journée de l'indépendance",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-31",
+  "global": true,
+  "localName": "Fête des parents (observé)",
+  "name": "Parents' Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-01",
+  "global": true,
+  "localName": "Fête des parents",
+  "name": "Parents' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-02",
+  "global": true,
+  "localName": "Journée commémorative du génocide Congolais",
+  "name": "Congolese Genocide Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Noël",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

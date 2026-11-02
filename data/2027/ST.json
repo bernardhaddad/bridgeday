@@ -1,0 +1,193 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Ano Novo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-04",
+  "global": true,
+  "localName": "Dia do Rei Amador",
+  "name": "Day of King Amador",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ST-P"
+  ],
+  "date": "2027-01-17",
+  "global": false,
+  "localName": "Discovery of Príncipe Island",
+  "name": "Discovery of Príncipe Island",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ST-P"
+  ],
+  "date": "2027-01-18",
+  "global": false,
+  "localName": "Discovery of Príncipe Island (observed)",
+  "name": "Discovery of Príncipe Island (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-03",
+  "global": true,
+  "localName": "Dia dos Mártires",
+  "name": "Martyrs' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-10",
+  "global": true,
+  "localName": "Quarta-feira de Cinzas",
+  "name": "Ash Wednesday (São Tomé Family Day)",
+  "source": "https://www.stp-press.st/2026/02/17/sao-tome-e-principe-vive-o-1o-feriado-nacional-da-quarta-feira-de-cinzas-o-dia-de-bocado/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ST-P"
+  ],
+  "date": "2027-04-29",
+  "global": false,
+  "localName": "Autonomy Day",
+  "name": "Autonomy Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-30",
+  "global": true,
+  "localName": "Dia do Trabalhador (observado)",
+  "name": "Worker's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Dia do Trabalhador",
+  "name": "Worker's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-07-12",
+  "global": true,
+  "localName": "Dia da Independência",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ST-P"
+  ],
+  "date": "2027-08-15",
+  "global": false,
+  "localName": "São Lourenço Day",
+  "name": "São Lourenço Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "ST-P"
+  ],
+  "date": "2027-08-16",
+  "global": false,
+  "localName": "São Lourenço Day (observed)",
+  "name": "São Lourenço Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-06",
+  "global": true,
+  "localName": "Dia das Forças Armadas",
+  "name": "Armed Forces Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-30",
+  "global": true,
+  "localName": "Dia da Reforma Agrária",
+  "name": "Agricultural Reform Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-21",
+  "global": true,
+  "localName": "Dia de São Tomé",
+  "name": "São Tomé Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-24",
+  "global": true,
+  "localName": "Natal (observado)",
+  "name": "Christmas Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Natal",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-31",
+  "global": true,
+  "localName": "Ano Novo (observado)",
+  "name": "New Year's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

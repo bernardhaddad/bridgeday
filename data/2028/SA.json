@@ -1,0 +1,142 @@
+[
+ {
+  "counties": null,
+  "date": "2028-02-22",
+  "global": true,
+  "localName": "يوم التأسيس",
+  "name": "Founding Day Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-26",
+  "global": true,
+  "localName": "عطلة عيد الفطر",
+  "name": "Eid al-Fitr Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-27",
+  "global": true,
+  "localName": "عطلة عيد الفطر",
+  "name": "Eid al-Fitr Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-28",
+  "global": true,
+  "localName": "عطلة عيد الفطر",
+  "name": "Eid al-Fitr Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-29",
+  "global": true,
+  "localName": "عطلة عيد الفطر",
+  "name": "Eid al-Fitr Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-01",
+  "global": true,
+  "localName": "عطلة عيد الفطر (يوم تعويضي)",
+  "name": "Eid al-Fitr Holiday (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-04",
+  "global": true,
+  "localName": "يوم عرفة",
+  "name": "Day of Arafah",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-05",
+  "global": true,
+  "localName": "عطلة عيد الأضحى",
+  "name": "Eid al-Adha Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-06",
+  "global": true,
+  "localName": "عطلة عيد الأضحى",
+  "name": "Eid al-Adha Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-07",
+  "global": true,
+  "localName": "عطلة عيد الأضحى",
+  "name": "Eid al-Adha Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-08",
+  "global": true,
+  "localName": "عطلة عيد الأضحى (يوم تعويضي)",
+  "name": "Eid al-Adha Holiday (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-09",
+  "global": true,
+  "localName": "عطلة عيد الأضحى (يوم تعويضي)",
+  "name": "Eid al-Adha Holiday (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-23",
+  "global": true,
+  "localName": "اليوم الوطني",
+  "name": "National Day Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-24",
+  "global": true,
+  "localName": "اليوم الوطني (يوم تعويضي)",
+  "name": "National Day Holiday (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

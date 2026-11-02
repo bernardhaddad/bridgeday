@@ -1,0 +1,186 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Año Nuevo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-15",
+  "global": true,
+  "localName": "Sábado Santo",
+  "name": "Holy Saturday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Día Nacional del Trabajo",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-21",
+  "global": true,
+  "localName": "Día de las Glorias Navales",
+  "name": "Navy Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CL-AP"
+  ],
+  "date": "2028-06-07",
+  "global": false,
+  "localName": "Assault and Capture of Cape Arica",
+  "name": "Assault and Capture of Cape Arica",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-20",
+  "global": true,
+  "localName": "Día Nacional de los Pueblos Indígenas",
+  "name": "National Indigenous Peoples Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-26",
+  "global": true,
+  "localName": "San Pedro y San Pablo",
+  "name": "Saint Peter and Saint Paul's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-16",
+  "global": true,
+  "localName": "Virgen del Carmen",
+  "name": "Our Lady of Mount Carmel",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-15",
+  "global": true,
+  "localName": "Asunción de la Virgen",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CL-NB"
+  ],
+  "date": "2028-08-20",
+  "global": false,
+  "localName": "Nativity of Bernardo O'Higgins (Chillán and Chillán Viejo communes)",
+  "name": "Nativity of Bernardo O'Higgins (Chillán and Chillán Viejo communes)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-18",
+  "global": true,
+  "localName": "Día de la Independencia",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-19",
+  "global": true,
+  "localName": "Día de las Glorias del Ejército",
+  "name": "Army Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-09",
+  "global": true,
+  "localName": "Día del Encuentro de dos Mundos",
+  "name": "Meeting of Two Worlds' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-27",
+  "global": true,
+  "localName": "Día Nacional de las Iglesias Evangélicas y Protestantes",
+  "name": "Reformation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-01",
+  "global": true,
+  "localName": "Día de Todos los Santos",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-08",
+  "global": true,
+  "localName": "La Inmaculada Concepción",
+  "name": "Immaculate Conception",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Navidad",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

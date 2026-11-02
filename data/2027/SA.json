@@ -1,0 +1,122 @@
+[
+ {
+  "counties": null,
+  "date": "2027-02-22",
+  "global": true,
+  "localName": "يوم التأسيس",
+  "name": "Founding Day Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-09",
+  "global": true,
+  "localName": "عطلة عيد الفطر",
+  "name": "Eid al-Fitr Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-10",
+  "global": true,
+  "localName": "عطلة عيد الفطر",
+  "name": "Eid al-Fitr Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-11",
+  "global": true,
+  "localName": "عطلة عيد الفطر",
+  "name": "Eid al-Fitr Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-12",
+  "global": true,
+  "localName": "عطلة عيد الفطر",
+  "name": "Eid al-Fitr Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-14",
+  "global": true,
+  "localName": "عطلة عيد الفطر (يوم تعويضي)",
+  "name": "Eid al-Fitr Holiday (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-15",
+  "global": true,
+  "localName": "يوم عرفة",
+  "name": "Day of Arafah",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-16",
+  "global": true,
+  "localName": "عطلة عيد الأضحى",
+  "name": "Eid al-Adha Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "عطلة عيد الأضحى",
+  "name": "Eid al-Adha Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-18",
+  "global": true,
+  "localName": "عطلة عيد الأضحى",
+  "name": "Eid al-Adha Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-19",
+  "global": true,
+  "localName": "عطلة عيد الأضحى (يوم تعويضي)",
+  "name": "Eid al-Adha Holiday (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-23",
+  "global": true,
+  "localName": "اليوم الوطني",
+  "name": "National Day Holiday",
+  "types": [
+   "Public"
+  ]
+ }
+]

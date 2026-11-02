@@ -1,0 +1,92 @@
+[
+ {
+  "counties": null,
+  "date": "2027-04-22",
+  "global": true,
+  "localName": "פסח",
+  "name": "Pesach",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-28",
+  "global": true,
+  "localName": "שביעי של פסח",
+  "name": "Seventh day of Pesach",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-12",
+  "global": true,
+  "localName": "יום העצמאות",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-11",
+  "global": true,
+  "localName": "שבועות",
+  "name": "Shavuot",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-02",
+  "global": true,
+  "localName": "ראש השנה",
+  "name": "Rosh Hashanah",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-03",
+  "global": true,
+  "localName": "ראש השנה",
+  "name": "Rosh Hashanah",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-11",
+  "global": true,
+  "localName": "יום כיפור",
+  "name": "Yom Kippur",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-16",
+  "global": true,
+  "localName": "סוכות",
+  "name": "Sukkot",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-23",
+  "global": true,
+  "localName": "שמחת תורה/שמיני עצרת",
+  "name": "Simchat Torah / Shemini Atzeret",
+  "types": [
+   "Public"
+  ]
+ }
+]

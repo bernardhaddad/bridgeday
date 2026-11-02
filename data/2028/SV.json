@@ -1,0 +1,136 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Año Nuevo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-13",
+  "global": true,
+  "localName": "Jueves Santo",
+  "name": "Maundy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-15",
+  "global": true,
+  "localName": "Sábado Santo",
+  "name": "Holy Saturday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Día del Trabajo",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-10",
+  "global": true,
+  "localName": "Día de la Madre",
+  "name": "Mother's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-17",
+  "global": true,
+  "localName": "Día del Padre",
+  "name": "Father's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SV-SS"
+  ],
+  "date": "2028-08-03",
+  "global": false,
+  "localName": "Feast of San Salvador",
+  "name": "Feast of San Salvador",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "SV-SS"
+  ],
+  "date": "2028-08-05",
+  "global": false,
+  "localName": "Feast of San Salvador",
+  "name": "Feast of San Salvador",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-06",
+  "global": true,
+  "localName": "Celebración del Divino Salvador del Mundo",
+  "name": "Celebrations of San Salvador",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-15",
+  "global": true,
+  "localName": "Día de la Independencia",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-02",
+  "global": true,
+  "localName": "Día de los Difuntos",
+  "name": "All Souls' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Navidad",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

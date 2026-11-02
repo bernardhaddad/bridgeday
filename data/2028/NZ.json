@@ -1,0 +1,287 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-02",
+  "global": true,
+  "localName": "Day after New Year's Day",
+  "name": "Day after New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-03",
+  "global": true,
+  "localName": "New Year's Day (observed)",
+  "name": "New Year's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-04",
+  "global": true,
+  "localName": "Day after New Year's Day (observed)",
+  "name": "Day after New Year's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-WGN"
+  ],
+  "date": "2028-01-24",
+  "global": false,
+  "localName": "Wellington Anniversary Day",
+  "name": "Wellington Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-AUK",
+   "NZ-NTL"
+  ],
+  "date": "2028-01-31",
+  "global": false,
+  "localName": "Auckland Anniversary Day",
+  "name": "Auckland Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-NSN"
+  ],
+  "date": "2028-01-31",
+  "global": false,
+  "localName": "Nelson Anniversary Day",
+  "name": "Nelson Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-06",
+  "global": true,
+  "localName": "Waitangi Day",
+  "name": "Waitangi Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-07",
+  "global": true,
+  "localName": "Waitangi Day (observed)",
+  "name": "Waitangi Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-TKI"
+  ],
+  "date": "2028-03-13",
+  "global": false,
+  "localName": "Taranaki Anniversary Day",
+  "name": "Taranaki Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-OTA"
+  ],
+  "date": "2028-03-20",
+  "global": false,
+  "localName": "Otago Anniversary Day",
+  "name": "Otago Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-17",
+  "global": true,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-STL"
+  ],
+  "date": "2028-04-18",
+  "global": false,
+  "localName": "Southland Anniversary Day",
+  "name": "Southland Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-25",
+  "global": true,
+  "localName": "Anzac Day",
+  "name": "Anzac Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-05",
+  "global": true,
+  "localName": "King's Birthday",
+  "name": "King's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-14",
+  "global": true,
+  "localName": "Matariki",
+  "name": "Matariki",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-South Canterbury"
+  ],
+  "date": "2028-09-25",
+  "global": false,
+  "localName": "South Canterbury Anniversary Day",
+  "name": "South Canterbury Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-HKB"
+  ],
+  "date": "2028-10-20",
+  "global": false,
+  "localName": "Hawke's Bay Anniversary Day",
+  "name": "Hawke's Bay Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-23",
+  "global": true,
+  "localName": "Labour Day",
+  "name": "Labour Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-MBH"
+  ],
+  "date": "2028-10-30",
+  "global": false,
+  "localName": "Marlborough Anniversary Day",
+  "name": "Marlborough Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-CAN"
+  ],
+  "date": "2028-11-17",
+  "global": false,
+  "localName": "Canterbury Anniversary Day",
+  "name": "Canterbury Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-CIT"
+  ],
+  "date": "2028-11-27",
+  "global": false,
+  "localName": "Chatham Islands Anniversary Day",
+  "name": "Chatham Islands Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-WTC"
+  ],
+  "date": "2028-12-04",
+  "global": false,
+  "localName": "West Coast Anniversary Day",
+  "name": "West Coast Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-26",
+  "global": true,
+  "localName": "Boxing Day",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

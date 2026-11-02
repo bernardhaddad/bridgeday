@@ -1,0 +1,82 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "ວັນປີໃໝ່ສາກົນ",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-08",
+  "global": true,
+  "localName": "ວັນແມ່ຍິງສາກົນ",
+  "name": "International Women's Rights Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-09",
+  "global": true,
+  "localName": "ພັກຊົດເຊີຍວັນແມ່ຍິງສາກົນ",
+  "name": "International Women's Rights Day (in lieu)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-14",
+  "global": true,
+  "localName": "ບຸນປີໃໝ່ລາວ",
+  "name": "Lao New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-15",
+  "global": true,
+  "localName": "ບຸນປີໃໝ່ລາວ",
+  "name": "Lao New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-16",
+  "global": true,
+  "localName": "ບຸນປີໃໝ່ລາວ",
+  "name": "Lao New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "ວັນກຳມະກອນສາກົນ",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-02",
+  "global": true,
+  "localName": "ວັນຊາດ",
+  "name": "Lao National Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

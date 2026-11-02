@@ -1,0 +1,143 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Año Nuevo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-02",
+  "global": true,
+  "localName": "Día de los Héroes de la Patria",
+  "name": "Patriots Day",
+  "source": "https://www.hoy.com.py/nacionales/2026/02/17/los-proximos-feriados-moviles-ademas-del-1-de-marzo",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-02",
+  "global": true,
+  "localName": "Jueves Santo",
+  "name": "Maundy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-05",
+  "global": true,
+  "localName": "Domingo de Resurrección",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Día de los Trabajadores",
+  "name": "Workers' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-14",
+  "global": true,
+  "localName": "Feriado Nacional",
+  "name": "National Holiday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-15",
+  "global": true,
+  "localName": "Día de la Independencia Nacional",
+  "name": "National Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-12",
+  "global": true,
+  "localName": "Día de la Paz del Chaco",
+  "name": "Chaco Armistice Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-22",
+  "global": true,
+  "localName": "Día de la Jura de la Constitución Nacional",
+  "name": "Constitution Oath Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-15",
+  "global": true,
+  "localName": "Día de la Fundación de Asunción",
+  "name": "Asuncion Foundation's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-29",
+  "global": true,
+  "localName": "Día de la Batalla de Boquerón",
+  "name": "Boqueron Battle Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-08",
+  "global": true,
+  "localName": "Día de la Virgen de Caacupé",
+  "name": "Caacupe Virgin Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Día de la Navidad",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

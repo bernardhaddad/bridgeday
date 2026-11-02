@@ -1,0 +1,1946 @@
+[
+ {
+  "cc": "AD",
+  "op": "move",
+  "date": "2026-05-07",
+  "name": "Saint Michael of Engolasters' Day",
+  "to": "2026-05-08",
+  "source": "https://www.andorra-solutions.com/ca/calendari-laboral-andorra/"
+ },
+ {
+  "cc": "AE",
+  "op": "add",
+  "date": "2026-03-19",
+  "name": "Eid al-Fitr Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.khaleejtimes.com/uae/uae-announces-eid-al-fitr-2026-holiday-for-public-private-sector-employees"
+ },
+ {
+  "cc": "AE",
+  "op": "move",
+  "date": "2026-06-16",
+  "name": "Islamic New Year (estimated)",
+  "to": "2026-06-15",
+  "source": "https://x.com/UAEmediaoffice/status/2062131754186719518",
+  "to_name": "Islamic New Year"
+ },
+ {
+  "cc": "AG",
+  "op": "add",
+  "date": "2026-05-01",
+  "name": "Day after General Election",
+  "localName": "",
+  "regions": null,
+  "source": "https://abstvradio.com/calendar-of-2026-public-holidays/"
+ },
+ {
+  "cc": "AG",
+  "op": "add",
+  "date": "2026-09-10",
+  "name": "National Day of Prayer",
+  "localName": "",
+  "regions": null,
+  "source": "https://antiguanewsroom.com/labour-department-corrects-2026-public-holiday-list-updates-national-day-of-prayer-date/"
+ },
+ {
+  "cc": "AG",
+  "op": "add",
+  "date": "2027-09-09",
+  "name": "National Day of Prayer",
+  "localName": "",
+  "regions": null,
+  "source": "https://antiguaobserver.com/cabinet-declares-national-day-of-prayer-a-public-holiday/"
+ },
+ {
+  "cc": "AI",
+  "op": "remove",
+  "date": "2026-04-05",
+  "name": "Easter Sunday",
+  "source": "https://www.gov.ai/service/public-holidays-for-2026"
+ },
+ {
+  "cc": "AI",
+  "op": "remove",
+  "date": "2027-03-28",
+  "name": "Easter Sunday",
+  "source": "https://ird.gov.ai/ToolBox/PublicHolidays"
+ },
+ {
+  "cc": "AI",
+  "op": "move",
+  "date": "2026-06-15",
+  "name": "King's Birthday",
+  "to": "2026-06-22",
+  "source": "https://www.gov.ai/service/public-holidays-for-2026"
+ },
+ {
+  "cc": "AS",
+  "op": "add",
+  "date": "2026-04-03",
+  "name": "Good Friday",
+  "localName": "",
+  "regions": null,
+  "source": "https://asbar.org/code-annotated/1-0501-public-holidays/"
+ },
+ {
+  "cc": "AS",
+  "op": "add",
+  "date": "2027-03-26",
+  "name": "Good Friday",
+  "localName": "",
+  "regions": null,
+  "source": "https://asbar.org/code-annotated/1-0501-public-holidays/"
+ },
+ {
+  "cc": "AU",
+  "op": "scope",
+  "date": "2027-03-28",
+  "name": "Easter Sunday",
+  "regions": [
+   "AU-ACT",
+   "AU-NSW",
+   "AU-NT",
+   "AU-QLD",
+   "AU-SA",
+   "AU-VIC",
+   "AU-WA"
+  ],
+  "source": "https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays"
+ },
+ {
+  "cc": "BA",
+  "op": "add",
+  "date": "2026-01-09",
+  "name": "Day of Republika Srpska",
+  "localName": "",
+  "regions": [
+   "BA-SRP"
+  ],
+  "source": "https://desavanjaubijeljini.com/neradni-dani-u-srpskoj-u-januaru-2026/231185/"
+ },
+ {
+  "cc": "BA",
+  "op": "add",
+  "date": "2027-01-09",
+  "name": "Day of Republika Srpska",
+  "localName": "",
+  "regions": [
+   "BA-SRP"
+  ],
+  "source": "https://desavanjaubijeljini.com/neradni-dani-u-srpskoj-u-januaru-2026/231185/"
+ },
+ {
+  "cc": "BB",
+  "op": "add",
+  "date": "2026-02-13",
+  "name": "Election Victory Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.greaterbelize.com/holiday-declared-in-barbados-after-election-marked-by-low-turnout/"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2026-02-11",
+  "name": "National Election and Referendum Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.thedailystar.net/news/bangladesh/governance/news/gazette-issued-declaring-february-11-12-public-holidays-4090701"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2026-02-12",
+  "name": "National Election Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.dhakatribune.com/bangladesh/election/401862/govt-declares-3-day-holiday-for-election-gazette"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2026-03-18",
+  "name": "Eid al-Fitr Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.dhakatribune.com/bangladesh/404739/govt-approves-7-day-eid-holiday"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2026-03-19",
+  "name": "Eid al-Fitr Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.thedailystar.net/news/bangladesh/news/govt-declares-7-day-holiday-eid-ul-fitr-4121996"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2026-05-01",
+  "name": "Buddha Purnima",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.thedailystar.net/news/bangladesh/news/govt-announces-official-list-public-holidays-2026-4031596"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2026-05-26",
+  "name": "Eid al-Adha Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.thedailystar.net/news/bangladesh/news/govt-announces-official-list-public-holidays-2026-4031596"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2026-05-27",
+  "name": "Eid al-Adha Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.thedailystar.net/news/bangladesh/news/govt-announces-official-list-public-holidays-2026-4031596"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2026-05-31",
+  "name": "Eid al-Adha Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.thedailystar.net/news/bangladesh/news/govt-announces-official-list-public-holidays-2026-4031596"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2026-09-04",
+  "name": "Janmashtami",
+  "localName": "",
+  "regions": null,
+  "source": "https://cgbdsydney.gov.bd/about-us/holidays/"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2026-10-20",
+  "name": "Durga Puja (Mahanabami)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.thedailystar.net/news/bangladesh/news/govt-announces-official-list-public-holidays-2026-4031596"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2026-10-21",
+  "name": "Durga Puja (Bijoya Dashami)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.thedailystar.net/news/bangladesh/news/govt-announces-official-list-public-holidays-2026-4031596"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2027-05-20",
+  "name": "Buddha Purnima (estimated)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.officeholidays.com/countries/bangladesh/2027"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2027-08-25",
+  "name": "Janmashtami (estimated)",
+  "localName": "",
+  "regions": null,
+  "source": "https://cgbdsydney.gov.bd/about-us/holidays/"
+ },
+ {
+  "cc": "BD",
+  "op": "add",
+  "date": "2027-10-09",
+  "name": "Durga Puja (Bijoya Dashami) (estimated)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.thedailystar.net/news/bangladesh/news/govt-announces-official-list-public-holidays-2026-4031596"
+ },
+ {
+  "cc": "BE",
+  "op": "remove",
+  "date": "2026-04-05",
+  "name": "Easter Sunday",
+  "source": "https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/public-holidays"
+ },
+ {
+  "cc": "BE",
+  "op": "remove",
+  "date": "2026-05-24",
+  "name": "Pentecost",
+  "source": "https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/public-holidays"
+ },
+ {
+  "cc": "BE",
+  "op": "remove",
+  "date": "2027-03-28",
+  "name": "Easter Sunday",
+  "source": "https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/public-holidays"
+ },
+ {
+  "cc": "BE",
+  "op": "remove",
+  "date": "2027-05-16",
+  "name": "Pentecost",
+  "source": "https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/public-holidays"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2026-03-09",
+  "name": "International Women's Day (observed)",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2026-04-06",
+  "name": "Easter Monday",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2026-08-05",
+  "name": "Independence Day",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2026-10-31",
+  "name": "Martyrs' Day",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2026-11-01",
+  "name": "All Saints' Day",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2026-11-02",
+  "name": "All Saints' Day (observed)",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2027-01-03",
+  "name": "Revolution Day",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2027-01-04",
+  "name": "Revolution Day (observed)",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2027-03-29",
+  "name": "Easter Monday",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2027-08-05",
+  "name": "Independence Day",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2027-08-16",
+  "name": "Assumption Day (observed)",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2027-10-31",
+  "name": "Martyrs' Day",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2027-11-01",
+  "name": "All Saints' Day",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "remove",
+  "date": "2027-11-01",
+  "name": "Martyrs' Day (observed)",
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "add",
+  "date": "2026-05-15",
+  "name": "Day of Customs and Traditions",
+  "localName": "Journée des coutumes et traditions",
+  "regions": null,
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BF",
+  "op": "add",
+  "date": "2027-05-15",
+  "name": "Day of Customs and Traditions",
+  "localName": "Journée des coutumes et traditions",
+  "regions": null,
+  "source": "https://www.aib.media/?p=137371"
+ },
+ {
+  "cc": "BH",
+  "op": "add",
+  "date": "2026-05-26",
+  "name": "Arafat Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.pmo.gov.bh/en/article/hrh-the-crown-prince-and-prime-minister-issues-circular-on-the-eid-al-adha-holiday-2026"
+ },
+ {
+  "cc": "BH",
+  "op": "add",
+  "date": "2027-05-15",
+  "name": "Arafat Day (estimated)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.pmo.gov.bh/en/article/hrh-the-crown-prince-and-prime-minister-issues-circular-on-the-eid-al-adha-holiday-2026"
+ },
+ {
+  "cc": "BO",
+  "op": "add",
+  "date": "2026-01-02",
+  "name": "New Year Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://mintrabajo.gob.bo/wp-content/uploads/2025/12/COMUNICADO-DGTHSO-045-2025.pdf"
+ },
+ {
+  "cc": "BO",
+  "op": "move",
+  "date": "2026-01-22",
+  "name": "Plurinational State Foundation Day",
+  "to": "2026-01-23",
+  "source": "https://mintrabajo.gob.bo/index.php/nota_prensa/la-paz-24/"
+ },
+ {
+  "cc": "BO",
+  "op": "add",
+  "date": "2026-06-05",
+  "name": "Corpus Christi Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://mintrabajo.gob.bo/index.php/nota_prensa/la-paz-22/"
+ },
+ {
+  "cc": "BO",
+  "op": "add",
+  "date": "2026-08-07",
+  "name": "Independence Day Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://mintrabajo.gob.bo/index.php/nota_prensa/la-paz-22/"
+ },
+ {
+  "cc": "BO",
+  "op": "remove",
+  "date": "2026-10-17",
+  "name": "National Dignity Day",
+  "source": "https://boliviaverifica.bo/el-17-de-octubre-no-es-feriado/"
+ },
+ {
+  "cc": "BO",
+  "op": "remove",
+  "date": "2027-10-17",
+  "name": "National Dignity Day",
+  "source": "https://boliviaverifica.bo/el-17-de-octubre-no-es-feriado/"
+ },
+ {
+  "cc": "BQ",
+  "op": "move",
+  "date": "2026-07-27",
+  "name": "Carnival Monday",
+  "to": "2026-08-03",
+  "source": "https://www.sabagov.nl/residents-visitors/public-holidays"
+ },
+ {
+  "cc": "BR",
+  "op": "remove",
+  "date": "2026-08-15",
+  "name": "Our Lady of Assumption",
+  "source": "https://www.defensoria.ce.def.br/noticia/quinta-feira-dia-15-e-feriado-municipal-em-algumas-cidades-e-atendimento-da-defensoria-nesses-locais-sera-em-carater-de-plantao/"
+ },
+ {
+  "cc": "BR",
+  "op": "remove",
+  "date": "2026-10-24",
+  "name": "Foundation of Goiânia",
+  "source": "https://meutudo.com.br/blog/feriado-goiania-goias/"
+ },
+ {
+  "cc": "BR",
+  "op": "remove",
+  "date": "2026-11-15",
+  "name": "Our Lady of Rocio",
+  "source": "https://www.bemparana.com.br/noticias/parana/nossa-senhora-do-rocio-se-torna-padroeira-do-parana-oficialmente/"
+ },
+ {
+  "cc": "BR",
+  "op": "remove",
+  "date": "2027-08-15",
+  "name": "Our Lady of Assumption",
+  "source": "https://www.defensoria.ce.def.br/noticia/quinta-feira-dia-15-e-feriado-municipal-em-algumas-cidades-e-atendimento-da-defensoria-nesses-locais-sera-em-carater-de-plantao/"
+ },
+ {
+  "cc": "BR",
+  "op": "remove",
+  "date": "2027-10-24",
+  "name": "Foundation of Goiânia",
+  "source": "https://meutudo.com.br/blog/feriado-goiania-goias/"
+ },
+ {
+  "cc": "BR",
+  "op": "remove",
+  "date": "2027-11-15",
+  "name": "Our Lady of Rocio",
+  "source": "https://www.bemparana.com.br/noticias/parana/nossa-senhora-do-rocio-se-torna-padroeira-do-parana-oficialmente/"
+ },
+ {
+  "cc": "BW",
+  "op": "remove",
+  "date": "2026-12-28",
+  "name": "Boxing Day Holiday",
+  "source": "https://botswanalaws.com/StatutesActpdf/2006Actpdf/PUBLIC%20HOLIDAYS%20ACT,%2017%20OF%202006.pdf"
+ },
+ {
+  "cc": "BW",
+  "op": "remove",
+  "date": "2027-05-03",
+  "name": "Labour Day Holiday",
+  "source": "https://www.timeanddate.com/holidays/botswana/2027"
+ },
+ {
+  "cc": "CC",
+  "op": "move",
+  "date": "2026-04-06",
+  "name": "Act of Self Determination Day",
+  "to": "2026-04-07",
+  "source": "https://www.infrastructure.gov.au/sites/default/files/documents/community-bulletin-cki-public-holidays-2026.pdf"
+ },
+ {
+  "cc": "CC",
+  "op": "move",
+  "date": "2026-08-25",
+  "name": "Prophet's Birthday (estimated)",
+  "to": "2026-08-26",
+  "source": "https://www.infrastructure.gov.au/sites/default/files/documents/community-bulletin-cki-public-holidays-2026.pdf",
+  "to_name": "Prophet's Birthday"
+ },
+ {
+  "cc": "CD",
+  "op": "move",
+  "date": "2026-01-03",
+  "name": "Martyrs' Day (observed)",
+  "to": "2026-01-05",
+  "source": "https://lesvolcansnews.net/2025/12/31/rdc-le-jour-ferie-du-4-janvier-reporte-ministere/"
+ },
+ {
+  "cc": "CD",
+  "op": "add",
+  "date": "2026-01-19",
+  "name": "National Hero Patrice Emery Lumumba Day (observed)",
+  "localName": "",
+  "regions": null,
+  "source": "https://congoprofond.net/rdc-les-16-et-19-janvier-2026-declares-jours-feries-chomes-et-payes-sur-toute-letendue-du-pays/"
+ },
+ {
+  "cc": "CD",
+  "op": "move",
+  "date": "2026-05-16",
+  "name": "Revolution and Armed Forces Day (observed)",
+  "to": "2026-05-18",
+  "source": "https://x.com/MinEmploiTraRDC/status/2054946280388915637"
+ },
+ {
+  "cc": "CD",
+  "op": "add",
+  "date": "2026-08-03",
+  "name": "Parents' Day (observed)",
+  "localName": "",
+  "regions": null,
+  "source": "https://plusinfo.cd/actualite/rdc-le-gouvernement-renvoie-la-journee-feriee-du-1er-aout-au-lundi-3-aout/39296/"
+ },
+ {
+  "cc": "CG",
+  "op": "add",
+  "date": "2026-04-16",
+  "name": "Presidential Inauguration Day",
+  "localName": "Journée d'investiture",
+  "regions": null,
+  "source": "https://www.aci.cg/congo-societe-le-16-avril-declare-journee-chomee-et-payee-sur-lensemble-du-territoire-national/"
+ },
+ {
+  "cc": "CH",
+  "op": "move",
+  "date": "2026-09-12",
+  "name": "Knabenschiessen",
+  "to": "2026-09-14",
+  "source": "https://www.suedostschweiz.ch/panorama/knabenschiessen-2026-ist-am-montag-feiertag-nicht-fuer-alle-zuercher-2157355"
+ },
+ {
+  "cc": "CH",
+  "op": "remove",
+  "date": "2026-09-13",
+  "name": "Knabenschiessen",
+  "source": "https://www.suedostschweiz.ch/panorama/knabenschiessen-2026-ist-am-montag-feiertag-nicht-fuer-alle-zuercher-2157355"
+ },
+ {
+  "cc": "CH",
+  "op": "move",
+  "date": "2027-09-11",
+  "name": "Knabenschiessen",
+  "to": "2027-09-13",
+  "source": "https://www.zuerich.com/de/informieren-planen/nuetzliche-infos-und-services/oeffnungszeiten-und-feiertage/feiertage"
+ },
+ {
+  "cc": "CH",
+  "op": "remove",
+  "date": "2027-09-12",
+  "name": "Knabenschiessen",
+  "source": "https://www.zuerich.com/de/informieren-planen/nuetzliche-infos-und-services/oeffnungszeiten-und-feiertage/feiertage"
+ },
+ {
+  "cc": "CM",
+  "op": "remove",
+  "date": "2026-08-25",
+  "name": "Mawlid (estimated)",
+  "source": "https://wageindicator.org/fr-cm/travail-au-cameroun/droit-du-travail/conge-annuel-et-vacances/"
+ },
+ {
+  "cc": "CM",
+  "op": "remove",
+  "date": "2027-08-14",
+  "name": "Mawlid (estimated)",
+  "source": "https://wageindicator.org/fr-cm/travail-au-cameroun/droit-du-travail/conge-annuel-et-vacances/"
+ },
+ {
+  "cc": "CR",
+  "op": "add",
+  "date": "2026-08-02",
+  "name": "Day of Our Lady of the Angels",
+  "localName": "Día de la Virgen de los Ángeles",
+  "regions": null,
+  "source": "https://www.larepublica.net/noticia/conozca-los-feriados-que-tendra-costa-rica-durante-el-2026"
+ },
+ {
+  "cc": "CR",
+  "op": "add",
+  "date": "2026-08-31",
+  "name": "Day of the Black Person and Afro-Costa Rican Culture",
+  "localName": "Día de la Persona Negra y la Cultura Afrocostarricense",
+  "regions": null,
+  "source": "https://www.mtss.go.cr/prensa/comunicados/2026/agosto/cp_017_2026.html"
+ },
+ {
+  "cc": "CR",
+  "op": "add",
+  "date": "2026-12-01",
+  "name": "Abolition of the Army Day",
+  "localName": "Día de la Abolición del Ejército",
+  "regions": null,
+  "source": "https://www.mtss.go.cr/temas-laborales/feriados/feriados_calendario_2026.pdf"
+ },
+ {
+  "cc": "CR",
+  "op": "add",
+  "date": "2027-08-02",
+  "name": "Day of Our Lady of the Angels",
+  "localName": "Día de la Virgen de los Ángeles",
+  "regions": null,
+  "source": "https://www.mtss.go.cr/prensa/comunicados/2021/julio/cp_15_2021.html"
+ },
+ {
+  "cc": "CR",
+  "op": "add",
+  "date": "2027-08-31",
+  "name": "Day of the Black Person and Afro-Costa Rican Culture",
+  "localName": "Día de la Persona Negra y la Cultura Afrocostarricense",
+  "regions": null,
+  "source": "https://www.mtss.go.cr/prensa/comunicados/2022/agosto/cp_034_2022.html"
+ },
+ {
+  "cc": "CR",
+  "op": "add",
+  "date": "2027-12-01",
+  "name": "Abolition of the Army Day",
+  "localName": "Día de la Abolición del Ejército",
+  "regions": null,
+  "source": "https://www.mtss.go.cr/prensa/comunicados/2025/noviembre/cp_052_2025.html"
+ },
+ {
+  "cc": "CX",
+  "op": "move",
+  "date": "2026-03-16",
+  "name": "Labor Day",
+  "to": "2026-03-23",
+  "source": "https://www.infrastructure.gov.au/sites/default/files/documents/community-bulletin-ci-public-holidays-2026.pdf"
+ },
+ {
+  "cc": "EC",
+  "op": "add",
+  "date": "2026-01-02",
+  "name": "New Year Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.lexis.com.ec/noticias/gobierno-suspende-jornada-laboral-del-2-de-enero-de-2026-para-fomentar-el-turismo-interno"
+ },
+ {
+  "cc": "EC",
+  "op": "remove",
+  "date": "2027-08-10",
+  "name": "Declaration of Independence of Quito",
+  "source": "https://www.lexis.com.ec/noticias/feriados-nacionales-en-2024"
+ },
+ {
+  "cc": "EC",
+  "op": "remove",
+  "date": "2027-11-03",
+  "name": "Independence of Cuenca",
+  "source": "https://www.eluniverso.com/comunidad/ecuador/feriados-2027-en-ecuador-carnaval-sera-el-8-y-9-de-febrero-y-habra-dos-descansos-de-cuatro-dias-nota/"
+ },
+ {
+  "cc": "EC",
+  "op": "remove",
+  "date": "2027-12-31",
+  "name": "New Year's Day (observed)",
+  "source": "https://www.teleamazonas.com/uploads/files/2025/09/01/Calendario-feriados-nacionales-2025-2030.pdf"
+ },
+ {
+  "cc": "EG",
+  "op": "add",
+  "date": "2026-03-19",
+  "name": "Eid al-Fitr Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%B7%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-19-%D9%85%D8%A7%D8%B1%D8%B3-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-23-%D9%85%D8%A7%D8%B1%D8%B3/"
+ },
+ {
+  "cc": "EG",
+  "op": "add",
+  "date": "2026-03-22",
+  "name": "Eid al-Fitr Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://english.ahram.org.eg/News/563816.aspx"
+ },
+ {
+  "cc": "EG",
+  "op": "add",
+  "date": "2026-03-23",
+  "name": "Eid al-Fitr Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://sis.gov.eg/en/media-center/news/pm-declares-march-19-23-paid-holiday-for-eid-al-fitr/"
+ },
+ {
+  "cc": "ES",
+  "op": "add",
+  "date": "2026-11-01",
+  "name": "All Saints' Day",
+  "localName": "Todos los Santos",
+  "regions": null,
+  "source": "https://www.iberley.es/noticias/publicado-calendario-fiestas-laborales-2026-35536"
+ },
+ {
+  "cc": "ES",
+  "op": "add",
+  "date": "2026-12-06",
+  "name": "Constitution Day",
+  "localName": "Día de la Constitución Española",
+  "regions": null,
+  "source": "https://www.iberley.es/noticias/publicado-calendario-fiestas-laborales-2026-35536"
+ },
+ {
+  "cc": "FJ",
+  "op": "move",
+  "date": "2026-05-11",
+  "name": "Girmit Day",
+  "to": "2026-05-15",
+  "source": "https://www.parliament.gov.fj/wp-content/uploads/2026/10/GN-95-Declaration-of-Public-Holidays-for-2026-.pdf"
+ },
+ {
+  "cc": "FJ",
+  "op": "move",
+  "date": "2026-08-25",
+  "name": "Prophet Mohammed's Birthday (estimated)",
+  "to": "2026-08-24",
+  "source": "https://www.fiji.gov.fj/public-holidays/",
+  "to_name": "Prophet Mohammed's Birthday"
+ },
+ {
+  "cc": "FJ",
+  "op": "add",
+  "date": "2026-10-12",
+  "name": "Fiji Day (observed)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.parliament.gov.fj/wp-content/uploads/2026/10/GN-95-Declaration-of-Public-Holidays-for-2026-.pdf"
+ },
+ {
+  "cc": "FK",
+  "op": "add",
+  "date": "2026-12-08",
+  "name": "Battle Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.falklandislands.com/what-s-on/battle-day-p678661"
+ },
+ {
+  "cc": "FK",
+  "op": "add",
+  "date": "2027-12-08",
+  "name": "Battle Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://falklands.gov.fk/policy/downloads?task=download.send&id=186&catid=12&m=0"
+ },
+ {
+  "cc": "GH",
+  "op": "add",
+  "date": "2026-03-23",
+  "name": "Shaqq Day (observed)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.graphic.com.gh/news/general-news/march-20-and-23-declared-public-holidays-for-eid-ul-fitr-and-shaqq-day.html"
+ },
+ {
+  "cc": "GH",
+  "op": "add",
+  "date": "2027-05-03",
+  "name": "May Day (observed)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.graphic.com.gh/news/politics/july-1-reinstated-as-public-holiday-as-parliament-passes-public-holidays-amendment-bill.html"
+ },
+ {
+  "cc": "GH",
+  "op": "add",
+  "date": "2027-12-27",
+  "name": "Christmas Day (observed)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.graphic.com.gh/news/politics/july-1-reinstated-as-public-holiday-as-parliament-passes-public-holidays-amendment-bill.html"
+ },
+ {
+  "cc": "GH",
+  "op": "add",
+  "date": "2027-12-28",
+  "name": "Boxing Day (observed)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.graphic.com.gh/news/politics/july-1-reinstated-as-public-holiday-as-parliament-passes-public-holidays-amendment-bill.html"
+ },
+ {
+  "cc": "GM",
+  "op": "remove",
+  "date": "2026-07-22",
+  "name": "July 22 Revolution Day",
+  "source": "https://en.wikipedia.org/wiki/Public_holidays_in_The_Gambia"
+ },
+ {
+  "cc": "GM",
+  "op": "remove",
+  "date": "2027-07-22",
+  "name": "July 22 Revolution Day",
+  "source": "https://www.officeholidays.com/holidays/revolution-day"
+ },
+ {
+  "cc": "GT",
+  "op": "scope",
+  "date": "2026-08-15",
+  "name": "Assumption Day",
+  "regions": [
+   "GT-GU"
+  ],
+  "source": "https://www.prensalibre.com/vida/escenario/feriados-y-asuetos-en-guatemala-2026-lista-completa-de-los-descansos-para-este-ano/"
+ },
+ {
+  "cc": "GT",
+  "op": "scope",
+  "date": "2027-08-15",
+  "name": "Assumption Day",
+  "regions": [
+   "GT-GU"
+  ],
+  "source": "https://www.prensalibre.com/vida/escenario/feriado-largo-del-15-de-agosto-por-que-no-aplica-para-toda-guatemala/"
+ },
+ {
+  "cc": "GW",
+  "op": "remove",
+  "date": "2026-01-23",
+  "name": "Day of the Beginning of the Armed Struggle",
+  "source": "https://www.odemocratagb.com/?p=42600"
+ },
+ {
+  "cc": "GW",
+  "op": "remove",
+  "date": "2026-03-08",
+  "name": "International Women's Day",
+  "source": "https://www.odemocratagb.com/?p=42600"
+ },
+ {
+  "cc": "GW",
+  "op": "remove",
+  "date": "2026-08-03",
+  "name": "Pidjiguiti Day",
+  "source": "https://www.odemocratagb.com/?p=42600"
+ },
+ {
+  "cc": "GW",
+  "op": "remove",
+  "date": "2027-01-23",
+  "name": "Day of the Beginning of the Armed Struggle",
+  "source": "https://www.odemocratagb.com/?p=42600"
+ },
+ {
+  "cc": "GW",
+  "op": "remove",
+  "date": "2027-03-08",
+  "name": "International Women's Day",
+  "source": "https://www.odemocratagb.com/?p=42600"
+ },
+ {
+  "cc": "GW",
+  "op": "remove",
+  "date": "2027-08-03",
+  "name": "Pidjiguiti Day",
+  "source": "https://www.odemocratagb.com/?p=42600"
+ },
+ {
+  "cc": "GY",
+  "op": "remove",
+  "date": "2026-12-28",
+  "name": "Day After Christmas (observed)",
+  "source": "https://www.timeanddate.com/holidays/guyana/2026"
+ },
+ {
+  "cc": "GY",
+  "op": "remove",
+  "date": "2027-12-28",
+  "name": "Day After Christmas (observed)",
+  "source": "https://mola.gov.gy/laws/Volume%206%20Cap.%2018.01%20-%2023.011696968337.pdf"
+ },
+ {
+  "cc": "IL",
+  "op": "add",
+  "date": "2026-10-27",
+  "name": "Knesset Election Day",
+  "localName": "יום הבחירות",
+  "regions": null,
+  "source": "https://www.shibolet.com/en/election-day-for-the-26th-knesset/"
+ },
+ {
+  "cc": "IM",
+  "op": "move",
+  "date": "2027-06-04",
+  "name": "TT Bank Holiday",
+  "to": "2027-06-11",
+  "source": "https://www.iomttraces.com/racing/page/schedule/"
+ },
+ {
+  "cc": "IN",
+  "op": "remove",
+  "date": "2027-03-06",
+  "name": "Maha Shivaratri",
+  "source": "https://www.staffnews.in/2026/07/list-of-restricted-holidays-for-the-year-2027.html"
+ },
+ {
+  "cc": "IN",
+  "op": "move",
+  "date": "2027-03-22",
+  "name": "Holi",
+  "to": "2027-03-23",
+  "source": "https://utilities.cept.gov.in/dop/pdfbind.ashx?id=15435"
+ },
+ {
+  "cc": "IN",
+  "op": "move",
+  "date": "2027-04-18",
+  "name": "Mahavira's Birthday",
+  "to": "2027-04-19",
+  "source": "https://www.govtemployeeshub.com/2026/07/dopt-central-government-holiday-list.html"
+ },
+ {
+  "cc": "IQ",
+  "op": "add",
+  "date": "2026-05-30",
+  "name": "Eid al-Adha (estimated)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.moj.gov.iq/upload/pdf/4777_453.pdf"
+ },
+ {
+  "cc": "IQ",
+  "op": "add",
+  "date": "2027-05-19",
+  "name": "Eid al-Adha (estimated)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.moj.gov.iq/upload/pdf/4777_453.pdf"
+ },
+ {
+  "cc": "IT",
+  "op": "remove",
+  "date": "2026-11-01",
+  "name": "National Unity Day",
+  "source": "https://www.normattiva.it/eli/id/2024/03/16/24G00044/ORIGINAL"
+ },
+ {
+  "cc": "IT",
+  "op": "remove",
+  "date": "2027-11-07",
+  "name": "National Unity Day",
+  "source": "https://www.normattiva.it/eli/id/2024/03/16/24G00044/ORIGINAL"
+ },
+ {
+  "cc": "JE",
+  "op": "add",
+  "date": "2027-05-09",
+  "name": "Liberation Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.gov.je/Leisure/Events/WhatsOn/pages/bankholidaydates.aspx"
+ },
+ {
+  "cc": "JM",
+  "op": "remove",
+  "date": "2026-05-23",
+  "name": "National Labour Day",
+  "source": "https://jis.gov.jm/ministry-clears-air-labour-day/"
+ },
+ {
+  "cc": "JO",
+  "op": "remove",
+  "date": "2026-01-16",
+  "name": "Isra' and Mi'raj (estimated)",
+  "source": "https://rahhal.wego.com/blog/%D8%B9%D8%B7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86-%D8%A7%D9%84%D8%B7%D9%88%D9%8A%D9%84%D8%A9-2026-2027/"
+ },
+ {
+  "cc": "JO",
+  "op": "remove",
+  "date": "2027-01-05",
+  "name": "Isra' and Mi'raj (estimated)",
+  "source": "https://www.alwakeelnews.com/Section_24/%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%84%D9%88%D9%83%D9%8A%D9%84/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%88%D8%AC%D9%88%D8%AF-%D8%B9%D8%B7%D9%84%D8%A9-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D8%A8%D8%B0%D9%83%D8%B1%D9%89-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%A7%D8%AC-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86_718200"
+ },
+ {
+  "cc": "JO",
+  "op": "remove",
+  "date": "2027-12-25",
+  "name": "Isra' and Mi'raj (estimated)",
+  "source": "https://www.jordanzad.com/index.php?page=article&id=265340"
+ },
+ {
+  "cc": "JO",
+  "op": "add",
+  "date": "2026-03-23",
+  "name": "Eid al-Fitr Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://petra.gov.jo/en/news/prime-minister-announces-eid-al-fitr-holiday-from-march-2023"
+ },
+ {
+  "cc": "JO",
+  "op": "move",
+  "date": "2026-05-01",
+  "name": "Labor Day",
+  "to": "2026-04-30",
+  "source": "https://www.sdc.com.jo/ar/holidays"
+ },
+ {
+  "cc": "JO",
+  "op": "add",
+  "date": "2026-05-30",
+  "name": "Eid al-Adha Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://factjo.com/news/138777"
+ },
+ {
+  "cc": "JO",
+  "op": "add",
+  "date": "2027-05-19",
+  "name": "Eid al-Adha Holiday (estimated)",
+  "localName": "",
+  "regions": null,
+  "source": "https://factjo.com/news/138777"
+ },
+ {
+  "cc": "KE",
+  "op": "add",
+  "date": "2026-05-27",
+  "name": "Eid al-Adha",
+  "localName": "",
+  "regions": null,
+  "source": "https://citizen.digital/article/govt-declares-may-27-public-holiday-to-mark-eid-ul-adha-n383374"
+ },
+ {
+  "cc": "KG",
+  "op": "add",
+  "date": "2026-04-07",
+  "name": "People's April Revolution Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://eltr.kg/ru/mintruda-utverdil-prazdnichnye-dni-v-2026-godu/"
+ },
+ {
+  "cc": "KN",
+  "op": "rename",
+  "date": "2026-01-01",
+  "name": "Carnival Day",
+  "to_name": "New Year's Day",
+  "source": "https://www.officeholidays.com/countries/saint-kitts-and-nevis/2026"
+ },
+ {
+  "cc": "KN",
+  "op": "rename",
+  "date": "2027-01-01",
+  "name": "Carnival Day",
+  "to_name": "New Year's Day",
+  "source": "https://www.timeanddate.com/holidays/saint-kitts-and-nevis/carnival-day"
+ },
+ {
+  "cc": "KW",
+  "op": "move",
+  "date": "2026-08-25",
+  "name": "Prophet's Birthday (estimated)",
+  "to": "2026-08-27",
+  "source": "https://kuwaittimes.com/article/48004/kuwait/kuwait-csc-declares-thursday-aug-27-official-holiday-for-prophets-birthday/",
+  "to_name": "Prophet's Birthday"
+ },
+ {
+  "cc": "KY",
+  "op": "move",
+  "date": "2026-06-22",
+  "name": "King's Birthday",
+  "to": "2026-06-15",
+  "source": "https://gov.ky/public-holidays"
+ },
+ {
+  "cc": "LB",
+  "op": "add",
+  "date": "2026-05-25",
+  "name": "Resistance and Liberation Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.abl.org.lb/english/abl-and-banking-sector-news/official-holidays"
+ },
+ {
+  "cc": "LB",
+  "op": "move",
+  "date": "2026-06-25",
+  "name": "Ashura (estimated)",
+  "to": "2026-06-26",
+  "source": "http://www.pcm.gov.lb/arabic/subpg.aspx?pageid=27249",
+  "to_name": "Ashura"
+ },
+ {
+  "cc": "LI",
+  "op": "remove",
+  "date": "2026-02-02",
+  "name": "Candlemas",
+  "source": "https://www.gesetze.li/konso/pdf/1967006000?version=14"
+ },
+ {
+  "cc": "LI",
+  "op": "remove",
+  "date": "2026-03-19",
+  "name": "Saint Joseph's Day",
+  "source": "https://www.gesetze.li/konso/pdf/1967006000?version=14"
+ },
+ {
+  "cc": "LI",
+  "op": "remove",
+  "date": "2027-02-02",
+  "name": "Candlemas",
+  "source": "https://www.gesetze.li/konso/pdf/1967006000?version=14"
+ },
+ {
+  "cc": "LI",
+  "op": "remove",
+  "date": "2027-03-19",
+  "name": "Saint Joseph's Day",
+  "source": "https://www.gesetze.li/konso/pdf/1967006000?version=14"
+ },
+ {
+  "cc": "LY",
+  "op": "remove",
+  "date": "2026-08-14",
+  "name": "National Environmental Sanitation Day",
+  "source": "https://www.eanlibya.com/%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%80%D8%A7%D9%84%D8%A5%D8%B5%D8%AD%D8%A7%D8%AD-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A-%D9%85%D9%8A%D8%AB%D8%A7/"
+ },
+ {
+  "cc": "LY",
+  "op": "remove",
+  "date": "2027-08-14",
+  "name": "National Environmental Sanitation Day",
+  "source": "https://www.eanlibya.com/%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%80%D8%A7%D9%84%D8%A5%D8%B5%D8%AD%D8%A7%D8%AD-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A-%D9%85%D9%8A%D8%AB%D8%A7/"
+ },
+ {
+  "cc": "MA",
+  "op": "move",
+  "date": "2026-06-16",
+  "name": "Islamic New Year (estimated)",
+  "to": "2026-06-17",
+  "source": "https://www.habous.gov.ma/fr/casablanca-settat/757-affaires-islamiques/6589-le-1er-moharram-du-nouvel-an-de-l%E2%80%99h%C3%A9gire-1448-correspond-au-mercredi-17-juin-minist%C3%A8re.html",
+  "to_name": "Islamic New Year"
+ },
+ {
+  "cc": "ME",
+  "op": "add",
+  "date": "2026-11-14",
+  "name": "Njegos Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://wapi.gov.me/download/927f23a3-db4e-4f65-9f29-ce3c9dde0c90?version=1.0"
+ },
+ {
+  "cc": "ME",
+  "op": "add",
+  "date": "2027-11-14",
+  "name": "Njegos Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://rtcg.me/vijesti/drustvo/482498/za-njegosev-dan-neradni-13-i-14-novembar.html"
+ },
+ {
+  "cc": "MG",
+  "op": "add",
+  "date": "2026-03-20",
+  "name": "Eid al-Fitr",
+  "localName": "",
+  "regions": null,
+  "source": "http://www.gem-madagascar.com/informations-et-documentation/lois-et-textes"
+ },
+ {
+  "cc": "MG",
+  "op": "add",
+  "date": "2026-05-27",
+  "name": "Eid al-Adha (estimated)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.comptoirdesvoyages.fr/guide/madagascar/quand-partir-a-madagascar/les-jours-feries-a-madagascar/4594"
+ },
+ {
+  "cc": "MG",
+  "op": "add",
+  "date": "2027-03-09",
+  "name": "Eid al-Fitr (estimated)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.comptoirdesvoyages.fr/guide/madagascar/quand-partir-a-madagascar/les-jours-feries-a-madagascar/4594"
+ },
+ {
+  "cc": "MG",
+  "op": "add",
+  "date": "2027-05-17",
+  "name": "Eid al-Adha (estimated)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.comptoirdesvoyages.fr/guide/madagascar/quand-partir-a-madagascar/les-jours-feries-a-madagascar/4594"
+ },
+ {
+  "cc": "MG",
+  "op": "remove",
+  "date": "2026-05-31",
+  "name": "Mother's Day",
+  "source": "https://cnlegis.gov.mg/uploads/D2025-005-VF.pdf"
+ },
+ {
+  "cc": "MG",
+  "op": "remove",
+  "date": "2027-05-30",
+  "name": "Mother's Day",
+  "source": "https://cnlegis.gov.mg/uploads/D2024-108-VF.pdf"
+ },
+ {
+  "cc": "MG",
+  "op": "remove",
+  "date": "2026-06-21",
+  "name": "Father's Day",
+  "source": "https://portagesalarial-madagascar.com/jours_feries_officiels_madagascar_2026.php"
+ },
+ {
+  "cc": "MG",
+  "op": "remove",
+  "date": "2027-06-20",
+  "name": "Father's Day",
+  "source": "https://portagesalarial-madagascar.com/jours_feries_officiels_madagascar_2026.php"
+ },
+ {
+  "cc": "MG",
+  "op": "remove",
+  "date": "2026-12-11",
+  "name": "Republic Day",
+  "source": "https://cnlegis.gov.mg/uploads/D2024-108-VF.pdf"
+ },
+ {
+  "cc": "MG",
+  "op": "remove",
+  "date": "2027-12-11",
+  "name": "Republic Day",
+  "source": "https://cnlegis.gov.mg/uploads/D2024-108-VF.pdf"
+ },
+ {
+  "cc": "MM",
+  "op": "add",
+  "date": "2026-01-02",
+  "name": "New Year Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://moip.gov.mm/notice/public-holiday"
+ },
+ {
+  "cc": "MM",
+  "op": "add",
+  "date": "2026-02-13",
+  "name": "Union Day Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://moip.gov.mm/notice/public-holiday"
+ },
+ {
+  "cc": "MM",
+  "op": "add",
+  "date": "2026-04-11",
+  "name": "Thingyan Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://moip.gov.mm/notice/public-holiday"
+ },
+ {
+  "cc": "MM",
+  "op": "add",
+  "date": "2026-04-12",
+  "name": "Thingyan Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://moip.gov.mm/notice/public-holiday"
+ },
+ {
+  "cc": "MM",
+  "op": "remove",
+  "date": "2026-04-21",
+  "name": "Myanmar New Year",
+  "source": "https://moip.gov.mm/notice/public-holiday"
+ },
+ {
+  "cc": "MM",
+  "op": "move",
+  "date": "2026-11-10",
+  "name": "Diwali",
+  "to": "2026-11-08",
+  "source": "https://www.timeanddate.com/holidays/myanmar/deepavali"
+ },
+ {
+  "cc": "MM",
+  "op": "add",
+  "date": "2026-11-23",
+  "name": "Tazaungdaing Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://moip.gov.mm/notice/public-holiday"
+ },
+ {
+  "cc": "MU",
+  "op": "move",
+  "date": "2026-02-02",
+  "name": "Thaipusam",
+  "to": "2026-02-01",
+  "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf"
+ },
+ {
+  "cc": "MU",
+  "op": "move",
+  "date": "2026-09-14",
+  "name": "Ganesh Chaturthi",
+  "to": "2026-09-15",
+  "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf"
+ },
+ {
+  "cc": "MU",
+  "op": "move",
+  "date": "2027-09-04",
+  "name": "Ganesh Chaturthi",
+  "to": "2027-09-05",
+  "source": "https://business.mega.mu/2026/09/02/public-holidays-2027-an-extra-monday-off-thanks-to-the-new-law/"
+ },
+ {
+  "cc": "MU",
+  "op": "add",
+  "date": "2027-09-06",
+  "name": "Public holiday following Ganesh Chaturthi",
+  "localName": "",
+  "regions": null,
+  "source": "https://business.mega.mu/2026/09/02/public-holidays-2027-an-extra-monday-off-thanks-to-the-new-law/"
+ },
+ {
+  "cc": "MY",
+  "op": "scope",
+  "date": "2026-11-08",
+  "name": "Diwali",
+  "regions": [
+   "MY-01",
+   "MY-02",
+   "MY-03",
+   "MY-04",
+   "MY-05",
+   "MY-06",
+   "MY-07",
+   "MY-08",
+   "MY-09",
+   "MY-10",
+   "MY-11",
+   "MY-12",
+   "MY-14",
+   "MY-15",
+   "MY-16"
+  ],
+  "source": "https://trevo.my/stories/cuti-umum-deepavali-2026/"
+ },
+ {
+  "cc": "MY",
+  "op": "scope",
+  "date": "2027-10-28",
+  "name": "Diwali",
+  "regions": [
+   "MY-01",
+   "MY-02",
+   "MY-03",
+   "MY-04",
+   "MY-05",
+   "MY-06",
+   "MY-07",
+   "MY-08",
+   "MY-09",
+   "MY-10",
+   "MY-11",
+   "MY-12",
+   "MY-14",
+   "MY-15",
+   "MY-16"
+  ],
+  "source": "https://publicholidays.com.my/deepavali/"
+ },
+ {
+  "cc": "NA",
+  "op": "move",
+  "date": "2026-09-10",
+  "name": "Day of the Namibian Women and International Human Rights Day",
+  "to": "2026-12-10",
+  "source": "https://mict.gov.na/public-holidays"
+ },
+ {
+  "cc": "NA",
+  "op": "move",
+  "date": "2027-09-10",
+  "name": "Day of the Namibian Women and International Human Rights Day",
+  "to": "2027-12-10",
+  "source": "https://mict.gov.na/public-holidays"
+ },
+ {
+  "cc": "NE",
+  "op": "add",
+  "date": "2026-03-26",
+  "name": "Refoundation Day",
+  "localName": "Journée de la Refondation",
+  "regions": null,
+  "source": "https://anp.ne/fetes-legales-au-niger-laid-el-fitr-ramadan-portee-a-deux-jours-feries-et-le-26-mars-institue-journee-de-la-refondation-conseil-des-ministres/"
+ },
+ {
+  "cc": "NE",
+  "op": "add",
+  "date": "2027-03-26",
+  "name": "Refoundation Day",
+  "localName": "Journée de la Refondation",
+  "regions": null,
+  "source": "https://anp.ne/fetes-legales-au-niger-laid-el-fitr-ramadan-portee-a-deux-jours-feries-et-le-26-mars-institue-journee-de-la-refondation-conseil-des-ministres/"
+ },
+ {
+  "cc": "NE",
+  "op": "add",
+  "date": "2026-03-21",
+  "name": "Day after Eid al-Fitr",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.lesahel.org/communiques-du-ministere-de-la-fonction-publique-du-travail-et-de-lemploi-3/"
+ },
+ {
+  "cc": "NE",
+  "op": "add",
+  "date": "2027-03-10",
+  "name": "Day after Eid al-Fitr (estimated)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.lesahel.org/communiques-du-ministere-de-la-fonction-publique-du-travail-et-de-lemploi-3/"
+ },
+ {
+  "cc": "NG",
+  "op": "move",
+  "date": "2026-05-29",
+  "name": "Eid al-Adha Holiday (estimated)",
+  "to": "2026-05-27",
+  "source": "https://prnigeria.com/2026/05/25/declares-public-holidays-eid/",
+  "to_name": "Eid al-Adha"
+ },
+ {
+  "cc": "NG",
+  "op": "rename",
+  "date": "2026-05-28",
+  "name": "Eid al-Adha (estimated)",
+  "to_name": "Eid al-Adha Holiday",
+  "source": "https://prnigeria.com/2026/05/25/declares-public-holidays-eid/"
+ },
+ {
+  "cc": "NG",
+  "op": "move",
+  "date": "2026-08-26",
+  "name": "Prophet's Birthday (estimated)",
+  "to": "2026-08-25",
+  "source": "https://fmino.gov.ng/fg-declares-tuesday-public-holiday-as-nation-marks-eid-ul-mawlid/",
+  "to_name": "Prophet's Birthday"
+ },
+ {
+  "cc": "NI",
+  "op": "add",
+  "date": "2026-02-21",
+  "name": "Death of General Augusto C. Sandino",
+  "localName": "",
+  "regions": null,
+  "source": "https://assets.kpmg.com/content/dam/kpmg/pa/pdf/NI-Carta2-2026.pdf"
+ },
+ {
+  "cc": "NI",
+  "op": "add",
+  "date": "2027-02-21",
+  "name": "Death of General Augusto C. Sandino",
+  "localName": "",
+  "regions": null,
+  "source": "https://confidencial.digital/nacion/nicaragua-eleva-a-14-el-numero-de-dias-feriados-nacionales/"
+ },
+ {
+  "cc": "NL",
+  "op": "observance",
+  "date": "2026-04-03",
+  "name": "Good Friday",
+  "source": "https://www.p-direkt.nl/informatie-rijkspersoneel-2020/vrije-dagen/vakantie/feestdagen-en-blokdagen/nationale-feestdagen"
+ },
+ {
+  "cc": "NL",
+  "op": "observance",
+  "date": "2027-03-26",
+  "name": "Good Friday",
+  "source": "https://www.p-direkt.nl/informatie-rijkspersoneel-2020/vrije-dagen/vakantie/feestdagen-en-blokdagen/nationale-feestdagen"
+ },
+ {
+  "cc": "NP",
+  "op": "move",
+  "date": "2027-01-29",
+  "name": "Martyr's Day",
+  "to": "2027-01-30",
+  "source": "https://nepalicalendar.rat32.com/2083/magh"
+ },
+ {
+  "cc": "NP",
+  "op": "move",
+  "date": "2027-02-07",
+  "name": "Gyalpo Lhosar",
+  "to": "2027-03-09",
+  "source": "https://katigate.com/en/holidays"
+ },
+ {
+  "cc": "OM",
+  "op": "move",
+  "date": "2026-01-11",
+  "name": "Sultan's Accession Day",
+  "to": "2026-01-15",
+  "source": "https://www.omanobserver.om/article/1181777/oman/labour/except-for-eids-oman-announces-public-holidays-for-2026"
+ },
+ {
+  "cc": "OM",
+  "op": "move",
+  "date": "2026-01-16",
+  "name": "Isra' and Mi'raj (estimated)",
+  "to": "2026-01-18",
+  "source": "https://www.omanobserver.om/article/1181777/oman/labour/except-for-eids-oman-announces-public-holidays-for-2026",
+  "to_name": "Isra' and Mi'raj"
+ },
+ {
+  "cc": "OM",
+  "op": "move",
+  "date": "2026-03-18",
+  "name": "Eid al-Fitr (estimated)",
+  "to": "2026-03-23",
+  "source": "https://omannews.gov.om/topics/ar/3/show/464721/"
+ },
+ {
+  "cc": "OM",
+  "op": "move",
+  "date": "2026-06-16",
+  "name": "Islamic New Year (estimated)",
+  "to": "2026-06-18",
+  "source": "https://www.omanobserver.om/article/1181777/oman/labour/except-for-eids-oman-announces-public-holidays-for-2026",
+  "to_name": "Islamic New Year"
+ },
+ {
+  "cc": "OM",
+  "op": "move",
+  "date": "2026-08-25",
+  "name": "Prophet's Birthday (estimated)",
+  "to": "2026-08-27",
+  "source": "https://www.omanobserver.om/article/1181777/oman/labour/except-for-eids-oman-announces-public-holidays-for-2026",
+  "to_name": "Prophet's Birthday"
+ },
+ {
+  "cc": "OM",
+  "op": "move",
+  "date": "2026-11-20",
+  "name": "National Day",
+  "to": "2026-11-25",
+  "source": "https://www.omanobserver.om/article/1181777/oman/labour/except-for-eids-oman-announces-public-holidays-for-2026"
+ },
+ {
+  "cc": "OM",
+  "op": "move",
+  "date": "2026-11-21",
+  "name": "National Day",
+  "to": "2026-11-26",
+  "source": "https://www.omanobserver.om/article/1181777/oman/labour/except-for-eids-oman-announces-public-holidays-for-2026"
+ },
+ {
+  "cc": "PG",
+  "op": "add",
+  "date": "2026-04-04",
+  "name": "Easter Saturday",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.businessadvantagepng.com/papua-new-guinea-public-holidays/"
+ },
+ {
+  "cc": "PG",
+  "op": "add",
+  "date": "2027-03-27",
+  "name": "Easter Saturday",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.businessadvantagepng.com/papua-new-guinea-public-holidays/"
+ },
+ {
+  "cc": "PS",
+  "op": "add",
+  "date": "2026-03-19",
+  "name": "Eid al-Fitr Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://nn.najah.edu/news/Palestine/2026/03/11/551189/"
+ },
+ {
+  "cc": "PY",
+  "op": "move",
+  "date": "2026-03-01",
+  "name": "Patriots Day",
+  "to": "2026-03-02",
+  "source": "https://www.hoy.com.py/nacionales/2026/02/17/los-proximos-feriados-moviles-ademas-del-1-de-marzo"
+ },
+ {
+  "cc": "SC",
+  "op": "add",
+  "date": "2026-02-01",
+  "name": "Abolition of Slavery Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.gazette.sc/sites/default/files/2026-01/SI%202%202026%20-%20Public%20Holiday%20Order%202026.pdf"
+ },
+ {
+  "cc": "SC",
+  "op": "add",
+  "date": "2026-02-02",
+  "name": "Abolition of Slavery Day (observed)",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.gazette.sc/sites/default/files/2026-01/SI%202%202026%20-%20Public%20Holiday%20Order%202026.pdf"
+ },
+ {
+  "cc": "SC",
+  "op": "add",
+  "date": "2026-06-30",
+  "name": "50th Anniversary of Independence",
+  "localName": "",
+  "regions": null,
+  "source": "https://statehouse.gov.sc/news?language=&page=23"
+ },
+ {
+  "cc": "SH",
+  "op": "add",
+  "date": "2026-01-01",
+  "name": "New Year's Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.timeanddate.com/holidays/saint-helena/new-year"
+ },
+ {
+  "cc": "SH",
+  "op": "add",
+  "date": "2027-01-01",
+  "name": "New Year's Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.timeanddate.com/holidays/saint-helena/new-year"
+ },
+ {
+  "cc": "ST",
+  "op": "add",
+  "date": "2026-02-18",
+  "name": "Ash Wednesday (São Tomé Family Day)",
+  "localName": "Quarta-feira de Cinzas",
+  "regions": null,
+  "source": "https://www.stp-press.st/2026/02/17/sao-tome-e-principe-vive-o-1o-feriado-nacional-da-quarta-feira-de-cinzas-o-dia-de-bocado/"
+ },
+ {
+  "cc": "ST",
+  "op": "add",
+  "date": "2027-02-10",
+  "name": "Ash Wednesday (São Tomé Family Day)",
+  "localName": "Quarta-feira de Cinzas",
+  "regions": null,
+  "source": "https://www.stp-press.st/2026/02/17/sao-tome-e-principe-vive-o-1o-feriado-nacional-da-quarta-feira-de-cinzas-o-dia-de-bocado/"
+ },
+ {
+  "cc": "SY",
+  "op": "remove",
+  "date": "2026-03-08",
+  "name": "Revolution Day",
+  "source": "https://english.enabbaladi.net/archives/2025/10/syrian-president-defines-official-holidays/"
+ },
+ {
+  "cc": "SY",
+  "op": "remove",
+  "date": "2026-05-06",
+  "name": "Martyrs' Day",
+  "source": "https://english.enabbaladi.net/archives/2025/10/syrian-president-defines-official-holidays/"
+ },
+ {
+  "cc": "SY",
+  "op": "remove",
+  "date": "2026-10-06",
+  "name": "Tishreen Liberation War Day",
+  "source": "https://english.enabbaladi.net/archives/2025/10/syrian-president-defines-official-holidays/"
+ },
+ {
+  "cc": "SY",
+  "op": "remove",
+  "date": "2026-12-26",
+  "name": "Boxing Day",
+  "source": "https://english.enabbaladi.net/archives/2025/10/syrian-president-defines-official-holidays/"
+ },
+ {
+  "cc": "SY",
+  "op": "add",
+  "date": "2026-03-18",
+  "name": "Syrian Revolution Day",
+  "localName": "عيد الثورة السورية",
+  "regions": null,
+  "source": "https://english.enabbaladi.net/archives/2025/10/syrian-president-defines-official-holidays/"
+ },
+ {
+  "cc": "SY",
+  "op": "remove",
+  "date": "2027-03-08",
+  "name": "Revolution Day",
+  "source": "https://english.enabbaladi.net/archives/2025/10/syrian-president-defines-official-holidays/"
+ },
+ {
+  "cc": "SY",
+  "op": "remove",
+  "date": "2027-05-06",
+  "name": "Martyrs' Day",
+  "source": "https://english.enabbaladi.net/archives/2025/10/syrian-president-defines-official-holidays/"
+ },
+ {
+  "cc": "SY",
+  "op": "remove",
+  "date": "2027-10-06",
+  "name": "Tishreen Liberation War Day",
+  "source": "https://english.enabbaladi.net/archives/2025/10/syrian-president-defines-official-holidays/"
+ },
+ {
+  "cc": "SY",
+  "op": "remove",
+  "date": "2027-12-26",
+  "name": "Boxing Day",
+  "source": "https://english.enabbaladi.net/archives/2025/10/syrian-president-defines-official-holidays/"
+ },
+ {
+  "cc": "SY",
+  "op": "add",
+  "date": "2027-03-18",
+  "name": "Syrian Revolution Day",
+  "localName": "عيد الثورة السورية",
+  "regions": null,
+  "source": "https://english.enabbaladi.net/archives/2025/10/syrian-president-defines-official-holidays/"
+ },
+ {
+  "cc": "SZ",
+  "op": "add",
+  "date": "2026-01-06",
+  "name": "Incwala Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.timeanddate.com/holidays/swaziland/incwala-day"
+ },
+ {
+  "cc": "SZ",
+  "op": "add",
+  "date": "2026-08-31",
+  "name": "Umhlanga Reed Dance Day",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.thekingdomofeswatini.com/news-blogs/2026-umhlanga-reed-dance-dates-officially-announced/"
+ },
+ {
+  "cc": "TG",
+  "op": "remove",
+  "date": "2026-02-18",
+  "name": "First Day of Ramadan (estimated)",
+  "source": "https://wageindicator.org/fr-tg/travail-au-togo/droit-du-travail/conge-annuel-et-vacances/"
+ },
+ {
+  "cc": "TG",
+  "op": "remove",
+  "date": "2027-02-08",
+  "name": "First Day of Ramadan (estimated)",
+  "source": "https://publicholidays.africa/togo/fr/"
+ },
+ {
+  "cc": "TH",
+  "op": "remove",
+  "date": "2026-01-10",
+  "name": "National Children's Day",
+  "source": "https://www.thaipbs.or.th/news/content/500481"
+ },
+ {
+  "cc": "TH",
+  "op": "remove",
+  "date": "2027-01-09",
+  "name": "National Children's Day",
+  "source": "https://www.thailandnow.in.th/event/thai-childrens-day/"
+ },
+ {
+  "cc": "TM",
+  "op": "add",
+  "date": "2026-05-28",
+  "name": "Eid al-Adha",
+  "localName": "",
+  "regions": null,
+  "source": "https://www.saglykhm.gov.tm/habarlar/2026-njy-yylda-turkmenistanda-nace-dync-guni-bolar"
+ },
+ {
+  "cc": "TM",
+  "op": "add",
+  "date": "2026-05-29",
+  "name": "Eid al-Adha",
+  "localName": "",
+  "regions": null,
+  "source": "https://turkmenistan.gov.tm/tk/habar/106533/turkmenistanyn-prezidentinin-permany-gurban-bayramyny-bellemek-hakynda-3"
+ },
+ {
+  "cc": "TN",
+  "op": "move",
+  "date": "2026-01-14",
+  "name": "Revolution and Youth Day",
+  "to": "2026-12-17",
+  "source": "https://legislation-securite.tn/latest-laws/decret-presidentiel-n-2021-223-du-7-decembre-2021-fixant-les-jours-feries-donnant-lieu-a-conge-au-profit-des-personnels-de-letat-des-collectivites-locales-et-des-etablissements-public/"
+ },
+ {
+  "cc": "TN",
+  "op": "move",
+  "date": "2027-01-14",
+  "name": "Revolution and Youth Day",
+  "to": "2027-12-17",
+  "source": "http://kapitalis.com/tunisie/2021/12/02/presidence-tunisie-la-fete-de-la-revolution-sera-desormais-celebree-le-17-decembre-au-lieu-du-14-janvier/"
+ },
+ {
+  "cc": "TN",
+  "op": "remove",
+  "date": "2026-05-26",
+  "name": "Day of Arafah (estimated)",
+  "source": "https://news.gnet.tn/aid-al-adha-deux-jours-de-conge-accordes-aux-agents-de-la-fonction-publique/"
+ },
+ {
+  "cc": "TN",
+  "op": "remove",
+  "date": "2026-05-29",
+  "name": "Eid al-Adha Holiday (estimated)",
+  "source": "https://news.gnet.tn/aid-al-adha-deux-jours-de-conge-accordes-aux-agents-de-la-fonction-publique/"
+ },
+ {
+  "cc": "TN",
+  "op": "remove",
+  "date": "2027-05-15",
+  "name": "Day of Arafah (estimated)",
+  "source": "https://news.gnet.tn/aid-al-adha-deux-jours-de-conge-accordes-aux-agents-de-la-fonction-publique/"
+ },
+ {
+  "cc": "TN",
+  "op": "remove",
+  "date": "2027-05-18",
+  "name": "Eid al-Adha Holiday (estimated)",
+  "source": "https://news.gnet.tn/aid-al-adha-deux-jours-de-conge-accordes-aux-agents-de-la-fonction-publique/"
+ },
+ {
+  "cc": "VG",
+  "op": "move",
+  "date": "2026-03-02",
+  "name": "Lavity Stoutt's Birthday",
+  "to": "2026-03-09",
+  "source": "https://bvi.org.uk/cabinet-approves-2026-public-holidays/"
+ },
+ {
+  "cc": "VG",
+  "op": "add",
+  "date": "2026-06-30",
+  "name": "250th Anniversary of Freedom at Nottingham Estate",
+  "localName": "",
+  "regions": null,
+  "source": "https://bvi.org.uk/cabinet-approves-2026-public-holidays/"
+ },
+ {
+  "cc": "YE",
+  "op": "add",
+  "date": "2026-03-24",
+  "name": "Eid al-Fitr Holiday",
+  "localName": "",
+  "regions": null,
+  "source": "https://adenmedia.org/81845"
+ }
+]

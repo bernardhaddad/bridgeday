@@ -1,0 +1,277 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-02",
+  "global": true,
+  "localName": "Day after New Year's Day",
+  "name": "Day after New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-WGN"
+  ],
+  "date": "2026-01-19",
+  "global": false,
+  "localName": "Wellington Anniversary Day",
+  "name": "Wellington Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-AUK",
+   "NZ-NTL"
+  ],
+  "date": "2026-01-26",
+  "global": false,
+  "localName": "Auckland Anniversary Day",
+  "name": "Auckland Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-NSN"
+  ],
+  "date": "2026-02-02",
+  "global": false,
+  "localName": "Nelson Anniversary Day",
+  "name": "Nelson Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-06",
+  "global": true,
+  "localName": "Waitangi Day",
+  "name": "Waitangi Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-TKI"
+  ],
+  "date": "2026-03-09",
+  "global": false,
+  "localName": "Taranaki Anniversary Day",
+  "name": "Taranaki Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-OTA"
+  ],
+  "date": "2026-03-23",
+  "global": false,
+  "localName": "Otago Anniversary Day",
+  "name": "Otago Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-STL"
+  ],
+  "date": "2026-04-07",
+  "global": false,
+  "localName": "Southland Anniversary Day",
+  "name": "Southland Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-25",
+  "global": true,
+  "localName": "Anzac Day",
+  "name": "Anzac Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-27",
+  "global": true,
+  "localName": "Anzac Day (observed)",
+  "name": "Anzac Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-01",
+  "global": true,
+  "localName": "King's Birthday",
+  "name": "King's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-10",
+  "global": true,
+  "localName": "Matariki",
+  "name": "Matariki",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-South Canterbury"
+  ],
+  "date": "2026-09-28",
+  "global": false,
+  "localName": "South Canterbury Anniversary Day",
+  "name": "South Canterbury Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-HKB"
+  ],
+  "date": "2026-10-23",
+  "global": false,
+  "localName": "Hawke's Bay Anniversary Day",
+  "name": "Hawke's Bay Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-26",
+  "global": true,
+  "localName": "Labour Day",
+  "name": "Labour Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-MBH"
+  ],
+  "date": "2026-11-02",
+  "global": false,
+  "localName": "Marlborough Anniversary Day",
+  "name": "Marlborough Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-CAN"
+  ],
+  "date": "2026-11-13",
+  "global": false,
+  "localName": "Canterbury Anniversary Day",
+  "name": "Canterbury Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-CIT"
+  ],
+  "date": "2026-11-30",
+  "global": false,
+  "localName": "Chatham Islands Anniversary Day",
+  "name": "Chatham Islands Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "NZ-WTC"
+  ],
+  "date": "2026-11-30",
+  "global": false,
+  "localName": "West Coast Anniversary Day",
+  "name": "West Coast Anniversary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-26",
+  "global": true,
+  "localName": "Boxing Day",
+  "name": "Boxing Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-28",
+  "global": true,
+  "localName": "Boxing Day (observed)",
+  "name": "Boxing Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "ວັນປີໃໝ່ສາກົນ",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-03",
+  "global": true,
+  "localName": "ພັກຊົດເຊີຍວັນປີໃໝ່ສາກົນ",
+  "name": "New Year's Day (in lieu)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-08",
+  "global": true,
+  "localName": "ວັນແມ່ຍິງສາກົນ",
+  "name": "International Women's Rights Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "ບຸນປີໃໝ່ລາວ",
+  "name": "Lao New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-15",
+  "global": true,
+  "localName": "ບຸນປີໃໝ່ລາວ",
+  "name": "Lao New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-16",
+  "global": true,
+  "localName": "ບຸນປີໃໝ່ລາວ",
+  "name": "Lao New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-17",
+  "global": true,
+  "localName": "ພັກຊົດເຊີຍບຸນປີໃໝ່ລາວ",
+  "name": "Lao New Year's Day (in lieu)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-18",
+  "global": true,
+  "localName": "ພັກຊົດເຊີຍບຸນປີໃໝ່ລາວ",
+  "name": "Lao New Year's Day (in lieu)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "ວັນກຳມະກອນສາກົນ",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-02",
+  "global": true,
+  "localName": "ວັນຊາດ",
+  "name": "Lao National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-04",
+  "global": true,
+  "localName": "ພັກຊົດເຊີຍວັນຊາດ",
+  "name": "Lao National Day (in lieu)",
+  "types": [
+   "Public"
+  ]
+ }
+]

@@ -1,0 +1,49 @@
+# Everything that makes money lives here. Leave a value empty and that feature is not rendered.
+# See README.md, "Turn on the money", for where each value comes from.
+
+[site]
+name = "Bridgeday"
+tagline = "More time with the people you love, from the same days of leave"
+# The public address of the site, no trailing slash. With a custom domain use
+# "https://yourdomain.com" and set cname below.
+base_url = "https://bernardhaddad.github.io/bridgeday"
+cname = ""
+# How readers reach you (shown on the About page; ad networks like to see one):
+# "mailto:you@example.com" or an https:// form link. Never put a private address here.
+contact = ""
+# How many years after the current one get pages (0..3).
+years_ahead = 1
+
+[analytics]
+# GoatCounter site code (free, no cookies): "mysite" for mysite.goatcounter.com.
+goatcounter = "bridgeday"
+
+[ads]
+# Google AdSense publisher id, e.g. "ca-pub-1234567890123456". Turns on Auto ads and ads.txt.
+adsense_client = ""
+
+# One block per button shown under every vacation plan. Placeholders, URL-encoded:
+# {start} {end} (YYYY-MM-DD), {country}, {cc}, {year}. Must be https.
+# Example (uncomment and replace with your own tracking link):
+# [[affiliate]]
+# label = "Find flights"
+# url = "https://www.aviasales.com/?marker=YOUR_ID&depart_date={start}&return_date={end}"
+#
+# [[affiliate]]
+# label = "Hotels for these dates"
+# url = "https://www.booking.com/searchresults.html?aid=YOUR_AID&checkin={start}&checkout={end}"
+
+# The paid printable planner (built with `make products`; never published with the site).
+# url may use {slug} {year} {cc} {country}. With Shopify, products created as
+# "<Country> <year> Leave Planner" get the handle "<slug>-<year>-leave-planner".
+# countries: the codes you have listed in the shop, or ["*"] once every country is listed.
+[shop]
+url = ""
+# url = "https://YOURSTORE.myshopify.com/products/{slug}-{year}-leave-planner"
+price = ""
+countries = []
+bundle_url = ""
+bundle_price = ""
+# The Global Long-Weekend & Absence Index dataset (products/global-leave-intelligence-<year>.zip).
+dataset_url = ""
+dataset_price = ""

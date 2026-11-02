@@ -1,0 +1,122 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Соли Нав",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-08",
+  "global": true,
+  "localName": "Рӯзи Модар",
+  "name": "Mother's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "Рӯзи иди Рамазон (таҳминан)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "Иди байналмилалии Наврӯз",
+  "name": "International Nowruz Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-22",
+  "global": true,
+  "localName": "Иди байналмилалии Наврӯз",
+  "name": "International Nowruz Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-23",
+  "global": true,
+  "localName": "Иди байналмилалии Наврӯз",
+  "name": "International Nowruz Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-24",
+  "global": true,
+  "localName": "Иди байналмилалии Наврӯз",
+  "name": "International Nowruz Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-09",
+  "global": true,
+  "localName": "Рӯзи Ғалаба дар Ҷанги Бузурги Ватанӣ",
+  "name": "Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "Рӯзи иди Қурбон (таҳминан)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-27",
+  "global": true,
+  "localName": "Рӯзи Ваҳдати миллӣ",
+  "name": "National Unity Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-09",
+  "global": true,
+  "localName": "Рӯзи Истиқлолияти давлатии Ҷумҳурии Тоҷикистон",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-06",
+  "global": true,
+  "localName": "Рӯзи Конститутсияи Ҷумҳурии Тоҷикистон",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

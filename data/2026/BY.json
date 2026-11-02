@@ -1,0 +1,132 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Новы год",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-02",
+  "global": true,
+  "localName": "Новы год",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-07",
+  "global": true,
+  "localName": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+  "name": "Orthodox Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-08",
+  "global": true,
+  "localName": "Дзень жанчын",
+  "name": "Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-05",
+  "global": true,
+  "localName": "Каталiцкi Вялiкдзень",
+  "name": "Catholic Easter",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-12",
+  "global": true,
+  "localName": "Праваслаўны Вялiкдзень",
+  "name": "Orthodox Easter",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-20",
+  "global": true,
+  "localName": "Выходны (перанесены з 25.04.2026)",
+  "name": "Day off (substituted from 04/25/2026)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-21",
+  "global": true,
+  "localName": "Радаўніца",
+  "name": "Radunitsa (Day of Rejoicing)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Свята працы",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-09",
+  "global": true,
+  "localName": "Дзень Перамогі",
+  "name": "Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-07-03",
+  "global": true,
+  "localName": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+  "name": "Independence Day of the Republic of Belarus (Day of the Republic)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-07",
+  "global": true,
+  "localName": "Дзень Кастрычніцкай рэвалюцыі",
+  "name": "October Revolution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Нараджэнне Хрыстова (каталіцкае Раство)",
+  "name": "Catholic Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

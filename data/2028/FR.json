@@ -1,0 +1,323 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Jour de l'an",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-PF"
+  ],
+  "date": "2028-03-05",
+  "global": false,
+  "localName": "Missionary Day",
+  "name": "Missionary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-971"
+  ],
+  "date": "2028-03-23",
+  "global": false,
+  "localName": "Mi-Careme",
+  "name": "Mi-Careme",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-57",
+   "FR-6AE",
+   "FR-971",
+   "FR-972",
+   "FR-PF"
+  ],
+  "date": "2028-04-14",
+  "global": false,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-17",
+  "global": true,
+  "localName": "Lundi de Pâques",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-976"
+  ],
+  "date": "2028-04-27",
+  "global": false,
+  "localName": "Abolition of Slavery",
+  "name": "Abolition of Slavery",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-WF"
+  ],
+  "date": "2028-04-28",
+  "global": false,
+  "localName": "Feast of Saint Peter Chanel",
+  "name": "Feast of Saint Peter Chanel",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Fête du Travail",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-08",
+  "global": true,
+  "localName": "Fête de la Victoire",
+  "name": "Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-972"
+  ],
+  "date": "2028-05-22",
+  "global": false,
+  "localName": "Abolition of Slavery",
+  "name": "Abolition of Slavery",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-25",
+  "global": true,
+  "localName": "Ascension",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-971"
+  ],
+  "date": "2028-05-27",
+  "global": false,
+  "localName": "Abolition of Slavery",
+  "name": "Abolition of Slavery",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-MF"
+  ],
+  "date": "2028-05-28",
+  "global": false,
+  "localName": "Abolition of Slavery",
+  "name": "Abolition of Slavery",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-05",
+  "global": true,
+  "localName": "Lundi de Pentecôte",
+  "name": "Pentecost Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-973"
+  ],
+  "date": "2028-06-10",
+  "global": false,
+  "localName": "Abolition of Slavery",
+  "name": "Abolition of Slavery",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-WF"
+  ],
+  "date": "2028-06-29",
+  "global": false,
+  "localName": "Saints Peter and Paul Day",
+  "name": "Saints Peter and Paul Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-14",
+  "global": true,
+  "localName": "Fête nationale",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-971",
+   "FR-972",
+   "FR-MF"
+  ],
+  "date": "2028-07-21",
+  "global": false,
+  "localName": "Victor Schoelcher Day",
+  "name": "Victor Schoelcher Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-WF"
+  ],
+  "date": "2028-07-29",
+  "global": false,
+  "localName": "Territory Day",
+  "name": "Territory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-15",
+  "global": true,
+  "localName": "Assomption",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-NC"
+  ],
+  "date": "2028-09-24",
+  "global": false,
+  "localName": "Citizenship Day",
+  "name": "Citizenship Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-BL"
+  ],
+  "date": "2028-10-09",
+  "global": false,
+  "localName": "Abolition of Slavery",
+  "name": "Abolition of Slavery",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-01",
+  "global": true,
+  "localName": "Toussaint",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-11",
+  "global": true,
+  "localName": "Armistice",
+  "name": "Armistice Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-PF"
+  ],
+  "date": "2028-11-20",
+  "global": false,
+  "localName": "Matāri'i",
+  "name": "Matāri'i",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-974"
+  ],
+  "date": "2028-12-20",
+  "global": false,
+  "localName": "Abolition of Slavery",
+  "name": "Abolition of Slavery",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Noël",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "FR-57",
+   "FR-6AE"
+  ],
+  "date": "2028-12-26",
+  "global": false,
+  "localName": "Saint Stephen's Day",
+  "name": "Saint Stephen's Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

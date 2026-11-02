@@ -1,0 +1,311 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Cap d'Any",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-06",
+  "global": true,
+  "localName": "Reis",
+  "name": "Epiphany",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-06"
+  ],
+  "date": "2026-01-07",
+  "global": false,
+  "localName": "Saint Julian's Day",
+  "name": "Saint Julian's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-04"
+  ],
+  "date": "2026-01-17",
+  "global": false,
+  "localName": "Saint Anthony's Day",
+  "name": "Saint Anthony's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-16",
+  "global": true,
+  "localName": "Carnaval",
+  "name": "Carnival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-14",
+  "global": true,
+  "localName": "Dia de la Constitució",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Divendres Sant",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "Dilluns de Pasqua",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Festa del treball",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-08"
+  ],
+  "date": "2026-05-08",
+  "global": false,
+  "localName": "Saint Michael of Engolasters' Day",
+  "name": "Saint Michael of Engolasters' Day",
+  "source": "https://www.andorra-solutions.com/ca/calendari-laboral-andorra/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-25",
+  "global": true,
+  "localName": "Dilluns de Pentecosta",
+  "name": "Pentecost Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-06"
+  ],
+  "date": "2026-05-30",
+  "global": false,
+  "localName": "Virgin Mary of Canòlich",
+  "name": "Virgin Mary of Canòlich",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-08"
+  ],
+  "date": "2026-06-14",
+  "global": false,
+  "localName": "Parish foundation day",
+  "name": "Parish foundation day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-05"
+  ],
+  "date": "2026-06-29",
+  "global": false,
+  "localName": "Saint Peter's Day",
+  "name": "Saint Peter's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-08"
+  ],
+  "date": "2026-07-25",
+  "global": false,
+  "localName": "Escaldes-Engordany Festival",
+  "name": "Escaldes-Engordany Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-08"
+  ],
+  "date": "2026-07-26",
+  "global": false,
+  "localName": "Escaldes-Engordany Festival",
+  "name": "Escaldes-Engordany Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-06"
+  ],
+  "date": "2026-07-27",
+  "global": false,
+  "localName": "Sant Julià de Lòria Festival",
+  "name": "Sant Julià de Lòria Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-06"
+  ],
+  "date": "2026-07-28",
+  "global": false,
+  "localName": "Sant Julià de Lòria Festival",
+  "name": "Sant Julià de Lòria Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-07"
+  ],
+  "date": "2026-08-01",
+  "global": false,
+  "localName": "Andorra la Vella Festival",
+  "name": "Andorra la Vella Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-07"
+  ],
+  "date": "2026-08-02",
+  "global": false,
+  "localName": "Andorra la Vella Festival",
+  "name": "Andorra la Vella Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-07"
+  ],
+  "date": "2026-08-03",
+  "global": false,
+  "localName": "Andorra la Vella Festival",
+  "name": "Andorra la Vella Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-15",
+  "global": true,
+  "localName": "Assumpció",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "AD-02"
+  ],
+  "date": "2026-08-16",
+  "global": false,
+  "localName": "Saint Roch's Day",
+  "name": "Saint Roch's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-08",
+  "global": true,
+  "localName": "Nostra Senyora de Meritxell",
+  "name": "Our Lady of Meritxell",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-01",
+  "global": true,
+  "localName": "Tots Sants",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-08",
+  "global": true,
+  "localName": "Immaculada Concepció",
+  "name": "Immaculate Conception",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Nadal",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-26",
+  "global": true,
+  "localName": "Sant Esteve",
+  "name": "Saint Stephen's Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

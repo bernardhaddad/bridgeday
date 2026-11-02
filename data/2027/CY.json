@@ -1,0 +1,152 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Πρωτοχρονιά",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-06",
+  "global": true,
+  "localName": "Ημέρα των Θεοφανίων",
+  "name": "Epiphany",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-15",
+  "global": true,
+  "localName": "Καθαρά Δευτέρα",
+  "name": "Green Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-25",
+  "global": true,
+  "localName": "Ημέρα της Ελληνικής Ανεξαρτησίας",
+  "name": "Greek Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-01",
+  "global": true,
+  "localName": "Εθνική Ημέρα Κύπρου",
+  "name": "Cyprus National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-30",
+  "global": true,
+  "localName": "Μεγάλη Παρασκευή",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Πρωτομαγιά",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-02",
+  "global": true,
+  "localName": "Κυριακή του Πάσχα",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-03",
+  "global": true,
+  "localName": "Δευτέρα της Διακαινησίμου",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-21",
+  "global": true,
+  "localName": "Δευτέρα του Αγίου Πνεύματος",
+  "name": "Pentecost Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-15",
+  "global": true,
+  "localName": "Κοίμηση της Θεοτόκου",
+  "name": "Dormition of the Mother of God",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-01",
+  "global": true,
+  "localName": "Ημέρα της Κυπριακής Ανεξαρτησίας",
+  "name": "Cyprus Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-28",
+  "global": true,
+  "localName": "Ημέρα του Όχι",
+  "name": "Ohi Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Χριστούγεννα",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-26",
+  "global": true,
+  "localName": "Επομένη Χριστουγέννων",
+  "name": "Day After Christmas",
+  "types": [
+   "Public"
+  ]
+ }
+]

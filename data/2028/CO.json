@@ -1,0 +1,192 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "Año Nuevo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-10",
+  "global": true,
+  "localName": "Día de los Reyes Magos (observado)",
+  "name": "Epiphany (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-20",
+  "global": true,
+  "localName": "Día de San José (observado)",
+  "name": "Saint Joseph's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-13",
+  "global": true,
+  "localName": "Jueves Santo",
+  "name": "Maundy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-14",
+  "global": true,
+  "localName": "Viernes Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "Día del Trabajo",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-29",
+  "global": true,
+  "localName": "Ascensión del señor (observado)",
+  "name": "Ascension Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-19",
+  "global": true,
+  "localName": "Corpus Christi (observado)",
+  "name": "Corpus Christi (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-06-26",
+  "global": true,
+  "localName": "Sagrado Corazón (observado)",
+  "name": "Sacred Heart (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-03",
+  "global": true,
+  "localName": "San Pedro y San Pablo (observado)",
+  "name": "Saint Peter and Saint Paul's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-10",
+  "global": true,
+  "localName": "Día de Nuestra Señora del Rosario de Chiquinquirá (observado)",
+  "name": "Day of Our Lady of the Rosary of Chiquinquirá (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-20",
+  "global": true,
+  "localName": "Día de la Independencia",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-07",
+  "global": true,
+  "localName": "Batalla de Boyacá",
+  "name": "Battle of Boyacá",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-21",
+  "global": true,
+  "localName": "La Asunción (observado)",
+  "name": "Assumption Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-16",
+  "global": true,
+  "localName": "Día de la Raza (observado)",
+  "name": "Columbus Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-06",
+  "global": true,
+  "localName": "Día de Todos los Santos (observado)",
+  "name": "All Saints' Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-13",
+  "global": true,
+  "localName": "Independencia de Cartagena (observado)",
+  "name": "Independence of Cartagena (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-08",
+  "global": true,
+  "localName": "La Inmaculada Concepción",
+  "name": "Immaculate Conception",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-25",
+  "global": true,
+  "localName": "Navidad",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

@@ -1,0 +1,142 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "L-Ewwel tas-Sena",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-10",
+  "global": true,
+  "localName": "Il-Festa tan-Nawfraġju ta' San Pawl",
+  "name": "Feast of Saint Paul's Shipwreck",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-19",
+  "global": true,
+  "localName": "Il-Festa ta' San Ġużepp",
+  "name": "Feast of Saint Joseph",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Il-Ġimgħa l-Kbira",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-31",
+  "global": true,
+  "localName": "Jum il-Ħelsien",
+  "name": "Freedom Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "Jum il-Ħaddiem",
+  "name": "Worker's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-07",
+  "global": true,
+  "localName": "Sette Giugno",
+  "name": "Sette Giugno",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-29",
+  "global": true,
+  "localName": "Il-Festa ta' San Pietru u San Pawl",
+  "name": "Feast of Saint Peter and Saint Paul",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-15",
+  "global": true,
+  "localName": "Il-Festa ta' Santa Marija",
+  "name": "Feast of the Assumption",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-08",
+  "global": true,
+  "localName": "Jum il-Vitorja",
+  "name": "Feast of Our Lady of Victories",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-21",
+  "global": true,
+  "localName": "Jum l-Indipendenza",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-08",
+  "global": true,
+  "localName": "Il-Festa tal-Immakulata Kunċizzjoni",
+  "name": "Feast of the Immaculate Conception",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-13",
+  "global": true,
+  "localName": "Jum ir-Repubblika",
+  "name": "Republic Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "Il-Milied",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

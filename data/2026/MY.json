@@ -1,0 +1,814 @@
+[
+ {
+  "counties": [
+   "MY-04",
+   "MY-05",
+   "MY-06",
+   "MY-07",
+   "MY-08",
+   "MY-10",
+   "MY-12",
+   "MY-13",
+   "MY-14",
+   "MY-15",
+   "MY-16"
+  ],
+  "date": "2026-01-01",
+  "global": false,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-05"
+  ],
+  "date": "2026-01-14",
+  "global": false,
+  "localName": "Birthday of the Sultan of Negeri Sembilan",
+  "name": "Birthday of the Sultan of Negeri Sembilan",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-02",
+   "MY-05",
+   "MY-09",
+   "MY-11"
+  ],
+  "date": "2026-01-17",
+  "global": false,
+  "localName": "Isra' and Mi'raj",
+  "name": "Isra' and Mi'raj",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-11"
+  ],
+  "date": "2026-01-18",
+  "global": false,
+  "localName": "Isra' and Mi'raj (observed)",
+  "name": "Isra' and Mi'raj (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-14",
+   "MY-15",
+   "MY-16"
+  ],
+  "date": "2026-02-01",
+  "global": false,
+  "localName": "Federal Territory Day",
+  "name": "Federal Territory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-01",
+   "MY-05",
+   "MY-07",
+   "MY-08",
+   "MY-10",
+   "MY-14",
+   "MY-16"
+  ],
+  "date": "2026-02-01",
+  "global": false,
+  "localName": "Thaipusam",
+  "name": "Thaipusam",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-14",
+   "MY-15",
+   "MY-16"
+  ],
+  "date": "2026-02-02",
+  "global": false,
+  "localName": "Federal Territory Day (observed)",
+  "name": "Federal Territory Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-01",
+   "MY-05",
+   "MY-07",
+   "MY-08",
+   "MY-10",
+   "MY-14",
+   "MY-16"
+  ],
+  "date": "2026-02-02",
+  "global": false,
+  "localName": "Thaipusam (observed)",
+  "name": "Thaipusam (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-17",
+  "global": true,
+  "localName": "Tahun Baharu Cina",
+  "name": "Chinese New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-18",
+  "global": true,
+  "localName": "Tahun Baharu Cina (Hari Kedua)",
+  "name": "Chinese New Year (Second Day)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-01",
+   "MY-02"
+  ],
+  "date": "2026-02-19",
+  "global": false,
+  "localName": "Beginning of Ramadan",
+  "name": "Beginning of Ramadan",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-04"
+  ],
+  "date": "2026-02-20",
+  "global": false,
+  "localName": "Declaration of Independence Day",
+  "name": "Declaration of Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-11"
+  ],
+  "date": "2026-03-04",
+  "global": false,
+  "localName": "Anniversary of the Installation of the Sultan of Terengganu",
+  "name": "Anniversary of the Installation of the Sultan of Terengganu",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-03",
+   "MY-06",
+   "MY-07",
+   "MY-08",
+   "MY-09",
+   "MY-10",
+   "MY-11",
+   "MY-14",
+   "MY-15",
+   "MY-16"
+  ],
+  "date": "2026-03-07",
+  "global": false,
+  "localName": "Nuzul Al-Quran Day",
+  "name": "Nuzul Al-Quran Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-03",
+   "MY-11"
+  ],
+  "date": "2026-03-08",
+  "global": false,
+  "localName": "Nuzul Al-Quran Day (observed)",
+  "name": "Nuzul Al-Quran Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "Hari Raya Puasa (pergantian hari)",
+  "name": "Eid al-Fitr (additional holiday)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "Hari Raya Puasa",
+  "name": "Eid al-Fitr",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-22",
+  "global": true,
+  "localName": "Hari Raya Puasa (Hari Kedua)",
+  "name": "Eid al-Fitr (Second Day)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-23",
+  "global": true,
+  "localName": "Cuti Hari Raya Puasa (Hari Kedua)",
+  "name": "Eid al-Fitr (Second Day) (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-01"
+  ],
+  "date": "2026-03-23",
+  "global": false,
+  "localName": "Birthday of the Sultan of Johor",
+  "name": "Birthday of the Sultan of Johor",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-04"
+  ],
+  "date": "2026-03-23",
+  "global": false,
+  "localName": "Eid al-Fitr (Third Day)",
+  "name": "Eid al-Fitr (Third Day)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-03",
+   "MY-11"
+  ],
+  "date": "2026-03-23",
+  "global": false,
+  "localName": "Eid al-Fitr (observed)",
+  "name": "Eid al-Fitr (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-01",
+   "MY-04"
+  ],
+  "date": "2026-03-24",
+  "global": false,
+  "localName": "Eid al-Fitr (Second Day) (observed)",
+  "name": "Eid al-Fitr (Second Day) (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-12"
+  ],
+  "date": "2026-03-30",
+  "global": false,
+  "localName": "Birthday of the Governor of Sabah",
+  "name": "Birthday of the Governor of Sabah",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-12",
+   "MY-13"
+  ],
+  "date": "2026-04-03",
+  "global": false,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-11"
+  ],
+  "date": "2026-04-26",
+  "global": false,
+  "localName": "Birthday of the Sultan of Terengganu",
+  "name": "Birthday of the Sultan of Terengganu",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Hari Pekerja",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-02"
+  ],
+  "date": "2026-05-03",
+  "global": false,
+  "localName": "Labor Day (observed)",
+  "name": "Labor Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-09"
+  ],
+  "date": "2026-05-17",
+  "global": false,
+  "localName": "Birthday of the Raja of Perlis",
+  "name": "Birthday of the Raja of Perlis",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-09"
+  ],
+  "date": "2026-05-18",
+  "global": false,
+  "localName": "Birthday of the Raja of Perlis (observed)",
+  "name": "Birthday of the Raja of Perlis (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-06"
+  ],
+  "date": "2026-05-22",
+  "global": false,
+  "localName": "The Sultan of Pahang Hol",
+  "name": "The Sultan of Pahang Hol",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-03",
+   "MY-11"
+  ],
+  "date": "2026-05-26",
+  "global": false,
+  "localName": "Day of Arafah",
+  "name": "Day of Arafah",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "Hari Raya Qurban",
+  "name": "Eid al-Adha",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-02",
+   "MY-03",
+   "MY-09",
+   "MY-11"
+  ],
+  "date": "2026-05-28",
+  "global": false,
+  "localName": "Eid al-Adha (Second Day)",
+  "name": "Eid al-Adha (Second Day)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-12",
+   "MY-15"
+  ],
+  "date": "2026-05-30",
+  "global": false,
+  "localName": "Pesta Kaamatan",
+  "name": "Pesta Kaamatan",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-31",
+  "global": true,
+  "localName": "Hari Wesak",
+  "name": "Vesak Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-12",
+   "MY-15"
+  ],
+  "date": "2026-05-31",
+  "global": false,
+  "localName": "Pesta Kaamatan",
+  "name": "Pesta Kaamatan",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-01",
+  "global": true,
+  "localName": "Hari Keputeraan Rasmi Seri Paduka Baginda Yang di-Pertuan Agong",
+  "name": "Birthday of HM Yang di-Pertuan Agong",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-13"
+  ],
+  "date": "2026-06-01",
+  "global": false,
+  "localName": "Dayak Festival Day",
+  "name": "Dayak Festival Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-02",
+  "global": true,
+  "localName": "Cuti Hari Wesak",
+  "name": "Vesak Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-13"
+  ],
+  "date": "2026-06-02",
+  "global": false,
+  "localName": "Dayak Festival Day",
+  "name": "Dayak Festival Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-12",
+   "MY-15"
+  ],
+  "date": "2026-06-02",
+  "global": false,
+  "localName": "Pesta Kaamatan (observed)",
+  "name": "Pesta Kaamatan (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-13"
+  ],
+  "date": "2026-06-03",
+  "global": false,
+  "localName": "Vesak Day (observed)",
+  "name": "Vesak Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-17",
+  "global": true,
+  "localName": "Awal Muharam",
+  "name": "Islamic New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-02"
+  ],
+  "date": "2026-07-05",
+  "global": false,
+  "localName": "Birthday of The Sultan of Kedah",
+  "name": "Birthday of The Sultan of Kedah",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-07"
+  ],
+  "date": "2026-07-07",
+  "global": false,
+  "localName": "George Town Heritage Day",
+  "name": "George Town Heritage Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-07"
+  ],
+  "date": "2026-07-11",
+  "global": false,
+  "localName": "Birthday of the Governor of Penang",
+  "name": "Birthday of the Governor of Penang",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-01"
+  ],
+  "date": "2026-07-21",
+  "global": false,
+  "localName": "The Sultan of Johor Hol",
+  "name": "The Sultan of Johor Hol",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-13"
+  ],
+  "date": "2026-07-22",
+  "global": false,
+  "localName": "Sarawak Independence Day",
+  "name": "Sarawak Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-06"
+  ],
+  "date": "2026-07-31",
+  "global": false,
+  "localName": "Birthday of the Sultan of Pahang",
+  "name": "Birthday of the Sultan of Pahang",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-04"
+  ],
+  "date": "2026-08-24",
+  "global": false,
+  "localName": "Birthday of the Governor of Malacca",
+  "name": "Birthday of the Governor of Malacca",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-25",
+  "global": true,
+  "localName": "Hari Keputeraan Nabi Muhammad S.A.W.",
+  "name": "Prophet Muhammad's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-31",
+  "global": true,
+  "localName": "Hari Kebangsaan",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-16",
+  "global": true,
+  "localName": "Hari Malaysia",
+  "name": "Malaysia Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-03"
+  ],
+  "date": "2026-09-29",
+  "global": false,
+  "localName": "Birthday of the Sultan of Kelantan",
+  "name": "Birthday of the Sultan of Kelantan",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-03"
+  ],
+  "date": "2026-09-30",
+  "global": false,
+  "localName": "Birthday of the Sultan of Kelantan",
+  "name": "Birthday of the Sultan of Kelantan",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-13"
+  ],
+  "date": "2026-10-10",
+  "global": false,
+  "localName": "Birthday of the Governor of Sarawak",
+  "name": "Birthday of the Governor of Sarawak",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-08"
+  ],
+  "date": "2026-11-06",
+  "global": false,
+  "localName": "Birthday of the Sultan of Perak",
+  "name": "Birthday of the Sultan of Perak",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-01",
+   "MY-02",
+   "MY-03",
+   "MY-04",
+   "MY-05",
+   "MY-06",
+   "MY-07",
+   "MY-08",
+   "MY-09",
+   "MY-10",
+   "MY-11",
+   "MY-12",
+   "MY-14",
+   "MY-15",
+   "MY-16"
+  ],
+  "date": "2026-11-08",
+  "global": false,
+  "localName": "Diwali",
+  "name": "Diwali",
+  "source": "https://trevo.my/stories/cuti-umum-deepavali-2026/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-01",
+   "MY-04",
+   "MY-05",
+   "MY-06",
+   "MY-07",
+   "MY-08",
+   "MY-09",
+   "MY-10",
+   "MY-12",
+   "MY-14",
+   "MY-15",
+   "MY-16"
+  ],
+  "date": "2026-11-09",
+  "global": false,
+  "localName": "Diwali (observed)",
+  "name": "Diwali (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-10"
+  ],
+  "date": "2026-12-11",
+  "global": false,
+  "localName": "Birthday of The Sultan of Selangor",
+  "name": "Birthday of The Sultan of Selangor",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-12"
+  ],
+  "date": "2026-12-24",
+  "global": false,
+  "localName": "Christmas Eve",
+  "name": "Christmas Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Hari Krismas",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "MY-02"
+  ],
+  "date": "2026-12-27",
+  "global": false,
+  "localName": "Christmas Day (observed)",
+  "name": "Christmas Day (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

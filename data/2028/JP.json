@@ -1,0 +1,162 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "元日",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-10",
+  "global": true,
+  "localName": "成人の日",
+  "name": "Coming of Age Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-11",
+  "global": true,
+  "localName": "建国記念の日",
+  "name": "Foundation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-02-23",
+  "global": true,
+  "localName": "天皇誕生日",
+  "name": "Emperor's Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-03-20",
+  "global": true,
+  "localName": "春分の日",
+  "name": "Vernal Equinox Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-29",
+  "global": true,
+  "localName": "昭和の日",
+  "name": "Showa Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-03",
+  "global": true,
+  "localName": "憲法記念日",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-04",
+  "global": true,
+  "localName": "みどりの日",
+  "name": "Greenery Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-05",
+  "global": true,
+  "localName": "こどもの日",
+  "name": "Children's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-07-17",
+  "global": true,
+  "localName": "海の日",
+  "name": "Marine Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-08-11",
+  "global": true,
+  "localName": "山の日",
+  "name": "Mountain Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-18",
+  "global": true,
+  "localName": "敬老の日",
+  "name": "Respect for the Aged Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-09-22",
+  "global": true,
+  "localName": "秋分の日",
+  "name": "Autumnal Equinox Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-09",
+  "global": true,
+  "localName": "スポーツの日",
+  "name": "Sports Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-03",
+  "global": true,
+  "localName": "文化の日",
+  "name": "Culture Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-11-23",
+  "global": true,
+  "localName": "勤労感謝の日",
+  "name": "Labor Thanksgiving Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

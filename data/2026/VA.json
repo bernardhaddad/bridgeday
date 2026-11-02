@@ -1,0 +1,292 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Solennità di Maria Santissima Madre di Dio",
+  "name": "Solemnity of Mary, Mother of God",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-06",
+  "global": true,
+  "localName": "Epifania del Signore",
+  "name": "Epiphany",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-11",
+  "global": true,
+  "localName": "Anniversario della istituzione dello Stato della Città del Vaticano",
+  "name": "Anniversary of the Foundation of Vatican City",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-19",
+  "global": true,
+  "localName": "San Giuseppe",
+  "name": "Saint Joseph's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-02",
+  "global": true,
+  "localName": "Giovedì Santo",
+  "name": "Maundy Thursday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Venerdì Santo",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-04",
+  "global": true,
+  "localName": "Sabato Santo",
+  "name": "Holy Saturday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-05",
+  "global": true,
+  "localName": "Pasqua di Resurrezione",
+  "name": "Easter Sunday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-06",
+  "global": true,
+  "localName": "Lunedì dell'Angelo",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-07",
+  "global": true,
+  "localName": "Martedì in Albis",
+  "name": "Easter Tuesday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "San Giuseppe Artigiano",
+  "name": "Saint Joseph the Worker's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-08",
+  "global": true,
+  "localName": "Anniversario dell'Elezione del Santo Padre",
+  "name": "Anniversary of the Election of the Holy Father",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-14",
+  "global": true,
+  "localName": "Ascensione del Signore",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-24",
+  "global": true,
+  "localName": "Solennità della Pentecoste",
+  "name": "Solemnity of Pentecost",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-31",
+  "global": true,
+  "localName": "Solennità della Santissima Trinità",
+  "name": "Solemnity of Holy Trinity",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-04",
+  "global": true,
+  "localName": "Corpus Domini",
+  "name": "Corpus Domini",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-06-29",
+  "global": true,
+  "localName": "Santi Pietro e Paolo",
+  "name": "Saints Peter and Paul's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-14",
+  "global": true,
+  "localName": "Vigilia dell'Assunzione di Maria Santissima",
+  "name": "Day Before Assumption of Mary",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-15",
+  "global": true,
+  "localName": "Assunzione di Maria Santissima",
+  "name": "Assumption of Mary Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-16",
+  "global": true,
+  "localName": "Giorno Successivo all'Assunzione di Maria Santissima",
+  "name": "Day After Assumption of Mary",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-17",
+  "global": true,
+  "localName": "Onomastico del Santo Padre",
+  "name": "Name Day of the Holy Father",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-01",
+  "global": true,
+  "localName": "Tutti i Santi",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-02",
+  "global": true,
+  "localName": "Tutti i Fedeli Defunti",
+  "name": "All Souls' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-08",
+  "global": true,
+  "localName": "Immacolata Concezione",
+  "name": "Immaculate Conception",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-24",
+  "global": true,
+  "localName": "Vigilia di Natale",
+  "name": "Christmas Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Natale",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-26",
+  "global": true,
+  "localName": "Santo Stefano",
+  "name": "Saint Stephen's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-27",
+  "global": true,
+  "localName": "San Giovanni",
+  "name": "Saint John the Evangelist's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-31",
+  "global": true,
+  "localName": "Ultimo giorno dell'anno",
+  "name": "Last Day of the Year",
+  "types": [
+   "Public"
+  ]
+ }
+]

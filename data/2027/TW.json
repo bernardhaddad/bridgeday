@@ -1,0 +1,242 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "中華民國開國紀念日",
+  "name": "Founding Day of the Republic of China",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-04",
+  "global": true,
+  "localName": "農曆除夕",
+  "name": "Chinese New Year's Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-05",
+  "global": true,
+  "localName": "農曆除夕",
+  "name": "Chinese New Year's Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-06",
+  "global": true,
+  "localName": "春節",
+  "name": "Chinese New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-07",
+  "global": true,
+  "localName": "春節",
+  "name": "Chinese New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-08",
+  "global": true,
+  "localName": "春節",
+  "name": "Chinese New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-09",
+  "global": true,
+  "localName": "春節（補假）",
+  "name": "Chinese New Year (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-10",
+  "global": true,
+  "localName": "春節（補假）",
+  "name": "Chinese New Year (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-28",
+  "global": true,
+  "localName": "和平紀念日",
+  "name": "Peace Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-01",
+  "global": true,
+  "localName": "和平紀念日（補假）",
+  "name": "Peace Memorial Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-04",
+  "global": true,
+  "localName": "兒童節",
+  "name": "Children's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-05",
+  "global": true,
+  "localName": "民族掃墓節",
+  "name": "Tomb-Sweeping Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-06",
+  "global": true,
+  "localName": "兒童節（補假）",
+  "name": "Children's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-30",
+  "global": true,
+  "localName": "勞動節（補假）",
+  "name": "Labor Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "勞動節",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-09",
+  "global": true,
+  "localName": "端午節",
+  "name": "Dragon Boat Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-15",
+  "global": true,
+  "localName": "中秋節",
+  "name": "Mid-Autumn Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-09-28",
+  "global": true,
+  "localName": "孔子誕辰紀念日",
+  "name": "Confucius' Birthday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-10",
+  "global": true,
+  "localName": "國慶日",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-11",
+  "global": true,
+  "localName": "國慶日（補假）",
+  "name": "National Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-25",
+  "global": true,
+  "localName": "臺灣光復暨金門古寧頭大捷紀念日",
+  "name": "Taiwan Restoration and Guningtou Victory Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-24",
+  "global": true,
+  "localName": "行憲紀念日（補假）",
+  "name": "Constitution Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "行憲紀念日",
+  "name": "Constitution Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-31",
+  "global": true,
+  "localName": "中華民國開國紀念日（補假）",
+  "name": "Founding Day of the Republic of China (observed)",
+  "types": [
+   "Public"
+  ]
+ }
+]

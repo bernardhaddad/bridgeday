@@ -1,0 +1,102 @@
+[
+ {
+  "counties": null,
+  "date": "2028-01-01",
+  "global": true,
+  "localName": "元旦",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-26",
+  "global": true,
+  "localName": "農曆正月初一",
+  "name": "Chinese New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-27",
+  "global": true,
+  "localName": "農曆正月初二",
+  "name": "The second day of Chinese New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-01-28",
+  "global": true,
+  "localName": "農曆正月初三",
+  "name": "The third day of Chinese New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-04-04",
+  "global": true,
+  "localName": "清明節",
+  "name": "Tomb-Sweeping Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-05-01",
+  "global": true,
+  "localName": "勞動節",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-01",
+  "global": true,
+  "localName": "中華人民共和國國慶日",
+  "name": "National Day of the People's Republic of China",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-04",
+  "global": true,
+  "localName": "中秋節翌日",
+  "name": "The Day following Mid-Autumn Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-10-26",
+  "global": true,
+  "localName": "重陽節",
+  "name": "Double Ninth Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2028-12-20",
+  "global": true,
+  "localName": "澳門特別行政區成立紀念日",
+  "name": "Macao S.A.R. Establishment Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

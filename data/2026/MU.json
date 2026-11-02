@@ -1,0 +1,154 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "New Year's Day",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-02",
+  "global": true,
+  "localName": "Day after New Year's Day",
+  "name": "Day after New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-01",
+  "global": true,
+  "localName": "Abolition of Slavery",
+  "name": "Abolition of Slavery",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-01",
+  "global": true,
+  "localName": "Thaipoosam Cavadee",
+  "name": "Thaipusam",
+  "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-15",
+  "global": true,
+  "localName": "Maha Shivaratree",
+  "name": "Maha Shivaratri",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-17",
+  "global": true,
+  "localName": "Chinese Spring Festival",
+  "name": "Chinese Spring Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-12",
+  "global": true,
+  "localName": "Independence and Republic Day",
+  "name": "Independence and Republic Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-19",
+  "global": true,
+  "localName": "Ougadi",
+  "name": "Ugadi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "Eid-ul-Fitr (estimated)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Labour Day",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-15",
+  "global": true,
+  "localName": "Assumption of the Blessed Virgin Mary",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-15",
+  "global": true,
+  "localName": "Ganesh Chaturthi",
+  "name": "Ganesh Chaturthi",
+  "source": "https://pmo.govmu.org/Communique/GN_No._611-Amendment_to_Public_Holidays_2026.pdf",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-02",
+  "global": true,
+  "localName": "Arrival of Indentured Labourers",
+  "name": "Arrival of Indentured Laborers",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-08",
+  "global": true,
+  "localName": "Divali",
+  "name": "Diwali",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Christmas Day",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

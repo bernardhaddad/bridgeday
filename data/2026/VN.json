@@ -1,0 +1,142 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Tết Dương lịch",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-16",
+  "global": true,
+  "localName": "Giao thừa Tết Nguyên Đán",
+  "name": "Lunar New Year's Eve",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-17",
+  "global": true,
+  "localName": "Tết Nguyên Đán",
+  "name": "Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-18",
+  "global": true,
+  "localName": "Mùng hai Tết Nguyên Đán",
+  "name": "Second Day of Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-19",
+  "global": true,
+  "localName": "Mùng ba Tết Nguyên Đán",
+  "name": "Third Day of Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-20",
+  "global": true,
+  "localName": "Mùng bốn Tết Nguyên Đán",
+  "name": "Fourth Day of Lunar New Year",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-26",
+  "global": true,
+  "localName": "Ngày Giỗ Tổ Hùng Vương",
+  "name": "Hung Kings' Commemoration Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-27",
+  "global": true,
+  "localName": "Ngày Giỗ Tổ Hùng Vương (nghỉ bù)",
+  "name": "Hung Kings' Commemoration Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-30",
+  "global": true,
+  "localName": "Ngày Chiến thắng",
+  "name": "Liberation Day/Reunification Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Ngày Quốc tế Lao động",
+  "name": "International Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-31",
+  "global": true,
+  "localName": "Ngày nghỉ (thay cho ngày 22/08/2026)",
+  "name": "Day off (substituted from 08/22/2026)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-01",
+  "global": true,
+  "localName": "Quốc khánh",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-02",
+  "global": true,
+  "localName": "Quốc khánh",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-24",
+  "global": true,
+  "localName": "Ngày Văn hóa Việt Nam",
+  "name": "Vietnam Cultural Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

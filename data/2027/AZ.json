@@ -1,0 +1,262 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-01",
+  "global": true,
+  "localName": "Yeni il bayramı",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-02",
+  "global": true,
+  "localName": "Yeni il bayramı",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-04",
+  "global": true,
+  "localName": "Yeni il bayramı (müşahidə olunur)",
+  "name": "New Year's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-01-20",
+  "global": true,
+  "localName": "Ümumxalq hüzn günü",
+  "name": "Martyrs' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-08",
+  "global": true,
+  "localName": "Qadınlar günü",
+  "name": "Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-09",
+  "global": true,
+  "localName": "Ramazan bayrami (təxmini)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-10",
+  "global": true,
+  "localName": "Ramazan bayrami (təxmini)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-20",
+  "global": true,
+  "localName": "Novruz bayramı",
+  "name": "Spring Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-21",
+  "global": true,
+  "localName": "Novruz bayramı",
+  "name": "Spring Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-22",
+  "global": true,
+  "localName": "Novruz bayramı",
+  "name": "Spring Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-23",
+  "global": true,
+  "localName": "Novruz bayramı",
+  "name": "Spring Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-24",
+  "global": true,
+  "localName": "Novruz bayramı",
+  "name": "Spring Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-25",
+  "global": true,
+  "localName": "Novruz bayramı (müşahidə olunur)",
+  "name": "Spring Festival (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "Novruz bayramı (müşahidə olunur)",
+  "name": "Spring Festival (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-09",
+  "global": true,
+  "localName": "Faşizm üzərində qələbə günü",
+  "name": "Victory over Fascism Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-10",
+  "global": true,
+  "localName": "Faşizm üzərində qələbə günü (müşahidə olunur)",
+  "name": "Victory over Fascism Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-16",
+  "global": true,
+  "localName": "Qurban bayrami (təxmini)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "Qurban bayrami (təxmini)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-18",
+  "global": true,
+  "localName": "Qurban bayrami (müşahidə olunur, təxmini)",
+  "name": "Eid al-Adha (observed, estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-28",
+  "global": true,
+  "localName": "Müstəqillik Günü",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-15",
+  "global": true,
+  "localName": "Azərbaycan xalqının milli qurtuluş günü",
+  "name": "National Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-26",
+  "global": true,
+  "localName": "Azərbaycan Respublikasının Silahlı Qüvvələri günü",
+  "name": "Armed Forces Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-28",
+  "global": true,
+  "localName": "Azərbaycan Respublikasının Silahlı Qüvvələri günü (müşahidə olunur)",
+  "name": "Armed Forces Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-08",
+  "global": true,
+  "localName": "Zəfər Günü",
+  "name": "Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-11-09",
+  "global": true,
+  "localName": "Azərbaycan Respublikasının Dövlət bayrağı günü",
+  "name": "National Flag Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-31",
+  "global": true,
+  "localName": "Dünya azərbaycanlılarının həmrəyliyi günü",
+  "name": "International Azerbaijanis Solidarity Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

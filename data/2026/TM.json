@@ -1,0 +1,164 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Täze ýyl",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-08",
+  "global": true,
+  "localName": "Halkara zenanlar güni",
+  "name": "International Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-09",
+  "global": true,
+  "localName": "Halkara zenanlar güni (dynç güni)",
+  "name": "International Women's Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-20",
+  "global": true,
+  "localName": "Oraza baýramy (çak edilýär)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-21",
+  "global": true,
+  "localName": "Milli bahar baýramy",
+  "name": "Spring Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-22",
+  "global": true,
+  "localName": "Milli bahar baýramy",
+  "name": "Spring Festival",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-23",
+  "global": true,
+  "localName": "Milli bahar baýramy (dynç güni)",
+  "name": "Spring Festival (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-18",
+  "global": true,
+  "localName": "Türkmenistanyň Konstitusiýasynyň we Döwlet baýdagynyň güni",
+  "name": "Constitution and State Flag Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-27",
+  "global": true,
+  "localName": "Gurban baýramy (çak edilýär)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-28",
+  "global": true,
+  "localName": "",
+  "name": "Eid al-Adha",
+  "source": "https://www.saglykhm.gov.tm/habarlar/2026-njy-yylda-turkmenistanda-nace-dync-guni-bolar",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-29",
+  "global": true,
+  "localName": "",
+  "name": "Eid al-Adha",
+  "source": "https://turkmenistan.gov.tm/tk/habar/106533/turkmenistanyn-prezidentinin-permany-gurban-bayramyny-bellemek-hakynda-3",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-27",
+  "global": true,
+  "localName": "Türkmenistanyň Garaşsyzlyk güni",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-28",
+  "global": true,
+  "localName": "Iş güni däl",
+  "name": "Non-working day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-29",
+  "global": true,
+  "localName": "Türkmenistanyň Garaşsyzlyk güni (dynç güni)",
+  "name": "Independence Day (observed)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-10-06",
+  "global": true,
+  "localName": "Hatyra güni",
+  "name": "Memorial Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-12",
+  "global": true,
+  "localName": "Halkara Bitaraplyk güni",
+  "name": "International Neutrality Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

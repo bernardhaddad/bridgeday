@@ -1,0 +1,215 @@
+[
+ {
+  "counties": null,
+  "date": "2027-01-24",
+  "global": true,
+  "localName": "শবে বরাত (আনুমানিক)",
+  "name": "Mid-Sha'ban (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-02-21",
+  "global": true,
+  "localName": "শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস",
+  "name": "Martyrs' Day and International Mother Language Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-05",
+  "global": true,
+  "localName": "জুমাতুল বিদা (আনুমানিক)",
+  "name": "Jumu'atul-Wida (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-07",
+  "global": true,
+  "localName": "শবে কদর (আনুমানিক)",
+  "name": "Laylat al-Qadr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-10",
+  "global": true,
+  "localName": "ঈদুল ফিতর (আনুমানিক)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-11",
+  "global": true,
+  "localName": "ঈদুল ফিতর (আনুমানিক)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-12",
+  "global": true,
+  "localName": "ঈদুল ফিতর (আনুমানিক)",
+  "name": "Eid al-Fitr (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-03-26",
+  "global": true,
+  "localName": "স্বাধীনতা দিবস",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-04-14",
+  "global": true,
+  "localName": "পহেলা বৈশাখ",
+  "name": "Bengali New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-01",
+  "global": true,
+  "localName": "মে দিবস",
+  "name": "May Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-17",
+  "global": true,
+  "localName": "ঈদুল আজহা (আনুমানিক)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-18",
+  "global": true,
+  "localName": "ঈদুল আজহা (আনুমানিক)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-19",
+  "global": true,
+  "localName": "ঈদুল আজহা (আনুমানিক)",
+  "name": "Eid al-Adha (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-05-20",
+  "global": true,
+  "localName": "",
+  "name": "Buddha Purnima (estimated)",
+  "source": "https://www.officeholidays.com/countries/bangladesh/2027",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-06-16",
+  "global": true,
+  "localName": "আশুরা (আনুমানিক)",
+  "name": "Ashura (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-05",
+  "global": true,
+  "localName": "জুলাই গণ-অভ্যুত্থান দিবস",
+  "name": "July Mass Uprising Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-15",
+  "global": true,
+  "localName": "ঈদে মিলাদুন্নবী (আনুমানিক)",
+  "name": "Prophet's Birthday (estimated)",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-08-25",
+  "global": true,
+  "localName": "",
+  "name": "Janmashtami (estimated)",
+  "source": "https://cgbdsydney.gov.bd/about-us/holidays/",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-10-09",
+  "global": true,
+  "localName": "",
+  "name": "Durga Puja (Bijoya Dashami) (estimated)",
+  "source": "https://www.thedailystar.net/news/bangladesh/news/govt-announces-official-list-public-holidays-2026-4031596",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-16",
+  "global": true,
+  "localName": "বিজয় দিবস",
+  "name": "Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2027-12-25",
+  "global": true,
+  "localName": "বড়দিন",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

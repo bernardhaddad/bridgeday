@@ -1,0 +1,152 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Dia do Ano Novo",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-01-02",
+  "global": true,
+  "localName": "Dia do Ano Novo (ponte)",
+  "name": "Day off for New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-04",
+  "global": true,
+  "localName": "Dia do Início da Luta Armada de Libertação Nacional",
+  "name": "Liberation Movement Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-16",
+  "global": true,
+  "localName": "Dia do Carnaval (ponte)",
+  "name": "Day off for Carnival Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-02-17",
+  "global": true,
+  "localName": "Dia do Carnaval",
+  "name": "Carnival Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-08",
+  "global": true,
+  "localName": "Dia Internacional da Mulher",
+  "name": "International Women's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-03-23",
+  "global": true,
+  "localName": "Dia da Libertação da África Austral",
+  "name": "Southern Africa Liberation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-03",
+  "global": true,
+  "localName": "Sexta-Feira Santa",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-04-04",
+  "global": true,
+  "localName": "Dia da Paz e Reconciliação Nacional",
+  "name": "Peace and National Reconciliation Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-01",
+  "global": true,
+  "localName": "Dia Internacional do Trabalhador",
+  "name": "International Worker's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-17",
+  "global": true,
+  "localName": "Dia do Fundador da Nação e do Herói Nacional",
+  "name": "National Heroes' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-09-18",
+  "global": true,
+  "localName": "Dia do Fundador da Nação e do Herói Nacional (ponte)",
+  "name": "Day off for National Heroes' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-02",
+  "global": true,
+  "localName": "Dia dos Finados",
+  "name": "All Souls' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-11-11",
+  "global": true,
+  "localName": "Dia da Independência Nacional",
+  "name": "National Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Dia de Natal e da Família",
+  "name": "Christmas and Family Day",
+  "types": [
+   "Public"
+  ]
+ }
+]

@@ -1,0 +1,432 @@
+[
+ {
+  "counties": null,
+  "date": "2026-01-01",
+  "global": true,
+  "localName": "Neujahrstag",
+  "name": "New Year's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-AG",
+   "CH-BE",
+   "CH-JU",
+   "CH-LU",
+   "CH-TG",
+   "CH-VD",
+   "CH-Stadt Zurich"
+  ],
+  "date": "2026-01-02",
+  "global": false,
+  "localName": "Saint Berchtold's Day",
+  "name": "Saint Berchtold's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-SZ",
+   "CH-TI",
+   "CH-UR"
+  ],
+  "date": "2026-01-06",
+  "global": false,
+  "localName": "Epiphany",
+  "name": "Epiphany",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-NE"
+  ],
+  "date": "2026-03-01",
+  "global": false,
+  "localName": "Republic Day",
+  "name": "Republic Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-NW",
+   "CH-SZ",
+   "CH-TI",
+   "CH-UR",
+   "CH-VS"
+  ],
+  "date": "2026-03-19",
+  "global": false,
+  "localName": "Saint Joseph's Day",
+  "name": "Saint Joseph's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-AG",
+   "CH-AI",
+   "CH-AR",
+   "CH-BE",
+   "CH-BL",
+   "CH-BS",
+   "CH-FR",
+   "CH-GE",
+   "CH-GL",
+   "CH-JU",
+   "CH-LU",
+   "CH-NE",
+   "CH-NW",
+   "CH-OW",
+   "CH-SG",
+   "CH-SH",
+   "CH-SO",
+   "CH-SZ",
+   "CH-TG",
+   "CH-UR",
+   "CH-VD",
+   "CH-ZG",
+   "CH-ZH",
+   "CH-Stadt Zurich"
+  ],
+  "date": "2026-04-03",
+  "global": false,
+  "localName": "Good Friday",
+  "name": "Good Friday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-AG",
+   "CH-AI",
+   "CH-AR",
+   "CH-BE",
+   "CH-BL",
+   "CH-BS",
+   "CH-GE",
+   "CH-GL",
+   "CH-GR",
+   "CH-JU",
+   "CH-LU",
+   "CH-SG",
+   "CH-SH",
+   "CH-SZ",
+   "CH-TG",
+   "CH-TI",
+   "CH-UR",
+   "CH-VD",
+   "CH-ZH",
+   "CH-Stadt Zurich"
+  ],
+  "date": "2026-04-06",
+  "global": false,
+  "localName": "Easter Monday",
+  "name": "Easter Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-GL"
+  ],
+  "date": "2026-04-09",
+  "global": false,
+  "localName": "Battle of Naefels Victory Day",
+  "name": "Battle of Naefels Victory Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-AG",
+   "CH-BL",
+   "CH-BS",
+   "CH-JU",
+   "CH-NE",
+   "CH-SH",
+   "CH-TG",
+   "CH-TI",
+   "CH-ZH",
+   "CH-Stadt Zurich"
+  ],
+  "date": "2026-05-01",
+  "global": false,
+  "localName": "Labor Day",
+  "name": "Labor Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-05-14",
+  "global": true,
+  "localName": "Auffahrt",
+  "name": "Ascension Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-AG",
+   "CH-AI",
+   "CH-AR",
+   "CH-BE",
+   "CH-BL",
+   "CH-BS",
+   "CH-GE",
+   "CH-GL",
+   "CH-GR",
+   "CH-JU",
+   "CH-LU",
+   "CH-SG",
+   "CH-SH",
+   "CH-SZ",
+   "CH-TG",
+   "CH-TI",
+   "CH-UR",
+   "CH-VD",
+   "CH-ZH",
+   "CH-Stadt Zurich"
+  ],
+  "date": "2026-05-25",
+  "global": false,
+  "localName": "Pentecost Monday",
+  "name": "Pentecost Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-AG",
+   "CH-AI",
+   "CH-JU",
+   "CH-LU",
+   "CH-NE",
+   "CH-NW",
+   "CH-OW",
+   "CH-SZ",
+   "CH-TI",
+   "CH-UR",
+   "CH-VS",
+   "CH-ZG"
+  ],
+  "date": "2026-06-04",
+  "global": false,
+  "localName": "Corpus Christi",
+  "name": "Corpus Christi",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-JU"
+  ],
+  "date": "2026-06-23",
+  "global": false,
+  "localName": "Independence Day",
+  "name": "Independence Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-TI"
+  ],
+  "date": "2026-06-29",
+  "global": false,
+  "localName": "Saints Peter and Paul",
+  "name": "Saints Peter and Paul",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-08-01",
+  "global": true,
+  "localName": "Nationalfeiertag",
+  "name": "National Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-AG",
+   "CH-AI",
+   "CH-JU",
+   "CH-LU",
+   "CH-NW",
+   "CH-OW",
+   "CH-SZ",
+   "CH-TI",
+   "CH-UR",
+   "CH-VS",
+   "CH-ZG"
+  ],
+  "date": "2026-08-15",
+  "global": false,
+  "localName": "Assumption Day",
+  "name": "Assumption Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-GE"
+  ],
+  "date": "2026-09-10",
+  "global": false,
+  "localName": "Genevan Fast",
+  "name": "Genevan Fast",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-Stadt Zurich"
+  ],
+  "date": "2026-09-14",
+  "global": false,
+  "localName": "Knabenschiessen",
+  "name": "Knabenschiessen",
+  "source": "https://www.suedostschweiz.ch/panorama/knabenschiessen-2026-ist-am-montag-feiertag-nicht-fuer-alle-zuercher-2157355",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-VD"
+  ],
+  "date": "2026-09-21",
+  "global": false,
+  "localName": "Prayer Monday",
+  "name": "Prayer Monday",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-OW"
+  ],
+  "date": "2026-09-25",
+  "global": false,
+  "localName": "Saint Nicholas of Flüe",
+  "name": "Saint Nicholas of Flüe",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-AG",
+   "CH-AI",
+   "CH-GL",
+   "CH-JU",
+   "CH-LU",
+   "CH-NW",
+   "CH-OW",
+   "CH-SG",
+   "CH-SZ",
+   "CH-TI",
+   "CH-UR",
+   "CH-VS",
+   "CH-ZG"
+  ],
+  "date": "2026-11-01",
+  "global": false,
+  "localName": "All Saints' Day",
+  "name": "All Saints' Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-AG",
+   "CH-AI",
+   "CH-LU",
+   "CH-NW",
+   "CH-OW",
+   "CH-SZ",
+   "CH-TI",
+   "CH-UR",
+   "CH-VS",
+   "CH-ZG"
+  ],
+  "date": "2026-12-08",
+  "global": false,
+  "localName": "Immaculate Conception",
+  "name": "Immaculate Conception",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": null,
+  "date": "2026-12-25",
+  "global": true,
+  "localName": "Weihnachten",
+  "name": "Christmas Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-AG",
+   "CH-BE",
+   "CH-BL",
+   "CH-BS",
+   "CH-GL",
+   "CH-GR",
+   "CH-LU",
+   "CH-SG",
+   "CH-SH",
+   "CH-SZ",
+   "CH-TG",
+   "CH-TI",
+   "CH-ZH",
+   "CH-Stadt Zurich"
+  ],
+  "date": "2026-12-26",
+  "global": false,
+  "localName": "Saint Stephen's Day",
+  "name": "Saint Stephen's Day",
+  "types": [
+   "Public"
+  ]
+ },
+ {
+  "counties": [
+   "CH-GE"
+  ],
+  "date": "2026-12-31",
+  "global": false,
+  "localName": "Restoration Day",
+  "name": "Restoration Day",
+  "types": [
+   "Public"
+  ]
+ }
+]
